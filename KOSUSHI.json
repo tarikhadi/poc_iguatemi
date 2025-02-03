@@ -1,0 +1,143 @@
+{
+  "loja": {
+    "razao_social": "KO RESTAURANTE CAMPINAS LTDA",
+    "nome_fantasia": "Kosushi",
+    "cnpj": "47.871.875/0001-22",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "carlos@kosushi.com.br",
+      "telefone": "(11) 97524-1044"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "22759",
+      "objeto": {
+        "loja": "D/4",
+        "quadra": "",
+        "piso": "1°",
+        "area_privativa": "369,07 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Carlos Augusto Carvalho",
+          "cnpj": "761.185.178-00"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2022",
+        "data_final": "31/08/2032",
+        "prazo": "10 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Carência e Inauguração",
+      "numero_aditamento": "27801",
+      "data_aditamento": "31/01/2023",
+      "vigencia": {
+        "inicio": "01/09/2022",
+        "fim": "31/08/2032"
+      },
+      "alteracoes": {
+        "locataria": "KO RESTAURANTE CAMPINAS LTDA",
+        "cnpj": "47.871.875/0001-22"
+      },
+      "condicoes_especiais": "Carência no pagamento da contribuição mínima mensal reajustável de 01/09/2022 até 30/11/2022."
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "BAB968B4-2D78-4417-ACA1-10635533479B",
+      "data_aditamento": "19/08/2024",
+      "vigencia": {
+        "inicio": "01/06/2024",
+        "fim": "30/11/2024"
+      },
+      "alteracoes": {
+        "desconto_contribuicao_minima": {
+          "01/06/2024 a 31/07/2024": "70%",
+          "01/08/2024 a 30/11/2024": "25%"
+        }
+      },
+      "condicoes_especiais": "Desconto para apoio nas despesas incorridas com a obra/reforma realizada na loja."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "27/07/2022",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "22759",
+      "principais_alteracoes": [
+        "Assinatura do contrato de locação inicial."
+      ]
+    },
+    {
+      "data": "31/01/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "27801",
+      "principais_alteracoes": [
+        "Alteração da locatária para KO RESTAURANTE CAMPINAS LTDA.",
+        "Concessão de carência no pagamento da contribuição mínima mensal reajustável."
+      ]
+    },
+    {
+      "data": "19/08/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "BAB968B4-2D78-4417-ACA1-10635533479B",
+      "principais_alteracoes": [
+        "Concessão de desconto na contribuição mínima mensal reajustável para apoio nas despesas de obra/reforma."
+      ]
+    }
+  ]
+}

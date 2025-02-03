@@ -1,0 +1,123 @@
+{
+  "loja": {
+    "razao_social": "Lindt & Sprungli (Brazil) Comércio de Alimentos S.A.",
+    "nome_fantasia": "LINDT",
+    "cnpj": "20.702.154/0001-32",
+    "endereco": {
+      "logradouro": "Rua João Lourenço",
+      "numero": "746",
+      "bairro": "Vila Nova Conceição",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04508031"
+    },
+    "contato": {
+      "email": "renata.moraes@grupocrm.com.br",
+      "telefone": "1143697200"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "4034",
+      "objeto": {
+        "loja": "134A",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "50,73 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP-Administradora de Empreendimentos Ltda.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Lindt & Sprungli (Brazil) Comércio de Alimentos S.A.",
+          "cnpj": "20.702.154/0001-32"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "30/04/2020",
+        "data_final": "29/04/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "14.649,51",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "786"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "Durante a vigência do contrato"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "1",
+      "data_aditamento": "09/10/2024",
+      "vigencia": {
+        "inicio": "30/04/2020",
+        "fim": "29/10/2025"
+      },
+      "alteracoes": {
+        "aluguel_minimo_mensal": {
+          "valor": "473,20",
+          "data_base": "Janeiro/2022"
+        },
+        "aluguel_minimo_mensal_dezembro": "Não será devido em dobro"
+      },
+      "condicoes_especiais": "Não aplicável"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "01/11/2019",
+      "tipo": "Renovação de Contrato",
+      "numero_documento": "4034",
+      "principais_alteracoes": [
+        "Renovação do contrato por 5 anos",
+        "Aluguel mínimo mensal reajustável em abril/2019 - R$ 14.649,51"
+      ]
+    },
+    {
+      "data": "09/10/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "1",
+      "principais_alteracoes": [
+        "Aluguel mínimo mensal reajustável em janeiro/2022 - R$ 473,20",
+        "Aluguel mínimo mensal em dezembro não será devido em dobro"
+      ]
+    }
+  ]
+}

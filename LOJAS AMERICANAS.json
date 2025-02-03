@@ -1,0 +1,120 @@
+{
+  "loja": {
+    "razao_social": "Lojas Americanas S.A.",
+    "nome_fantasia": "Lojas Americanas",
+    "cnpj": "33.014.556/0001-96",
+    "endereco": {
+      "logradouro": "Rua Sacadura Cabral",
+      "numero": "102",
+      "bairro": "Gamboa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": ""
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "30081983",
+      "objeto": {
+        "loja": "A-1",
+        "quadra": "",
+        "piso": "Pavimento térreo superior (laranja)",
+        "area_privativa": "2.531,25m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Av. Iguatemi 777 Jardim Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "La Fonte Empresa de Shopping Centers Ltda.",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Lojas Americanas S.A.",
+          "cnpj": "33.014.556/0001-96"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/1983",
+        "data_final": "06/05/1995",
+        "prazo": "11 anos, 8 meses e 6 dias"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Cr$ 1.588.359,46",
+            "indice_reajuste": "ORTN",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "3.5%",
+            "base_calculo": "Movimento de vendas brutas"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "60% no primeiro ano, 70% no segundo ano, 80% no terceiro ano, 90% no quarto ano, 100% a partir do quinto ano"
+          },
+          "fundo_promocao": {
+            "percentual": "10%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não se aplica à locatária as cláusulas 5.12, 5.14 e 5.20"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento",
+      "numero_aditamento": "R379.21",
+      "data_aditamento": "01/11/2021",
+      "vigencia": {
+        "inicio": "07/05/2006",
+        "fim": ""
+      },
+      "alteracoes": {
+        "aluguel_percentual": "3% sobre a venda bruta",
+        "data_pagamento": "Dia 6 do mês subsequente"
+      },
+      "condicoes_especiais": "Não aplicável"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "26/11/2019",
+      "tipo": "Renovação",
+      "numero_documento": "1047648-49.2016.8.26.0114",
+      "principais_alteracoes": [
+        "Renovação da relação locatícia da loja A-1 até 06/05/2028",
+        "Valor locativo ajustado para R$ 108.869,06 a partir de 07/05/2017"
+      ]
+    },
+    {
+      "data": "13/09/2021",
+      "tipo": "Aditamento",
+      "numero_documento": "A3118422-905B-44C6-AEFE-BBD5C849C9BC",
+      "principais_alteracoes": [
+        "Alteração do aluguel percentual para 3% sobre a venda bruta",
+        "Data de pagamento do aluguel alterada para o dia 6 do mês subsequente"
+      ]
+    }
+  ]
+}

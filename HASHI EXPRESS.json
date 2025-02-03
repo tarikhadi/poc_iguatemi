@@ -1,0 +1,117 @@
+{
+  "loja": {
+    "razao_social": "PEDRO FERNANDES FRAGOSO DE LIMA",
+    "nome_fantasia": "HASHI EXPRESS",
+    "cnpj": "580.205.944-34",
+    "endereco": {
+      "logradouro": "R. Mogambique",
+      "numero": "1858",
+      "bairro": "Parque Paraiso",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "06852-550"
+    },
+    "contato": {
+      "email": "pedro.fragoso@grupopug.com.br",
+      "telefone": "(11) 96802-1133"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "15283",
+      "objeto": {
+        "loja": "12",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "29,64m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas, SP, CEP 13.092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PEDRO FERNANDES FRAGOSO DE LIMA",
+          "cnpj": "580.205.944-34"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01.06.2024",
+        "data_final": "31.12.9999",
+        "prazo": "Indeterminado"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "14.820,00",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "Não especificado",
+      "data_aditamento": "09.10.2024",
+      "vigencia": {
+        "inicio": "01.06.2024",
+        "fim": "21.10.2024"
+      },
+      "alteracoes": {
+        "carencia": "Período de carência estendido até 21 de outubro de 2024"
+      },
+      "condicoes_especiais": "Caso o locatário não conclua as obras no período determinado, a carência será desconsiderada."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "18.03.2024",
+      "tipo": "Contrato Original",
+      "numero_documento": "15283",
+      "principais_alteracoes": [
+        "Contrato de locação inicial firmado."
+      ]
+    },
+    {
+      "data": "09.10.2024",
+      "tipo": "Aditamento",
+      "numero_documento": "Não especificado",
+      "principais_alteracoes": [
+        "Extensão do período de carência até 21 de outubro de 2024."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Elegancia Distribuidora de Cosmeticos Ltda",
+    "nome_fantasia": "MAC",
+    "cnpj": "08.377.511/0008-05",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "msantos@br.maccomsmetics.com",
+      "telefone": "11-3143-5668"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10595",
+      "objeto": {
+        "loja": "135A",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "67,19 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Elegancia Distribuidora de Cosmeticos Ltda",
+          "cnpj": "08.377.511/0008-05"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2021",
+        "data_final": "31/08/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "43.175,00",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "5%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fianca bancaria",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "A locatária obriga-se a não instalar ou manter qualquer outro estabelecimento com o mesmo ramo dentro do raio estipulado."
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Distrato de Locação",
+      "numero_aditamento": "12804-34485",
+      "data_aditamento": "06/09/2023",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "descricao": "Extinção do contrato de locação e quitação mútua de obrigações."
+      },
+      "condicoes_especiais": "O distrato é feito em caráter irrevogável e irretratável."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "19/04/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "10595",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 01/09/2021.",
+        "Aluguel percentual de 5% do faturamento bruto."
+      ]
+    },
+    {
+      "data": "06/09/2023",
+      "tipo": "Distrato de Locação",
+      "numero_documento": "12804-34485",
+      "principais_alteracoes": [
+        "Extinção do contrato de locação.",
+        "Quitação mútua de obrigações."
+      ]
+    }
+  ]
+}

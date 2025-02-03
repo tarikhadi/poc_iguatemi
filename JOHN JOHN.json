@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "VESTE S.A. ESTILO",
+    "nome_fantasia": "JOHN JOHN",
+    "cnpj": "49.669.856/0001-43",
+    "endereco": {
+      "logradouro": "Rua Othao",
+      "numero": "405",
+      "bairro": "Vila Leopoldina",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "05313-020"
+    },
+    "contato": {
+      "email": "aluguel@veste.com",
+      "telefone": "(11) 2149-2500"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "33415",
+      "objeto": {
+        "loja": "F-2B2",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "114,75m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "VESTE S.A. ESTILO",
+          "cnpj": "49.669.856/0001-43"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "08/06/2023",
+        "data_final": "07/06/2028",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 36.720,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.457"
+          },
+          "fundo_promocao": {
+            "percentual": "10%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "não especificado",
+          "vigencia": "enquanto durar a locação"
+        },
+        "exclusividade": "A locatária não pode instalar ou manter outro estabelecimento com o mesmo ramo dentro de um determinado território."
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "N/A",
+      "data_aditamento": "19/07/2023",
+      "vigencia": {
+        "inicio": "19/07/2023",
+        "fim": "07/06/2028"
+      },
+      "alteracoes": {
+        "carencia": "Concedida carência para obras, com condições específicas de pagamento do aluguel mínimo mensal reajustável."
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato de locação em vigor."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "18/07/2023",
+      "tipo": "Distrato de Locação",
+      "numero_documento": "33415",
+      "principais_alteracoes": [
+        "Extinção da locação da loja 23-07A;23-08.",
+        "Distrato em vigor a partir de 10/09/2023."
+      ]
+    },
+    {
+      "data": "19/07/2023",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Concessão de carência para obras.",
+        "Ratificação dos termos do contrato de locação em vigor."
+      ]
+    }
+  ]
+}

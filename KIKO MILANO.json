@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "KIKO COSMETICS BRASIL LTDA",
+    "nome_fantasia": "KIKO MILANO",
+    "cnpj": "23.638.391/0001-70",
+    "endereco": {
+      "logradouro": "Rua Doutor Renato Paes de Barros",
+      "numero": "717",
+      "bairro": "Itaim Bibi",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "felipe.arruda@kikocosmetics.com",
+      "telefone": "(11) 4327-5007"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "SCIC - 16027",
+      "objeto": {
+        "loja": "02/03/03A-1",
+        "quadra": "01",
+        "piso": "2",
+        "area_privativa": "99,75m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "KIKO COSMETICS BRASIL LTDA",
+          "cnpj": "23.638.391/0001-70"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "SCIC - 16567-43848",
+      "data_aditamento": "26 de junho de 2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "carencia": "Concedida carência para obras, com prazo a ser determinado pela inauguração da loja.",
+        "reajuste": "Reajustes não sofrerão alterações devido à carência."
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "07 de maio de 2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "SCIC - 16027",
+      "principais_alteracoes": [
+        "Estabelecimento de cláusulas de carência para obras.",
+        "Definição de condições para reajuste do aluguel."
+      ]
+    },
+    {
+      "data": "26 de junho de 2024",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 16567-43848",
+      "principais_alteracoes": [
+        "Ratificação das condições de carência e reajuste."
+      ]
+    }
+  ]
+}

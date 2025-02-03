@@ -1,0 +1,121 @@
+{
+  "loja": {
+    "razao_social": "Kipling Bags Comercial Ltda",
+    "nome_fantasia": "Kipling",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Alameda Itu",
+      "numero": "93",
+      "bairro": "Cerqueira César",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01421-001"
+    },
+    "contato": {
+      "email": "augustoernani@grupoaste.com.br",
+      "telefone": "11 2166-8888"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "14816",
+      "objeto": {
+        "loja": "25",
+        "quadra": "02",
+        "piso": "2",
+        "area_privativa": "140,63m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "Kipling Bags Comercial Ltda",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "16/10/2015",
+        "data_final": "15/01/2021",
+        "prazo": "5 anos e 3 meses"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "1.012,33",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "15%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Fiança de Augusto Salvador Garcia Ernani e Eda Conegero Ernani",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "177-20",
+      "data_aditamento": "03/04/2020",
+      "vigencia": {
+        "inicio": "16/10/2015",
+        "fim": "15/04/2021"
+      },
+      "alteracoes": {
+        "prazo": "5 anos e 6 meses",
+        "vigencia": {
+          "inicio": "16/10/2015",
+          "fim": "15/04/2021"
+        }
+      },
+      "condicoes_especiais": "Aditamento para postergação da vigência por mais 3 meses, com término previsto em 15/04/2021."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "03/04/2020",
+      "tipo": "Aditamento",
+      "numero_documento": "177-20",
+      "principais_alteracoes": [
+        "Prorrogação do prazo de vigência do contrato por mais 3 meses, com término em 15/04/2021."
+      ]
+    },
+    {
+      "data": "31/05/2022",
+      "tipo": "Renovação",
+      "numero_documento": "14816",
+      "principais_alteracoes": [
+        "Renovação do contrato com início de vigência em 16/04/2021."
+      ]
+    }
+  ]
+}

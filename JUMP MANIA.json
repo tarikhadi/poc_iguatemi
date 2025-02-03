@@ -1,0 +1,130 @@
+{
+  "loja": {
+    "razao_social": "G.L. MANIA PARQUE DE DIVERSOES LTDA",
+    "nome_fantasia": "JUMP MANIA",
+    "cnpj": "19890503000108",
+    "endereco": {
+      "logradouro": "Av Iguatemi",
+      "numero": "777",
+      "bairro": "",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13.092-902"
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "SCIC 21-01",
+      "objeto": {
+        "loja": "21-01",
+        "quadra": "21",
+        "piso": "3",
+        "area_privativa": "605,03",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Av Iguatemi, 777, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Shopping Center Iguatemi Campinas",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "G.L. MANIA PARQUE DE DIVERSOES LTDA",
+          "cnpj": "19890503000108"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/02/2022",
+        "data_final": "04/02/2025",
+        "prazo": "3 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento Desconto",
+      "numero_aditamento": "17728",
+      "data_aditamento": "12/09/2024",
+      "vigencia": {
+        "inicio": "01/08/2024",
+        "fim": "31/08/2024"
+      },
+      "alteracoes": {
+        "desconto": "Aluguel Minimo 77,50%"
+      },
+      "condicoes_especiais": "Desconto válido apenas se pago pontualmente."
+    },
+    {
+      "tipo": "Aditamento Alteração",
+      "numero_aditamento": "17336-45396",
+      "data_aditamento": "15/08/2024",
+      "vigencia": {
+        "inicio": "01/08/2024",
+        "fim": ""
+      },
+      "alteracoes": {
+        "aluguel_percentual": "5,00% do faturamento bruto"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "12/09/2024",
+      "tipo": "Aditamento Desconto",
+      "numero_documento": "17728",
+      "principais_alteracoes": [
+        "Concessão de desconto de 77,50% no aluguel mínimo para agosto de 2024."
+      ]
+    },
+    {
+      "data": "15/08/2024",
+      "tipo": "Aditamento Alteração",
+      "numero_documento": "17336-45396",
+      "principais_alteracoes": [
+        "Alteração do aluguel percentual para 5,00% do faturamento bruto a partir de 01/08/2024."
+      ]
+    }
+  ]
+}

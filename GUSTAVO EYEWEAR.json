@@ -1,0 +1,109 @@
+{
+  "loja": {
+    "razao_social": "GUSTAVO DA SILVA GONÇALVES",
+    "nome_fantasia": "GUSTAVO EYEWEAR",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Sacopa",
+      "numero": "499",
+      "bairro": "Lagoa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22471-180"
+    },
+    "contato": {
+      "email": "jarnaldogoncalves13@gmail.com",
+      "telefone": "(21) 99466-4125"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "17332",
+      "objeto": {
+        "loja": "04",
+        "quadra": "07",
+        "piso": "2",
+        "area_privativa": "38,07 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas/SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Shopping Center Iguatemi Campinas",
+          "cnpj": "03.186.025/0001-10",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "GUSTAVO DA SILVA GONÇALVES",
+          "cnpj": "038.802.687-11"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/09/2021",
+        "data_final": "14/09/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiadores: João Arnaldo Gonçalves Junior e Rachel Cristhina Gondim Bell Gonçalves",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "45403",
+      "data_aditamento": "14/11/2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "exoneracao_fiadores": "João Arnaldo Gonçalves Junior e Rachel Cristhina Gondim Bell Gonçalves"
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "12/08/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "45403",
+      "principais_alteracoes": [
+        "Exoneração dos fiadores João Arnaldo Gonçalves Junior e Rachel Cristhina Gondim Bell Gonçalves"
+      ]
+    }
+  ]
+}

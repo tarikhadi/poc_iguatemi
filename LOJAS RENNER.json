@@ -1,0 +1,130 @@
+{
+  "loja": {
+    "razao_social": "Lojas Renner S/A",
+    "nome_fantasia": "LOJAS RENNER",
+    "cnpj": "92.754.738/0001-62",
+    "endereco": {
+      "logradouro": "Avenida Joaquim Porto Villanova",
+      "numero": "401",
+      "bairro": "Jardim do Salso",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "91410-4060"
+    },
+    "contato": {
+      "email": "",
+      "telefone": "51 82115082"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "RSCIC0074/14",
+      "objeto": {
+        "loja": "C",
+        "quadra": "",
+        "piso": "1 e 2",
+        "area_privativa": "5.421,00m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi n° 777 - Vila Brandina, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "Lojas Renner S/A",
+          "cnpj": "92.754.738/0001-62"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "14/09/2010",
+        "data_final": "13/09/2015",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 89.534,84",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "2,50%",
+            "base_calculo": "Faturamento Bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não aplicável"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "2.000 m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato",
+      "numero_aditamento": "220-14",
+      "data_aditamento": "15/05/2014",
+      "vigencia": {
+        "inicio": "01/05/2014",
+        "fim": "28/02/2015"
+      },
+      "alteracoes": {
+        "aluguel_minimo_mensal": {
+          "desconto": "25,89%",
+          "condicoes": "Desconto condicionado ao pagamento regular dos encargos"
+        }
+      },
+      "condicoes_especiais": "Desconto condicionado à devolução do instrumento assinado em 10 dias"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "15/09/2022",
+      "tipo": "Sentença Judicial",
+      "numero_documento": "1007650-35.2020.8.26.0114",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais 5 anos, de 14/09/2020 a 13/09/2025",
+        "Aluguel mínimo mensal ajustado para R$ 173.018,67"
+      ]
+    },
+    {
+      "data": "11/02/2014",
+      "tipo": "Renovação de Contrato",
+      "numero_documento": "RSCIC0074/14",
+      "principais_alteracoes": [
+        "Renovação aprovada em 09/12/2013",
+        "Aluguel mínimo mensal reajustável definido"
+      ]
+    },
+    {
+      "data": "15/05/2014",
+      "tipo": "Aditamento de Contrato",
+      "numero_documento": "220-14",
+      "principais_alteracoes": [
+        "Desconto de 25,89% no aluguel mínimo mensal de 01/05/2014 a 28/02/2015"
+      ]
+    }
+  ]
+}

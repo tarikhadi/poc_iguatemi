@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "JC BROTHERS IMPORTACAO, EXPORTACAO E COMERCIO DE BRINQUEDOS LTDA.",
+    "nome_fantasia": "JC KIDS",
+    "cnpj": "03.744.425/0001-01",
+    "endereco": {
+      "logradouro": "Av. Pedro Severino Junior",
+      "numero": "57",
+      "bairro": "Vila Guarani",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "controller@brokerdistribui.com.br",
+      "telefone": "(11) 99999-5484"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "14874",
+      "objeto": {
+        "loja": "02C",
+        "quadra": "11",
+        "piso": "1°",
+        "area_privativa": "201,55m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "JC BROTHERS IMPORTACAO, EXPORTACAO E COMERCIO DE BRINQUEDOS LTDA.",
+          "cnpj": "03.744.425/0001-01"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "09/02/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "14874",
+      "principais_alteracoes": [
+        "Cláusula 11: Aluguel mínimo mensal reajustável conforme quadro resumo.",
+        "Cláusula 22: Taxa de transferência não devida em caso de transferência para empresa do mesmo grupo econômico."
+      ]
+    }
+  ]
+}
