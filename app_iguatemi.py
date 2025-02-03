@@ -67,7 +67,7 @@ def load_documents(directory_path: str):
         # Initialize embedding function and collection
         embedding_function = embedding_functions.OpenAIEmbeddingFunction(model_name="text-embedding-3-small", api_key=OPENAI_API_KEY)
         
-        chroma_client = chromadb.PersistentClient(path="./chroma_db")
+        chroma_client = chromadb.PersistentClient()
         collection = chroma_client.get_or_create_collection(
             name="contracts",
             embedding_function=embedding_function
