@@ -65,7 +65,10 @@ def load_documents(directory_path: str):
     """Load documents with enhanced metadata handling."""
     try:
         # Initialize embedding function and collection
-        embedding_function = embedding_functions.OpenAIEmbeddingFunction(model_name="text-embedding-3-small", api_key=OPENAI_API_KEY)
+        embedding_function = embedding_functions.OpenAIEmbeddingFunction(
+            model_name="text-embedding-3-small",
+            api_key=OPENAI_API_KEY
+        )
         
         chroma_client = chromadb.PersistentClient()
         collection = chroma_client.get_or_create_collection(
@@ -73,9 +76,10 @@ def load_documents(directory_path: str):
             embedding_function=embedding_function
         )
         
-        # Clear existing documents if any exist
-        if len(collection.get()['ids']) > 0:
-            collection.delete(where={"store_name": {"$exists": True}})
+        # Clear existing documents by deleting using their IDs
+        current_docs = collection.get()
+        if current_docs.get('ids'):
+            collection.delete(ids=current_docs['ids'])
         
         # Process each JSON file
         json_files = glob.glob(os.path.join(directory_path, "*.json"))
@@ -97,7 +101,7 @@ def load_documents(directory_path: str):
                 metadatas.append(metadata)
                 ids.append(f"doc_{i}")
         
-        # Add documents to collection
+        # Add documents to collection if there are any
         if documents:
             collection.add(
                 documents=documents,
