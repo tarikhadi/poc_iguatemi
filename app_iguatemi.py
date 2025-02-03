@@ -19,7 +19,7 @@ from typing import Dict, List, Any
 
 # OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-st.secrets["OPENAI_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Initialize OpenAI client
 client = OpenAI(api_key=OPENAI_API_KEY)
