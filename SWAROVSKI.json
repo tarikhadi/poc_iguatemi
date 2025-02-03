@@ -1,0 +1,109 @@
+{
+  "loja": {
+    "razao_social": "SWAROVSKI CRISTAIS LTDA",
+    "nome_fantasia": "Swarovski",
+    "cnpj": "00.727.262/0017-10",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "cristiano.carvalho@swarovski.com",
+      "telefone": "(11) 96606-6238"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "6448",
+      "objeto": {
+        "loja": "11",
+        "quadra": "02",
+        "piso": "2°",
+        "area_privativa": "37,50m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "SWAROVSKI CRISTAIS LTDA",
+          "cnpj": "00.727.262/0017-10"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/02/2016",
+        "data_final": "14/02/2021",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiador: SWAROVSKI CRYSTAL COMPONENTS LTDA",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Enquanto durar a locação"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Renovação",
+      "numero_aditamento": "18985",
+      "data_aditamento": "04/04/2022",
+      "vigencia": {
+        "inicio": "15/02/2021",
+        "fim": "14/02/2027"
+      },
+      "alteracoes": {
+        "prazo": "6 anos"
+      },
+      "condicoes_especiais": "Não especificado"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "04/04/2022",
+      "tipo": "Renovação",
+      "numero_documento": "18985",
+      "principais_alteracoes": [
+        "Prazo de locação alterado para 6 anos"
+      ]
+    }
+  ]
+}

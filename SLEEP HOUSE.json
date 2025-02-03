@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "Larissa de Almeida Machado",
+    "nome_fantasia": "Sleep House Colchões",
+    "cnpj": "493.806.198-80",
+    "endereco": {
+      "logradouro": "Alameda Doutor José Cardeal",
+      "numero": "947, Apto. 35",
+      "bairro": "Jardim Pedroso",
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "yurisaccentieventos@gmail.com",
+      "telefone": "(19) 98867-2425"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "18414",
+      "objeto": {
+        "loja": "13",
+        "quadra": "13",
+        "piso": "1°",
+        "area_privativa": "140,62 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Larissa de Almeida Machado",
+          "cnpj": "493.806.198-80"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/11/2024",
+        "data_final": "31/10/2029",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "25/10/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "18414",
+      "principais_alteracoes": [
+        "Cláusula 22 alterada para incluir taxa de transferência de 8 aluguéis mínimos mensais reajustáveis.",
+        "Prazo de locação definido de 01/11/2024 a 31/10/2029."
+      ]
+    }
+  ]
+}

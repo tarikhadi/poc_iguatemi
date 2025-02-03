@@ -1,0 +1,120 @@
+{
+  "loja": {
+    "razao_social": "Arte Telecom LTDA",
+    "nome_fantasia": "SAMSUNG EXPERIENCE",
+    "cnpj": "40.278.888/0001-82",
+    "endereco": {
+      "logradouro": "Rua Estela",
+      "numero": "515",
+      "bairro": "Vila Mariana",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04011-002"
+    },
+    "contato": {
+      "email": "talita.alencar@artetelecom.com.br",
+      "telefone": "84 3213-2639"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "421-14",
+      "objeto": {
+        "loja": "05",
+        "quadra": "15",
+        "piso": "1",
+        "area_privativa": "96,4500",
+        "localizacao": {
+          "shopping": "Shopping Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi nº 777, Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Arte Telecom LTDA",
+          "cnpj": "40.278.888/0001-82"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/10/2014",
+        "data_final": "30/09/2019",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 24.112,50",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "3%",
+            "base_calculo": "Faturamento Bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.225"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/10/2014 a 30/09/2019"
+          }
+        }
+      },
+      "garantias": "Fiadores: Ronaldo Bueno e Rosemary Martins Guillen Bueno",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 metros",
+          "vigencia": "01/10/2014 a 30/09/2019"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Retificação de Contrato de Locação",
+      "numero_aditamento": "SUC 15-05",
+      "data_aditamento": "06/03/2020",
+      "vigencia": {
+        "inicio": "01/10/2019",
+        "fim": "30/09/2024"
+      },
+      "alteracoes": {
+        "locataria": "ALLIED TECNOLOGIA S.A.",
+        "cnpj": "20.247.322/0136-30"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato original"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "03/08/2022",
+      "tipo": "Sentença Renovatória",
+      "numero_documento": "1011496-94.2019.8.26.0114",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais 5 anos",
+        "Aluguel mensal ajustado para R$ 37.900,00",
+        "Reajuste anual pelo índice IGPM"
+      ]
+    },
+    {
+      "data": "06/03/2020",
+      "tipo": "Aditamento de Retificação",
+      "numero_documento": "SUC 15-05",
+      "principais_alteracoes": [
+        "Mudança de locatária para ALLIED TECNOLOGIA S.A."
+      ]
+    }
+  ]
+}

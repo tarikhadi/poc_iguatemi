@@ -1,0 +1,141 @@
+{
+  "loja": {
+    "razao_social": "FTWIC COMERCIO DE ARTIGOS DA MODA LTDA",
+    "nome_fantasia": "YOUR ID STORE",
+    "cnpj": "47.408.926/0001-84",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "fernando.fukue@ftwear.com.br",
+      "telefone": "(11) 99404-1743"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001065",
+      "objeto": {
+        "loja": "03-04",
+        "quadra": "03",
+        "piso": "2",
+        "area_privativa": "37,50 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "FTWIC COMERCIO DE ARTIGOS DA MODA LTDA",
+          "cnpj": "47.408.926/0001-84"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/08/2022",
+        "data_final": "14/08/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "Não especificado",
+            "periodicidade_reajuste": "Não especificado"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Não especificado"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não especificado"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Inauguração e Carência",
+      "numero_aditamento": "25723",
+      "data_aditamento": "07/11/2022",
+      "vigencia": {
+        "inicio": "15/08/2022",
+        "fim": "14/08/2027"
+      },
+      "alteracoes": {
+        "locataria": "FTWIC COMERCIO DE ARTIGOS DA MODA LTDA",
+        "data_inauguracao": "15/11/2022"
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato de locação em vigor."
+    },
+    {
+      "tipo": "Aditamento Const Empresa",
+      "numero_aditamento": "23540",
+      "data_aditamento": "19/08/2022",
+      "vigencia": {
+        "inicio": "15/08/2022",
+        "fim": "14/08/2027"
+      },
+      "alteracoes": {
+        "locatarios": [
+          {
+            "nome": "Fernando Hideki Fukue",
+            "cpf": "224.067.388-50"
+          },
+          {
+            "nome": "Leo Issamu Tariki Takata",
+            "cpf": "224.067.468-79"
+          }
+        ]
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato de locação em vigor."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "07/11/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "25723",
+      "principais_alteracoes": [
+        "Alteração da locatária para FTWIC COMERCIO DE ARTIGOS DA MODA LTDA.",
+        "Data de inauguração alterada para 15/11/2022."
+      ]
+    },
+    {
+      "data": "19/08/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "23540",
+      "principais_alteracoes": [
+        "Inclusão de Fernando Hideki Fukue e Leo Issamu Tariki Takata como locatários."
+      ]
+    }
+  ]
+}

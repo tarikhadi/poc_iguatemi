@@ -1,0 +1,47 @@
+{
+  "loja": {
+    "razao_social": "MENIR COMERCIAL MODAS LTDA.",
+    "nome_fantasia": "",
+    "cnpj": "84.516.546/0001-00",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento",
+      "numero_aditamento": "0252-21",
+      "data_aditamento": "28/07/2021",
+      "vigencia": {
+        "inicio": "01/01/2021",
+        "fim": "31/08/2021"
+      },
+      "alteracoes": {
+        "data_inauguracao": "01/09/2021",
+        "carencia": "01/01/2021 a 31/08/2021"
+      },
+      "condicoes_especiais": "Carência no pagamento do aluguel mínimo mensal reajustável, despesas condominiais ordinárias e fundo de promoção para conclusão de obras/reformas."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "28/07/2021",
+      "tipo": "Aditamento",
+      "numero_documento": "0252-21",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável, despesas condominiais ordinárias e fundo de promoção de 01/01/2021 a 31/08/2021.",
+        "Data de inauguração até 01/09/2021."
+      ]
+    }
+  ]
+}

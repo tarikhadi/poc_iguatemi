@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "RLCP Comércio de Moda Eireli",
+    "nome_fantasia": "RICARDO ALMEIDA FOR MAN",
+    "cnpj": "55.245.500/0023-90",
+    "endereco": {
+      "logradouro": "Rua Espanha",
+      "numero": "",
+      "bairro": "Jardim Europa",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01446044"
+    },
+    "contato": {
+      "email": "ricardo@ricardoalmeida.com.br",
+      "telefone": "11-9996-7165"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "4945",
+      "objeto": {
+        "loja": "136",
+        "quadra": "",
+        "piso": "1°",
+        "area_privativa": "115,81m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Scarface Indústria e Comércio de Confecções Ltda.",
+          "cnpj": "55.245.500/0023-90"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2021",
+        "data_final": "31/08/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No Shopping Center Parque Dom Pedro, Campinas/SP"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "21/10/2021",
+      "tipo": "Contrato Original",
+      "numero_documento": "4945",
+      "principais_alteracoes": [
+        "Assinatura do contrato de locação para a loja 136 no Shopping Center Iguatemi Campinas.",
+        "Estabelecimento da finalidade de comercialização de moda masculina exclusiva da marca Ricardo Almeida."
+      ]
+    }
+  ]
+}

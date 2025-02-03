@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "TOOL BOX LTDA.",
+    "nome_fantasia": "TOOL BOX",
+    "cnpj": "24.996.228/0001-41",
+    "endereco": {
+      "logradouro": "Avenida Presidente Juscelino Kubitschek",
+      "numero": "2041, Loja 203/204",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "benjamin@tbox.com.br",
+      "telefone": "(31) 3286-4569"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "3821-21",
+      "objeto": {
+        "loja": "131",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "345,89m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, nº 777, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "TOOL BOX LTDA.",
+          "cnpj": "24.996.228/0001-41"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/08/2021",
+        "data_final": "31/07/2031",
+        "prazo": "10 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "sobre o faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No PARQUE DOM PEDRO SHOPPING até 31/07/2026"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "R471/21",
+      "data_aditamento": "23/08/2022",
+      "vigencia": {
+        "inicio": "01/08/2022",
+        "fim": "31/10/2022"
+      },
+      "alteracoes": {
+        "desconto": "20% no Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "14618-38854",
+      "data_aditamento": "23/01/2024",
+      "vigencia": {
+        "inicio": "01/01/2024",
+        "fim": "31/01/2024"
+      },
+      "alteracoes": {
+        "desconto": "20% no Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "14/05/2021",
+      "tipo": "Contrato Original",
+      "numero_documento": "3821-21",
+      "principais_alteracoes": [
+        "Contrato inicial de locação com vigência de 10 anos."
+      ]
+    },
+    {
+      "data": "23/08/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "R471/21",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel de 01/08/2022 a 31/10/2022."
+      ]
+    },
+    {
+      "data": "23/01/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "14618-38854",
+      "principais_alteracoes": [
+        "Desconto de 20% no Aluguel Mínimo para janeiro de 2024."
+      ]
+    }
+  ]
+}

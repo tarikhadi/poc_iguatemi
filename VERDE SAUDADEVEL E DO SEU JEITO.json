@@ -1,0 +1,139 @@
+{
+  "loja": {
+    "razao_social": "ALDARA SALADAS E SUCOS LTDA",
+    "nome_fantasia": "VERDE SAUDÁVEL",
+    "cnpj": "09.143.293/0001-30",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "verdesaladas@gmail.com",
+      "telefone": "19-3255-1141"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "0499/17",
+      "objeto": {
+        "loja": "06",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "45,24 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ALDARA SALADAS E SUCOS LTDA",
+          "cnpj": "09.143.293/0001-30"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/10/2017",
+        "data_final": "14/10/2022",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "10.624,61",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "Faturamento Bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "701"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "17347",
+      "data_aditamento": "16/08/2024",
+      "vigencia": {
+        "inicio": "01/07/2024",
+        "fim": "31/07/2024"
+      },
+      "alteracoes": {
+        "desconto": "10% sobre o Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se o boleto for pago na data de vencimento."
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "11022",
+      "data_aditamento": "13/04/2023",
+      "vigencia": {
+        "inicio": "01/03/2023",
+        "fim": "31/05/2023"
+      },
+      "alteracoes": {
+        "desconto": "10% sobre o Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se o boleto for pago na data de vencimento."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "05/07/2017",
+      "tipo": "Renovação",
+      "numero_documento": "0499/17",
+      "principais_alteracoes": [
+        "Renovação do contrato pelo lojista.",
+        "Alteração do prazo de reforma para 30/09/2021."
+      ]
+    },
+    {
+      "data": "16/08/2024",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "17347",
+      "principais_alteracoes": [
+        "Concessão de 10% de desconto sobre o Aluguel Mínimo."
+      ]
+    },
+    {
+      "data": "13/04/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "11022",
+      "principais_alteracoes": [
+        "Concessão de 10% de desconto sobre o Aluguel Mínimo."
+      ]
+    }
+  ]
+}

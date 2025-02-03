@@ -1,0 +1,118 @@
+{
+  "loja": {
+    "razao_social": "Zara Brasil Ltda",
+    "nome_fantasia": "ZARA - EXP",
+    "cnpj": "02.952.485/0001-49",
+    "endereco": {
+      "logradouro": "Alameda Xingu",
+      "numero": "350",
+      "bairro": "Alphaville Industrial",
+      "cidade": "Barueri",
+      "estado": "SP",
+      "cep": "06455-030"
+    },
+    "contato": {
+      "email": "",
+      "telefone": "14 2101-1970"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "CONTRATO DE LOCAÇÃO",
+      "numero_contrato": "10000043",
+      "objeto": {
+        "loja": "K",
+        "quadra": "EXPANSAO",
+        "piso": "2",
+        "area_privativa": "1584,18 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Zara Brasil Ltda",
+          "cnpj": "02.952.485/0001-49"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2003",
+        "data_final": "31/12/2013",
+        "prazo": "10 anos e 9 meses"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "4%",
+            "base_calculo": "faturamento líquido"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiador ou fiança bancária equivalente a 12 contribuições mínimas mensais reajustáveis",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não instalar quiosques na área fronteiriça à loja"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "ADITAMENTO DE VIGÊNCIA",
+      "numero_aditamento": "0079-13",
+      "data_aditamento": "26/06/2013",
+      "vigencia": {
+        "inicio": "01/04/2003",
+        "fim": "31/12/2013"
+      },
+      "alteracoes": {
+        "prazo": "10 anos e 9 meses",
+        "término": "31/12/2013"
+      },
+      "condicoes_especiais": "Caso a locatária não devolva o depósito ao locador, este poderá retirar os bens e entregá-los a uma entidade beneficente."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "17/07/2001",
+      "tipo": "CONTRATO DE LOCAÇÃO",
+      "numero_documento": "10000043",
+      "principais_alteracoes": [
+        "Estabelecimento do contrato de locação inicial com vigência de 10 anos a partir de 01/04/2003."
+      ]
+    },
+    {
+      "data": "26/06/2013",
+      "tipo": "ADITAMENTO DE VIGÊNCIA",
+      "numero_documento": "0079-13",
+      "principais_alteracoes": [
+        "Prorrogação do prazo de vigência do contrato até 31/12/2013."
+      ]
+    }
+  ]
+}

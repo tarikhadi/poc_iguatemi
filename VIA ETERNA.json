@@ -1,0 +1,122 @@
+{
+  "loja": {
+    "razao_social": "C.R.L. COMERCIO DE METAIS LTDA",
+    "nome_fantasia": "VIA ETERNA",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "financeiro@viaeterna.com.br",
+      "telefone": "(11) 4382-7888"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001108",
+      "objeto": {
+        "loja": "234",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "42,75",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "C.R.L. COMERCIO DE METAIS LTDA",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/04/2023",
+        "data_final": "14/04/2027",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "12.500,10",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "8,00%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "543,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20,00%",
+            "periodo": "15/04/2023 em diante"
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "13476-36374",
+      "data_aditamento": "30/10/2023",
+      "vigencia": {
+        "inicio": "01/10/2023",
+        "fim": "30/11/2023"
+      },
+      "alteracoes": {
+        "desconto_aluguel_minimo": {
+          "percentual": "100,00%",
+          "impacto": "-R$ 25.013,06"
+        }
+      },
+      "condicoes_especiais": "Desconto concedido por liberalidade do locador"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "17/05/2023",
+      "tipo": "Contrato Original",
+      "numero_documento": "10001108",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 15/04/2023",
+        "Término da vigência do contrato em 14/04/2027",
+        "Aluguel mínimo mensal inicial de R$ 12.500,10 com reajuste anual pelo IGPM"
+      ]
+    },
+    {
+      "data": "30/10/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "13476-36374",
+      "principais_alteracoes": [
+        "Desconto de 100% no aluguel mínimo para o período de 01/10/2023 a 30/11/2023"
+      ]
+    }
+  ]
+}

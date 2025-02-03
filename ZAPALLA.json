@@ -1,0 +1,117 @@
+{
+  "loja": {
+    "razao_social": "Santella CPS Comercio de Roupas LTDA",
+    "nome_fantasia": "Zapalla",
+    "cnpj": "52.856.607/0001-71",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "renatovsa@hotmail.com",
+      "telefone": "(11) 3682-1110"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "BO0D6734-35BF-4E16-99D5-F7E75CA4E9D6",
+      "objeto": {
+        "loja": "122",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "48,60m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "46.002.176/0001-83",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Renato Vitelli Salvador e Nathalia Cavinato Khoury Salvador",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/12/2023",
+        "data_final": "31/12/2027",
+        "prazo": "4 anos e 1 mês"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 14.580,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "6,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "A locatária obriga-se a não instalar ou manter qualquer outro estabelecimento com o mesmo ramo dentro do raio indicado."
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "B27AA850-3E00-417E-98F9-DBE64639BBF2",
+      "data_aditamento": "19/07/2024",
+      "vigencia": {
+        "inicio": "01/10/2024",
+        "fim": "28/02/2025"
+      },
+      "alteracoes": {
+        "desconto": "80% de desconto no Aluguel Mínimo Mensal pelo período de 01/10/24 a 28/02/25"
+      },
+      "condicoes_especiais": "Condições Especiais não aplicáveis"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "10/10/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "BO0D6734-35BF-4E16-99D5-F7E75CA4E9D6",
+      "principais_alteracoes": [
+        "Contrato inicial firmado com vigência de 4 anos e 1 mês, com início em 01/12/2023 e término em 31/12/2027."
+      ]
+    },
+    {
+      "data": "19/07/2024",
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_documento": "B27AA850-3E00-417E-98F9-DBE64639BBF2",
+      "principais_alteracoes": [
+        "80% de desconto no Aluguel Mínimo Mensal pelo período de 01/10/24 a 28/02/25."
+      ]
+    }
+  ]
+}

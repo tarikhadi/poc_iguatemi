@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "Space Entretenimento",
+    "nome_fantasia": "Space Entretenimento",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "cep": ""
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Nova Locação",
+      "numero_contrato": "36201",
+      "objeto": {
+        "loja": "156",
+        "quadra": "",
+        "piso": "Térreo",
+        "area_privativa": "",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi São Carlos",
+          "endereco": ""
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "Space Entretenimento",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/10/2023",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "7.800,00",
+            "indice_reajuste": "IGPM_ - 09/2023",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "09/10/2023",
+      "tipo": "Nova Locação",
+      "numero_documento": "36201",
+      "principais_alteracoes": [
+        "Vigência inicial de 15/10/2023 com aluguel inicial de R$ 7.800,00",
+        "Reajuste mensal pelo IGPM_ - 09/2023"
+      ]
+    }
+  ]
+}

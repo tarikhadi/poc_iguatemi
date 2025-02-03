@@ -1,0 +1,110 @@
+{
+  "loja": {
+    "razao_social": "Telefonica Brasil S/A",
+    "nome_fantasia": "VIVO",
+    "cnpj": "02558157000162",
+    "endereco": {
+      "logradouro": "Avenida Engenheiro Luiz Carlos Berrini",
+      "numero": "1376",
+      "bairro": "Brooklin",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04571936"
+    },
+    "contato": {
+      "email": "luciana.vinhas@telefonica.com",
+      "telefone": "-"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avencas",
+      "numero_contrato": "SUC 16-54",
+      "objeto": {
+        "loja": "VIVO",
+        "quadra": "Não especificado",
+        "piso": "1",
+        "area_privativa": "Não especificado",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "Não especificado",
+          "administradora": {
+            "nome": "Não especificado",
+            "cnpj": "Não especificado"
+          }
+        },
+        "locataria": {
+          "nome": "Telefonica Brasil S/A",
+          "cnpj": "02558157000162"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/01/2015",
+        "data_final": "14/01/2020",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 21.182,45",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "5%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "953,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não aplicável",
+          "vigencia": "Não aplicável"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Sentença Renovatória",
+      "numero_aditamento": "1018703-47.2019.8.26.0114",
+      "data_aditamento": "17/08/2021",
+      "vigencia": {
+        "inicio": "15/01/2020",
+        "fim": "14/01/2025"
+      },
+      "alteracoes": {
+        "aluguel_minimo": "R$ 23.469,75"
+      },
+      "condicoes_especiais": "Renovação do contrato por mais 60 meses"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "17/08/2021",
+      "tipo": "Sentença Renovatória",
+      "numero_documento": "1018703-47.2019.8.26.0114",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais 60 meses até 14/01/2025",
+        "Fixação do valor do aluguel mínimo em R$ 23.469,75"
+      ]
+    }
+  ]
+}

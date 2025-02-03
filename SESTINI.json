@@ -1,0 +1,134 @@
+{
+  "loja": {
+    "razao_social": "SESTINI MERCANTIL LTDA",
+    "nome_fantasia": "SESTINI",
+    "cnpj": "00.501.618/0001-35",
+    "endereco": {
+      "logradouro": "Rua Almerim",
+      "numero": "100",
+      "bairro": "Galpao 01",
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "a.abreu@sestini.com.br",
+      "telefone": "3123-1600"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "RSCIC0458/14",
+      "objeto": {
+        "loja": "235",
+        "quadra": "",
+        "piso": "2°",
+        "area_privativa": "62,84 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "SESTINI MERCANTIL LTDA",
+          "cnpj": "00.501.618/0001-35"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "30/04/2015",
+        "data_final": "29/04/2020",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "0,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiador: ALEXANDRE ROBERTO BENEDEK",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação e Outras Avenças",
+      "numero_aditamento": "RSCICO400/19",
+      "data_aditamento": "21/06/2019",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "desconto_aluguel": [
+          {
+            "periodo": "01/10/2016 a 30/11/2016",
+            "percentual": "30%"
+          },
+          {
+            "periodo": "01/01/2017 a 28/02/2017",
+            "percentual": "30%"
+          }
+        ]
+      },
+      "condicoes_especiais": "Descontos condicionados ao pagamento pontual e devolução do instrumento assinado em 5 dias"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "11/10/2022",
+      "tipo": "Contrato Original",
+      "numero_documento": "AOAGF322-89CA-46D6-A34A-34E53A5B68CF",
+      "principais_alteracoes": [
+        "Contrato inicial firmado com a locatária TERCEIRO PEDIDO COMERCIO DE BOLSAS E ACESSORIOS LTDA."
+      ]
+    },
+    {
+      "data": "31/10/2016",
+      "tipo": "Aditamento",
+      "numero_documento": "RSCICO400/19",
+      "principais_alteracoes": [
+        "Concessão de desconto de 30% no aluguel mínimo mensal reajustável para períodos específicos."
+      ]
+    },
+    {
+      "data": "21/06/2019",
+      "tipo": "Aditamento",
+      "numero_documento": "RSCICO400/19",
+      "principais_alteracoes": [
+        "Ratificação dos termos do contrato de locação em vigor."
+      ]
+    }
+  ]
+}
