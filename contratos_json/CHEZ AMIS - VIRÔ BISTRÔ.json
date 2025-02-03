@@ -1,0 +1,56 @@
+{
+  "loja": {
+    "razao_social": "Daniela Rocha Campos",
+    "nome_fantasia": "Viro Bistrô",
+    "cnpj": "183.392.118-62",
+    "endereco": {
+      "logradouro": "Rua Haddock Lobo",
+      "numero": "234, Apto 201",
+      "bairro": "Cerqueira César",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01414-000"
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Inauguração e Carência",
+      "numero_aditamento": "SCIC - 10609",
+      "data_aditamento": "08/03/2023",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "loja": "18/19",
+        "quadra": "24",
+        "piso": "3°",
+        "area_privativa": "158,52",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi n° 777, Vila Brandina, CEP 13092-902, Campinas - SP"
+        },
+        "garantia": "Não Aplicável",
+        "aluguel": "LOCATARIA pagar o ALUGUEL MINIMO MENSAL REAJUSTAVEL, as despesas condominiais ordinarias e o Fundo de Promocao pelos seus valores intearais. Eventuais diferencas, no caso de ja ter havido pagamento com carência, serao quitadas no boleto seguinte."
+      },
+      "condicoes_especiais": "As partes ratificam os demais termos, cláusulas e condições do Contrato de Locação em vigor que não foram objeto de alteração por este instrumento."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "08/03/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 10609",
+      "principais_alteracoes": [
+        "Definição de loja, quadra, piso e área privativa.",
+        "Especificação de pagamento de aluguel mínimo mensal reajustável, despesas condominiais ordinárias e Fundo de Promoção.",
+        "Ratificação dos demais termos do contrato de locação em vigor."
+      ]
+    }
+  ]
+}

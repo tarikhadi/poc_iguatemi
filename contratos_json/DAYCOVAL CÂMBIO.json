@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "AZN PLANEJAMENTO ESTRATEGICO EIRELI",
+    "nome_fantasia": "",
+    "cnpj": "00.171.442/0001-09",
+    "endereco": {
+      "logradouro": "Avenida Brigadeiro Faria Lima",
+      "numero": "2128",
+      "bairro": "Jardim Paulistano",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "paolo@azninvestpar.com.br",
+      "telefone": "(11) 3814-1466"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "16011",
+      "objeto": {
+        "loja": "06A",
+        "quadra": "22",
+        "piso": "1",
+        "area_privativa": "48,66m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA.",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "AZN PLANEJAMENTO ESTRATEGICO EIRELI",
+          "cnpj": "00.171.442/0001-09"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "14/05/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "16011",
+      "principais_alteracoes": [
+        "Estabelecimento do aluguel mínimo mensal reajustável conforme cláusula 11.",
+        "Suspensão da correção monetária mensal, devendo ser anual conforme cláusula 11.",
+        "Definição de que o aluguel percentual será superior ao aluguel mínimo mensal reajustável."
+      ]
+    }
+  ]
+}

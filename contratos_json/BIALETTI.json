@@ -1,0 +1,115 @@
+{
+  "loja": {
+    "razao_social": "VEROCAFFE CAFETERIA LTDA.",
+    "nome_fantasia": "BIALETTI",
+    "cnpj": "22.047.965/0001-72",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "umberto@imeltron.com.br",
+      "telefone": "(19) 98176-1574"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "20202",
+      "objeto": {
+        "loja": "Q215",
+        "quadra": "Q215",
+        "piso": "2",
+        "area_privativa": "20,00m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas · SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "03.186.025/0001-10",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "VEROCAFFE CAFETERIA LTDA.",
+          "cnpj": "22.047.965/0001-72"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/07/2022",
+        "data_final": "30/06/2026",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 9.894,20",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "8,00%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "",
+      "data_aditamento": "01/11/2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {},
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "25/05/2022",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "20202",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 01/07/2022",
+        "Aluguel mínimo mensal reajustável de R$ 9.894,20",
+        "Aluguel percentual de 8% do faturamento bruto"
+      ]
+    },
+    {
+      "data": "01/11/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "",
+      "principais_alteracoes": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "loja": {
+    "razao_social": "RBX Rio Comércio de Roupas S.A",
+    "nome_fantasia": "ANIMALE",
+    "cnpj": "10.285.590/0023-05",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "info@animale.com.br",
+      "telefone": "21 2503-658"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "19042011",
+      "objeto": {
+        "loja": "19",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "121,03 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "RBX Rio Comércio de Roupas S.A",
+          "cnpj": "10.285.590/0023-05"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/11/2011",
+        "data_final": "14/11/2016",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "19.207,79",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.392,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 metros",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Parque D. Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "RSCICO349/19",
+      "data_aditamento": "29/05/2019",
+      "vigencia": {
+        "inicio": "15/11/2016",
+        "fim": "14/11/2021"
+      },
+      "alteracoes": {
+        "fiador": "Exclusão do fiador Roberto Luiz Jatahy Gonçalves"
+      },
+      "condicoes_especiais": "Nenhuma"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "19/04/2011",
+      "tipo": "Contrato Original",
+      "numero_documento": "19042011",
+      "principais_alteracoes": [
+        "Contrato inicial firmado com vigência de 5 anos."
+      ]
+    },
+    {
+      "data": "29/05/2019",
+      "tipo": "Aditamento",
+      "numero_documento": "RSCICO349/19",
+      "principais_alteracoes": [
+        "Exclusão do fiador Roberto Luiz Jatahy Gonçalves."
+      ]
+    }
+  ]
+}

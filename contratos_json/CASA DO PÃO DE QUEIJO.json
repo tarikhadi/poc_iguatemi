@@ -1,0 +1,126 @@
+{
+  "loja": {
+    "razao_social": "AMEF CONSULTORIA DE EMPRESA LTDA",
+    "nome_fantasia": "CASA DO PAO DE QUEIJO",
+    "cnpj": "21.533.356/0001-60",
+    "endereco": {
+      "logradouro": "Av. Dr. Jacomo Nazario",
+      "numero": "702",
+      "bairro": "Cidade Nova",
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "cep": "13334-040"
+    },
+    "contato": {
+      "email": "miguel@lereescrever.com.br",
+      "telefone": "11 99947-9516"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "RSCIC0296/18",
+      "objeto": {
+        "loja": "CASA DO PAO DE QUEIJO",
+        "quadra": "P4-B4",
+        "piso": "1° Piso",
+        "area_privativa": "15,8000 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi n° 777 - Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "AMEF CONSULTORIA DE EMPRESA LTDA",
+          "cnpj": "21.533.356/0001-60"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/03/2018",
+        "data_final": "14/03/2022",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 8.532,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "245"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "vigência do contrato"
+        },
+        "exclusividade": "não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "RSCIC0296/18",
+      "data_aditamento": "03/05/2018",
+      "vigencia": {
+        "inicio": "15/03/2018",
+        "fim": "14/03/2022"
+      },
+      "alteracoes": {
+        "data_inauguracao": "10/06/2018",
+        "carencia": {
+          "aluguel_minimo_mensal": "15/03/2018 a 30/04/2018",
+          "fundo_promocao": "15/03/2018 a 30/04/2018",
+          "despesas_condominiais": "15/03/2018 a 30/04/2018",
+          "obras": "01/05/2018 a 09/06/2018"
+        }
+      },
+      "condicoes_especiais": "Carência no pagamento do aluguel mínimo mensal reajustável, fundo de promoção, despesas condominiais ordinárias e despesas privativas no período de 15/03/2018 a 30/04/2018."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "27/04/2018",
+      "tipo": "Criação de Resumo",
+      "numero_documento": "RSCIC0296/18",
+      "principais_alteracoes": [
+        "Prorrogação da data de inauguração para 10/06/2018",
+        "Carência no AMM, FP e condomínio e despesas privativas até 30/04/2018",
+        "Carência no AMM de 01/05 a 09/06/2018, ou até a data de inauguração, para obras."
+      ]
+    },
+    {
+      "data": "03/05/2018",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "RSCIC0296/18",
+      "principais_alteracoes": [
+        "Data de inauguração alterada para 10/06/2018",
+        "Carência no pagamento do aluguel mínimo mensal reajustável, fundo de promoção, despesas condominiais ordinárias e despesas privativas no período de 15/03/2018 a 30/04/2018."
+      ]
+    }
+  ]
+}

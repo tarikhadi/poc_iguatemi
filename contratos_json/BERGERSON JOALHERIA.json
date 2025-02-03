@@ -1,0 +1,115 @@
+{
+  "loja": {
+    "razao_social": "BERGERSON JOIAS E RELOGIOS LTDA",
+    "nome_fantasia": "BERGERSON",
+    "cnpj": "76.535.111/0001-64",
+    "endereco": {
+      "logradouro": "Rua Desembargador Ermelino de Leao",
+      "numero": "433",
+      "bairro": "",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": ""
+    },
+    "contato": {
+      "email": "marcelo@bergerson.com",
+      "telefone": "(41) 3322-5333"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "62C4ESEE-2653-45CE-9B78-88482A878D0D",
+      "objeto": {
+        "loja": "157",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "82,45m²",
+        "localizacao": {
+          "shopping": "SHOPPING CENTER IGUATEMI CAMPINAS",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas · SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "BERGERSON JOIAS E RELOGIOS LTDA",
+          "cnpj": "76.535.111/0001-64"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/04/2022",
+        "data_final": "04/04/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 13.125,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "05/04/2022 a 04/04/2027"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No PARQUE DOM PEDRO SHOPPING, Av. Guilherme Campos, n° 500, Campinas · SP"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "CDAA2CB8-6FE5-463B-A5DA-5D4FCCBEECB1",
+      "data_aditamento": "09/12/2022",
+      "vigencia": {
+        "inicio": "05/04/2022",
+        "fim": "04/04/2027"
+      },
+      "alteracoes": {},
+      "condicoes_especiais": "Ratificação dos termos do contrato original"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "06/12/2021",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "62C4ESEE-2653-45CE-9B78-88482A878D0D",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável de 05/04/2022 até 04/06/2022"
+      ]
+    },
+    {
+      "data": "04/07/2022",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "CDAA2CB8-6FE5-463B-A5DA-5D4FCCBEECB1",
+      "principais_alteracoes": [
+        "Ratificação dos termos do contrato original"
+      ]
+    }
+  ]
+}

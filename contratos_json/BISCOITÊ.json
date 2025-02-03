@@ -1,0 +1,184 @@
+{
+  "loja": {
+    "razao_social": "RM2 COMERCIO DE ALIMENTOS E PRESENTES LTDA",
+    "nome_fantasia": "BISCOITE",
+    "cnpj": "31.505.237/0001-58",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "ADM@BISCOITE.COM.BR",
+      "telefone": "(011) 4330 5473"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "0429-18",
+      "objeto": {
+        "loja": "11-01A",
+        "quadra": "SUC",
+        "piso": "1",
+        "area_privativa": "33,84m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "RM2 COMERCIO DE ALIMENTOS E PRESENTES LTDA",
+          "cnpj": "31.505.237/0001-58"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/07/2018",
+        "data_final": "14/07/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "8.800,09",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "5%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "525,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiadores: Carolina De Nadai Pereira Matos e Raul Alves de Matos",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "até 14/07/2021"
+        },
+        "exclusividade": "Parque D. Pedro Shopping até 14/07/2021"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Renovação de Contrato",
+      "numero_aditamento": "27383",
+      "data_aditamento": "11/07/2023",
+      "vigencia": {
+        "inicio": "15/07/2023",
+        "fim": "14/07/2028"
+      },
+      "alteracoes": {
+        "aluguel_minimo_mensal": "15.610,66",
+        "aluguel_percentual": "5%",
+        "fundo_promocao": "20% do aluguel mínimo mensal reajustável"
+      },
+      "condicoes_especiais": "Escalonamento no aluguel mínimo mensal reajustável a partir de 15/07/2025"
+    },
+    {
+      "tipo": "Cessão de Direitos e Obrigações",
+      "numero_aditamento": "13077",
+      "data_aditamento": "02/10/2023",
+      "vigencia": {
+        "inicio": "27/09/2023",
+        "fim": "14/07/2028"
+      },
+      "alteracoes": {
+        "cessao_direitos": "RM2 COMERCIO DE ALIMENTOS E PRESENTES LTDA passa a ser locatária"
+      },
+      "condicoes_especiais": "Isenção de taxa de transferência"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "11/06/2018",
+      "tipo": "Aprovação",
+      "numero_documento": "0429-18",
+      "principais_alteracoes": [
+        "Verificação e envio para aprovação",
+        "Aprovação Controller Shopping",
+        "Reprovação ao emitente",
+        "Aprovação Advogado",
+        "Aprovação Gerente Geral"
+      ]
+    },
+    {
+      "data": "13/06/2018",
+      "tipo": "Aprovação",
+      "numero_documento": "0429-18",
+      "principais_alteracoes": [
+        "Aprovação Gerente Comercial Regional",
+        "Aprovação Diretor Comercial Regional"
+      ]
+    },
+    {
+      "data": "15/06/2018",
+      "tipo": "Aprovação",
+      "numero_documento": "0429-18",
+      "principais_alteracoes": [
+        "Aprovação VPV"
+      ]
+    },
+    {
+      "data": "18/06/2018",
+      "tipo": "Aprovação",
+      "numero_documento": "0429-18",
+      "principais_alteracoes": [
+        "Aprovação CEO"
+      ]
+    },
+    {
+      "data": "12/04/2019",
+      "tipo": "Aprovação",
+      "numero_documento": "27383",
+      "principais_alteracoes": [
+        "Criação do Resumo",
+        "Envio para Validação",
+        "Aprovação Controller Shopping",
+        "Aprovação Advogado",
+        "Aprovação Diretor de Operações"
+      ]
+    },
+    {
+      "data": "04/01/2023",
+      "tipo": "Aprovação",
+      "numero_documento": "27383",
+      "principais_alteracoes": [
+        "Pré-aprovação",
+        "Envio para Aprovação",
+        "Reatribuição para Guido Oliveira",
+        "Aprovação Guido Oliveira"
+      ]
+    },
+    {
+      "data": "27/09/2023",
+      "tipo": "Cessão de Direitos",
+      "numero_documento": "13077",
+      "principais_alteracoes": [
+        "Cessão de direitos e obrigações para RM2 COMERCIO DE ALIMENTOS E PRESENTES LTDA"
+      ]
+    }
+  ]
+}

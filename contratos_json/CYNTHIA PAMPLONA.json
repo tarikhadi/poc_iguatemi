@@ -1,0 +1,63 @@
+{
+  "loja": {
+    "razao_social": "AP COMERCIO DE ACESSORIOS LTDA",
+    "nome_fantasia": "CYNTHIA PAMPLONA",
+    "cnpj": "49.670.661/0001-13",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "contato@contabilidadeclassea.com.br",
+      "telefone": "(19) 3327-0038"
+    }
+  },
+  "contratos": [],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "17/02/2023",
+      "tipo": "Criação de Documento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Documento criado por Diego Lucas Domingues."
+      ]
+    },
+    {
+      "data": "17/02/2023",
+      "tipo": "Visualização de Documento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Documento visualizado por Luis Felipe Pedi Silva."
+      ]
+    },
+    {
+      "data": "17/02/2023",
+      "tipo": "Assinatura de Documento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Documento assinado por Luis Felipe Pedi Silva como testemunha."
+      ]
+    },
+    {
+      "data": "17/02/2023",
+      "tipo": "Visualização de Documento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Documento visualizado por Fatima Terezinha De Souza Areias."
+      ]
+    },
+    {
+      "data": "17/02/2023",
+      "tipo": "Assinatura de Documento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Documento assinado por Fatima Terezinha De Souza Areias."
+      ]
+    }
+  ]
+}

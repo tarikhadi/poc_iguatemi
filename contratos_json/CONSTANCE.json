@@ -1,0 +1,133 @@
+{
+  "loja": {
+    "razao_social": "N. SRA. DO CARMO CALCADOS E BOLSAS LTDA",
+    "nome_fantasia": "CONSTANCE",
+    "cnpj": "27.176.567/0001-70",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "gleisson.fernandes@constance.com.br",
+      "telefone": "(31) 2517-6528"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "12369",
+      "objeto": {
+        "loja": "08-05/08-06",
+        "quadra": "08",
+        "piso": "2",
+        "area_privativa": "116,97 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "N. SRA. DO CARMO CALCADOS E BOLSAS LTDA",
+          "cnpj": "27.176.567/0001-70"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/09/2022",
+        "data_final": "14/09/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 30.114,68",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.345,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20,00%",
+            "periodo": "15/09/2022 a 14/09/2027"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "15/09/2022 a 14/09/2027"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Renovação",
+      "numero_aditamento": "33290",
+      "data_aditamento": "09/05/2024",
+      "vigencia": {
+        "inicio": "15/09/2022",
+        "fim": "14/09/2027"
+      },
+      "alteracoes": {
+        "aluguel_minimo_mensal": "R$ 30.114,68",
+        "indice_reajuste": "IGP-M/FGV",
+        "periodicidade_reajuste": "Mensal"
+      },
+      "condicoes_especiais": "Concessão de desconto de 15% no aluguel mínimo mensal de 01/07/2023 a 31/12/2023"
+    },
+    {
+      "tipo": "Aditamento de Alteração de Sócios",
+      "numero_aditamento": "12370",
+      "data_aditamento": "27/09/2024",
+      "vigencia": {
+        "inicio": "15/09/2022",
+        "fim": "14/09/2027"
+      },
+      "alteracoes": {
+        "socios": "Alteração de sócios da locatária"
+      },
+      "condicoes_especiais": "Dispensa de taxa de transferência"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "09/05/2024",
+      "tipo": "Renovação",
+      "numero_documento": "33290",
+      "principais_alteracoes": [
+        "Concessão de desconto de 15% no aluguel mínimo mensal de 01/07/2023 a 31/12/2023"
+      ]
+    },
+    {
+      "data": "27/09/2024",
+      "tipo": "Alteração de Sócios",
+      "numero_documento": "12370",
+      "principais_alteracoes": [
+        "Alteração de sócios da locatária",
+        "Dispensa de taxa de transferência"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Confecções Costume Ltda",
+    "nome_fantasia": "COSTUME",
+    "cnpj": "51.721.447/0007-86",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-802"
+    },
+    "contato": {
+      "email": "jcp@costume.com.br",
+      "telefone": "11 3758-0980"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "1141/16",
+      "objeto": {
+        "loja": "08/09",
+        "quadra": "13",
+        "piso": "1",
+        "area_privativa": "75,00 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Empresa de Shopping Centers S/A",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Confecções Costume Ltda",
+          "cnpj": "51.721.447/0007-86"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/08/2017",
+        "data_final": "14/08/2022",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "31.154,25",
+            "indice_reajuste": "IGPM-FGV (IESC)",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "962,00"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Fiadora: Lucia Kherlakian, RG: 12.731.051-4, CPF: 035.026.158-02",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 metros",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Parque D. Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento",
+      "numero_aditamento": "494/12",
+      "data_aditamento": "01/11/2012",
+      "vigencia": {
+        "inicio": "15/08/2012",
+        "fim": "14/08/2017"
+      },
+      "alteracoes": {
+        "clausulas_aditadas": "Não especificado"
+      },
+      "condicoes_especiais": "Não especificado"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "13/12/2016",
+      "tipo": "Renovação",
+      "numero_documento": "1141/16",
+      "principais_alteracoes": [
+        "Renovação do contrato pelo lojista no prazo.",
+        "Exclusividade com Parque D. Pedro Shopping.",
+        "Aluguel mínimo mensal reajustável com base no IGPM-FGV (IESC)."
+      ]
+    },
+    {
+      "data": "01/11/2012",
+      "tipo": "Aditamento",
+      "numero_documento": "494/12",
+      "principais_alteracoes": [
+        "Prazo de vigência alterado para 15/08/2012 a 14/08/2017."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "loja": {
+    "razao_social": "AMERICA ESPORTE SHOP CAMPINAS LTDA",
+    "nome_fantasia": "AMERICAN SPORT",
+    "cnpj": "23714954000161",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092902"
+    },
+    "contato": {
+      "email": "american.joice@yahoo.com",
+      "telefone": "11 958946723"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "10000709",
+      "objeto": {
+        "loja": "03",
+        "quadra": "11",
+        "piso": "1",
+        "area_privativa": "198,74",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "AMERICA ESPORTE SHOP CAMPINAS LTDA",
+          "cnpj": "23.714.954/0001-61"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2020",
+        "data_final": "31/08/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "85,22",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "20,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "2.286,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/09/2020 a 31/08/2025"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 metros",
+          "vigencia": "31/08/2025"
+        },
+        "exclusividade": "No Parque Dom Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Desconto Comercial",
+      "numero_aditamento": "33915",
+      "data_aditamento": "15/08/2023",
+      "vigencia": {
+        "inicio": "01/01/2024",
+        "fim": "31/03/2024"
+      },
+      "alteracoes": {
+        "Contribuição Mínima": {
+          "percentual": "10,00%",
+          "impacto": "-R$ 24.670,88"
+        }
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "05/04/2018",
+      "tipo": "Aditamento",
+      "numero_documento": "ADIT.RE/RA/LOCACAO",
+      "principais_alteracoes": [
+        "Alteração do CRD para 'não aplicável'."
+      ]
+    },
+    {
+      "data": "15/08/2023",
+      "tipo": "Desconto Comercial",
+      "numero_documento": "33915",
+      "principais_alteracoes": [
+        "Concessão de desconto de 10% na Contribuição Mínima de 01/01/2024 a 31/03/2024."
+      ]
+    }
+  ]
+}
