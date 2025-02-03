@@ -1,0 +1,133 @@
+{
+  "loja": {
+    "razao_social": "GOMES & CARDOSO COSMETICOS LTDA",
+    "nome_fantasia": "SIMPLE ORGANIC",
+    "cnpj": "39.801.002/0001-15",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13.092-902"
+    },
+    "contato": {
+      "email": "campinas@simpleorganic.com.br",
+      "telefone": "(19) 7405-2775"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "N/A",
+      "objeto": {
+        "loja": "07-05",
+        "quadra": "N/A",
+        "piso": "2°",
+        "area_privativa": "35,25 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Empresa de Shopping Centers S.A.",
+          "cnpj": "N/A",
+          "administradora": {
+            "nome": "N/A",
+            "cnpj": "N/A"
+          }
+        },
+        "locataria": {
+          "nome": "GOMES & CARDOSO COSMETICOS LTDA",
+          "cnpj": "39.801.002/0001-15"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/11/2020",
+        "data_final": "31/10/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "N/A",
+            "indice_reajuste": "N/A",
+            "periodicidade_reajuste": "N/A"
+          },
+          "percentual": {
+            "percentual": "N/A",
+            "base_calculo": "N/A"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "448,00"
+          },
+          "fundo_promocao": {
+            "percentual": "N/A",
+            "periodo": "N/A"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "N/A",
+          "vigencia": "N/A"
+        },
+        "exclusividade": "N/A"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0538-20",
+      "data_aditamento": "12/07/2024",
+      "vigencia": {
+        "inicio": "01/11/2020",
+        "fim": "31/10/2025"
+      },
+      "alteracoes": {
+        "locataria": "GOMES & CARDOSO COSMETICOS LTDA",
+        "cnpj": "39.801.002/0001-15"
+      },
+      "condicoes_especiais": "Por liberalidade do empreendedor, fica a LOCATARIA dispensada do pagamento da taxa de transferência prevista no contrato de locação."
+    },
+    {
+      "tipo": "Aditamento de Coparticipação",
+      "numero_aditamento": "0539-20",
+      "data_aditamento": "14/01/2021",
+      "vigencia": {
+        "inicio": "01/11/2020",
+        "fim": "31/10/2025"
+      },
+      "alteracoes": {
+        "locataria": "GOMES & CARDOSO COSMETICOS LTDA",
+        "cnpj": "39.801.002/0001-15"
+      },
+      "condicoes_especiais": "N/A"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "12/07/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "0538-20",
+      "principais_alteracoes": [
+        "Alteração da locatária para GOMES & CARDOSO COSMETICOS LTDA",
+        "Dispensa do pagamento da taxa de transferência"
+      ]
+    },
+    {
+      "data": "14/01/2021",
+      "tipo": "Aditamento de Coparticipação",
+      "numero_documento": "0539-20",
+      "principais_alteracoes": [
+        "Alteração da locatária para GOMES & CARDOSO COSMETICOS LTDA"
+      ]
+    }
+  ]
+}

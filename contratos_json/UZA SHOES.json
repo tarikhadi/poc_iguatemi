@@ -1,0 +1,122 @@
+{
+  "loja": {
+    "razao_social": "Liana Calçados e Acessórios Ltda",
+    "nome_fantasia": "UZA SHOES",
+    "cnpj": "42.705.784/0001-01",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "jorgemaia.thermo@gmail.com",
+      "telefone": "(92) 995141404"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "11864-21",
+      "objeto": {
+        "loja": "M",
+        "quadra": "SUC",
+        "piso": "2",
+        "area_privativa": "55,50m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "03.186.025/0001-10",
+          "administradora": {
+            "nome": "Não especificado",
+            "cnpj": "Não especificado"
+          }
+        },
+        "locataria": {
+          "nome": "Jorge Messias de Almeida Maia",
+          "cnpj": "201.332.002-72"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/07/2021",
+        "data_final": "30/06/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 12.765,00",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6,00%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "2,000 m²",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0374-21",
+      "data_aditamento": "03/09/2021",
+      "vigencia": {
+        "inicio": "Não especificado",
+        "fim": "Não especificado"
+      },
+      "alteracoes": {
+        "locataria": {
+          "nome": "Liana Calçados e Acessórios Ltda",
+          "cnpj": "42.705.784/0001-01"
+        }
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato de locação em vigor."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "28/05/2021",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "11864-21",
+      "principais_alteracoes": [
+        "Início de vigência: 01/07/2021",
+        "Fim de vigência: 30/06/2026",
+        "Aluguel mínimo mensal reajustável: R$ 12.765,00"
+      ]
+    },
+    {
+      "data": "03/09/2021",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "0374-21",
+      "principais_alteracoes": [
+        "Alteração da locatária para Liana Calçados e Acessórios Ltda"
+      ]
+    }
+  ]
+}

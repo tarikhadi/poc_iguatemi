@@ -1,0 +1,121 @@
+{
+  "loja": {
+    "razao_social": "PET CAMPINAS PURE LINE COMERCIO VAREJISTA DE ARTIGOS E ALIMENTOS PARA ANIMAIS LTDA",
+    "nome_fantasia": "ZEE DOG",
+    "cnpj": "38.130.164/0001-06",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "fernando@pureline.com.br",
+      "telefone": "(11) 89469-08756"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "12765-35018",
+      "objeto": {
+        "loja": "07A",
+        "quadra": "18",
+        "piso": "1°",
+        "area_privativa": "29,48m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Fernando Augusto Cardoso de Mello",
+          "cnpj": "055.173.967-39"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "23/08/2023",
+        "data_final": "02/04/2024",
+        "prazo": "7 meses e 10 dias"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "1.080m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação e Outras Avenças",
+      "numero_aditamento": "15224-40609",
+      "data_aditamento": "12/04/2024",
+      "vigencia": {
+        "inicio": "12/04/2024",
+        "fim": "Não especificado"
+      },
+      "alteracoes": {
+        "locataria": {
+          "nome": "PET CAMPINAS PURE LINE COMERCIO VAREJISTA DE ARTIGOS E ALIMENTOS PARA ANIMAIS LTDA",
+          "cnpj": "38.130.164/0001-06"
+        }
+      },
+      "condicoes_especiais": "Ratificação dos demais termos, cláusulas e condições do contrato de locação em vigor."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "23/08/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "12765-35018",
+      "principais_alteracoes": [
+        "Constituição de sociedade empresária pelo locatário com 75% do capital social.",
+        "Carência no pagamento do aluguel mínimo mensal reajustável até 02/04/2024."
+      ]
+    },
+    {
+      "data": "12/04/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "15224-40609",
+      "principais_alteracoes": [
+        "Alteração da locatária para PET CAMPINAS PURE LINE COMERCIO VAREJISTA DE ARTIGOS E ALIMENTOS PARA ANIMAIS LTDA."
+      ]
+    }
+  ]
+}

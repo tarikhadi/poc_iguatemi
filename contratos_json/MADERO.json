@@ -1,0 +1,115 @@
+{
+  "loja": {
+    "razao_social": "MADERO INDUSTRIA E COMERCIO S/A",
+    "nome_fantasia": "MADERO STEAKHOUSE",
+    "cnpj": "13.783.221/0001-25",
+    "endereco": {
+      "logradouro": "Rua Luisa Dariva",
+      "numero": "40",
+      "bairro": "Campina do Siqueira",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "80730-480"
+    },
+    "contato": {
+      "email": "controladoria.aluguel@grupomadero.com.br; expansao@grupomadero.com.br; juridicoexpansao@grupomadero.com.br",
+      "telefone": "(41) 98871-1857 / (41) 3017-6643"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "SCIC_06agosto21",
+      "objeto": {
+        "loja": "20",
+        "quadra": "24",
+        "piso": "3°",
+        "area_privativa": "571,15m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "MADERO INDUSTRIA E COMERCIO S/A",
+          "cnpj": "13.783.221/0001-25"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/10/2021",
+        "data_final": "30/09/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "1.000,00 (mil reais)",
+            "periodo": "01/01/2022 a 31/12/2026"
+          }
+        }
+      },
+      "garantias": "Fiadora: MILA PUBLICIDADE E PROPAGANDA LTDA, CNPJ: 21.102.042/0001-03",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "ADIT.RE/RA/LOCAGAO",
+      "data_aditamento": "08/10/2021",
+      "vigencia": {
+        "inicio": "01/01/2022",
+        "fim": "31/12/2026"
+      },
+      "alteracoes": {
+        "prazo": "05 (cinco) anos",
+        "data_inauguracao": "até 01/05/2022",
+        "contribuicao_minima_mensal_reajustavel_em_dezembro": "Não será devida em dobro",
+        "fundo_de_promocao": "1.000,00 (mil reais), reajustado nos termos e prazos da CONTRIBUICAO MINIMA MENSAL REAJUSTAVEL"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato original"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "08/10/2021",
+      "tipo": "Aditamento",
+      "numero_documento": "ADIT.RE/RA/LOCAGAO",
+      "principais_alteracoes": [
+        "Alteração do prazo para 05 (cinco) anos, de 01/01/2022 a 31/12/2026",
+        "Data de inauguração até 01/05/2022",
+        "Contribuição mínima mensal reajustável em dezembro não será devida em dobro",
+        "Fundo de promoção ajustado para 1.000,00 (mil reais)"
+      ]
+    }
+  ]
+}

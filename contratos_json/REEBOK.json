@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "RB BRASIL ARTIGOS ESPORTIVOS LTDA.",
+    "nome_fantasia": "REEBOK",
+    "cnpj": "11.098.433/0013-81",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "mauricio@grupoaste.com.br",
+      "telefone": "(11) 97100 7591"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "SCIC - 10704",
+      "objeto": {
+        "loja": "02/03/04",
+        "quadra": "18",
+        "piso": "1°",
+        "area_privativa": "176,97m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "RB BRASIL ARTIGOS ESPORTIVOS LTDA.",
+          "cnpj": "11.098.433/0013-81"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/04/2023",
+        "data_final": "04/04/2028",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Não especificado"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "2.035"
+          },
+          "fundo_promocao": {
+            "percentual": "10%",
+            "periodo": "05/04/2023 a 04/04/2028"
+          }
+        }
+      },
+      "garantias": "Fiadores: Augusto Salvador Garcia Ernani e Eda Conegero Ernani",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "07/03/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "SCIC - 10704",
+      "principais_alteracoes": [
+        "Cláusulas 11 e 22 do Instrumento Particular de Contrato de Locação alteradas.",
+        "Cláusula 93 do Instrumento Particular de Cláusulas Comuns das Locações alterada."
+      ]
+    }
+  ]
+}

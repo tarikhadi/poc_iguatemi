@@ -1,0 +1,122 @@
+{
+  "loja": {
+    "razao_social": "Glauber Judson Serafim da Costa",
+    "nome_fantasia": "Mr Jones",
+    "cnpj": "04472930609",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "370",
+      "bairro": "Chacara Lusa",
+      "cidade": "Rio Claro",
+      "estado": "SP",
+      "cep": "13502-030"
+    },
+    "contato": {
+      "email": "administrativo@grupogrprime.com.br",
+      "telefone": "(19)35322585"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "5217",
+      "objeto": {
+        "loja": "02",
+        "quadra": "07",
+        "piso": "2°",
+        "area_privativa": "115,20 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Glauber Judson Serafim da Costa",
+          "cnpj": "04472930609"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/03/2020",
+        "data_final": "14/03/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "20.736,00",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "2,20%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "14.325,00"
+          },
+          "fundo_promocao": {
+            "percentual": "0,00%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0786-17",
+      "data_aditamento": "27/10/2017",
+      "vigencia": {
+        "inicio": "15/10/2015",
+        "fim": "14/10/2020"
+      },
+      "alteracoes": {
+        "locataria": "RGR Industria e Comércio de Confecções Ltda - ME",
+        "cnpj": "07.592.465/0003-90",
+        "endereco": "Avenida Iguatemi, 777, Loja 06, Quadra 10, Piso 2°, Campinas, SP"
+      },
+      "condicoes_especiais": "Alteração de locatária e endereço"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "11/02/2020",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "5217",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 15/03/2020",
+        "Termo final da vigência em 14/03/2025",
+        "Aluguel mínimo mensal reajustável estabelecido"
+      ]
+    },
+    {
+      "data": "27/10/2017",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "0786-17",
+      "principais_alteracoes": [
+        "Alteração de locatária para RGR Industria e Comércio de Confecções Ltda - ME",
+        "Mudança de endereço da loja"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "loja": {
+    "razao_social": "M. SHOP COMERCIAL LTDA",
+    "nome_fantasia": "LEGO",
+    "cnpj": "01490698005526",
+    "endereco": {
+      "logradouro": "AV. IGUATEMI",
+      "numero": "777",
+      "bairro": "VILA BRANDINA",
+      "cidade": "CAMPINAS",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "paulo.nascimento@meassab.com.br",
+      "telefone": "1121627826"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "2480 (7660)",
+      "objeto": {
+        "loja": "SUC 04-03",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "99,00 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "M. SHOP COMERCIAL LTDA",
+          "cnpj": "01.490.698/0055-26"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/09/2020",
+        "data_final": "14/09/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "14.056,00",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "2,11% a 3,45%",
+            "base_calculo": "Aluguel Mínimo Mensal Reajustável"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.257"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "15/09/2020 a 14/09/2025"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 m",
+          "vigencia": "Até 14/09/2025"
+        },
+        "exclusividade": "Parque Dom Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0784-16",
+      "data_aditamento": "06/09/2016",
+      "vigencia": {
+        "inicio": "01/10/2015",
+        "fim": "30/09/2020"
+      },
+      "alteracoes": {
+        "locataria": "M. CASSAB COMERCIO E INDUSTRIA LTDA",
+        "cnpj": "49.698.723/0032-00",
+        "isencao_taxa_transferencia": true
+      },
+      "condicoes_especiais": "Incorporação da sociedade locatária"
+    },
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "813/15",
+      "data_aditamento": "01/02/2017",
+      "vigencia": {
+        "inicio": "01/02/2017",
+        "fim": "30/09/2020"
+      },
+      "alteracoes": {
+        "coeficiente_rateio": "1.143"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "03/08/2020",
+      "tipo": "Ação de Aprovação",
+      "numero_documento": "",
+      "principais_alteracoes": [
+        "Envio para aprovação por André Ribeiro"
+      ]
+    },
+    {
+      "data": "03/09/2020",
+      "tipo": "Ação de Aprovação",
+      "numero_documento": "",
+      "principais_alteracoes": [
+        "Aprovação por Erika Jereissati"
+      ]
+    },
+    {
+      "data": "08/09/2020",
+      "tipo": "Ação de Aprovação",
+      "numero_documento": "",
+      "principais_alteracoes": [
+        "Reatribuição para Cristina Betts",
+        "Aprovação por Cristina Betts"
+      ]
+    },
+    {
+      "data": "02/09/2016",
+      "tipo": "Ação de Aprovação",
+      "numero_documento": "RSCICO784/16",
+      "principais_alteracoes": [
+        "Criação do Resumo",
+        "Envio para Validação",
+        "Aprovação Controller Shopping",
+        "Aprovação Advogado"
+      ]
+    },
+    {
+      "data": "15/08/2018",
+      "tipo": "Ação de Aprovação",
+      "numero_documento": "RSCICO813/15",
+      "principais_alteracoes": [
+        "Verificação e envio para validação",
+        "Aprovação Advogado",
+        "Aprovação Gerente Geral"
+      ]
+    }
+  ]
+}

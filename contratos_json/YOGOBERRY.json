@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "YOGO IGUATEMI PRODUTOS ALIMENTICIOS LTDA",
+    "nome_fantasia": "YOGOBERRY",
+    "cnpj": "47.931.895/0001-41",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "fabiogalera@gmail.com",
+      "telefone": "(19) 99925-3900"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "N/A",
+      "objeto": {
+        "loja": "02",
+        "quadra": "24",
+        "piso": "3°",
+        "area_privativa": "32,90m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "CAROLINE DA SILVA CASTRO",
+          "cnpj": "393.038.718-20"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2022",
+        "data_final": "31/08/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "N/A",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "N/A",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "N/A"
+          },
+          "fundo_promocao": {
+            "percentual": "N/A",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "N/A",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "27373",
+      "data_aditamento": "04/01/2023",
+      "vigencia": {
+        "inicio": "15/01/2023",
+        "fim": "N/A"
+      },
+      "alteracoes": {
+        "locataria": "YOGO IGUATEMI PRODUTOS ALIMENTICIOS LTDA",
+        "cnpj": "47.931.895/0001-41"
+      },
+      "condicoes_especiais": "Carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção de 01/09/2022 até 30/11/2022."
+    },
+    {
+      "tipo": "Aditamento de Co-Participação",
+      "numero_aditamento": "27375",
+      "data_aditamento": "04/01/2023",
+      "vigencia": {
+        "inicio": "N/A",
+        "fim": "N/A"
+      },
+      "alteracoes": {},
+      "condicoes_especiais": "N/A"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "10/08/2022",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Contrato inicial firmado entre as partes."
+      ]
+    },
+    {
+      "data": "04/01/2023",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "27373",
+      "principais_alteracoes": [
+        "Alteração da locatária para YOGO IGUATEMI PRODUTOS ALIMENTICIOS LTDA.",
+        "Concessão de carência no pagamento de aluguel e encargos."
+      ]
+    },
+    {
+      "data": "04/01/2023",
+      "tipo": "Aditamento de Co-Participação",
+      "numero_documento": "27375",
+      "principais_alteracoes": [
+        "Ratificação de condições do contrato de co-participação."
+      ]
+    }
+  ]
+}

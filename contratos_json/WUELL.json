@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Thais Martinho Baffini",
+    "nome_fantasia": "WUELL",
+    "cnpj": "374.446.218-88",
+    "endereco": {
+      "logradouro": "Rua da Mooca",
+      "numero": "4218, apto 252",
+      "bairro": "Mooca",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "03165-002"
+    },
+    "contato": {
+      "email": "esabanai@terra.com.br",
+      "telefone": "(11) 98747-6142"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "SCIC - 13762",
+      "objeto": {
+        "loja": "223",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "42,75 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi n° 777 - Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Thais Martinho Baffini",
+          "cnpj": "374.446.218-88"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "24/10/2022",
+        "data_final": "23/10/2026",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "543"
+          },
+          "fundo_promocao": {
+            "percentual": "10% de 24/10/2022 a 23/10/2024, 15% de 24/10/2024 a 23/10/2025, 20% de 24/10/2025 a 23/10/2026",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "13030",
+      "data_aditamento": "25/09/2023",
+      "vigencia": {
+        "inicio": "01/06/2023",
+        "fim": "30/09/2023"
+      },
+      "alteracoes": {
+        "desconto_aluguel": "40%",
+        "valor_desconto": "-R$ 18.468,00"
+      },
+      "condicoes_especiais": "Desconto comercial aplicado ao aluguel mínimo mensal."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "11/12/2023",
+      "tipo": "Distrato",
+      "numero_documento": "SCIC - 13762",
+      "principais_alteracoes": [
+        "Distrato do contrato de locação em vigor a partir de 30/11/2023.",
+        "Confissão de dívida no valor de R$ 92.180,85."
+      ]
+    },
+    {
+      "data": "25/09/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "13030",
+      "principais_alteracoes": [
+        "Concessão de desconto de 40% no aluguel mínimo mensal de 01/06/2023 a 30/09/2023."
+      ]
+    }
+  ]
+}

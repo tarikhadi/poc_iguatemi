@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "ILLINOIS COMERCIO DE CALGADOS LTDA.",
+    "nome_fantasia": "SKECHERS",
+    "cnpj": "35.278.410/0001-83",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "gbaccaglinimorais@gmail.com",
+      "telefone": "(19) 99306-5836"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "D9523043-5E14-46EF-AB49-EBO0C36FAF19",
+      "objeto": {
+        "loja": "19",
+        "quadra": "13",
+        "piso": "1",
+        "area_privativa": "50,00m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ILLINOIS COMERCIO DE CALGADOS LTDA.",
+          "cnpj": "35.278.410/0001-83"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/03/2022",
+        "data_final": "28/02/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Não especificado"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "23/12/2021",
+      "tipo": "Contrato Original",
+      "numero_documento": "D9523043-5E14-46EF-AB49-EBO0C36FAF19",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção de 01/03/2022 até 30/04/2022.",
+        "Alteração da Cláusula 22 sobre taxa de transferência."
+      ]
+    }
+  ]
+}

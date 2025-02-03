@@ -1,0 +1,126 @@
+{
+  "loja": {
+    "razao_social": "VESTE S.A. ESTILO",
+    "nome_fantasia": "LE LIS",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001115",
+      "objeto": {
+        "loja": "F-2B1",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "338,30",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas, SP, 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "VESTE S.A. ESTILO",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "08/06/2023",
+        "data_final": "07/06/2028",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "72.734,50",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "4,50%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "2.706"
+          },
+          "fundo_promocao": {
+            "percentual": "20,00%",
+            "periodo": "08/06/2023 a 07/06/2028"
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "33445",
+      "data_aditamento": "19/07/2023",
+      "vigencia": {
+        "inicio": "08/06/2023",
+        "fim": "07/06/2028"
+      },
+      "alteracoes": {},
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "20/06/2023",
+      "tipo": "Contrato Original",
+      "numero_documento": "10001115",
+      "principais_alteracoes": [
+        "Início do contrato em 08/06/2023 e término em 07/06/2028",
+        "Aluguel mínimo mensal de R$ 72.734,50 reajustável pelo IGPM",
+        "Aluguel percentual de 4,50% do faturamento bruto",
+        "Fundo de promoção de 20% do aluguel mínimo mensal"
+      ]
+    },
+    {
+      "data": "21/07/2023",
+      "tipo": "Distrato",
+      "numero_documento": "",
+      "principais_alteracoes": [
+        "Distrato da locação efetivado em 21/07/2023"
+      ]
+    },
+    {
+      "data": "19/07/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "33445",
+      "principais_alteracoes": [
+        "Confirmação das condições do contrato original"
+      ]
+    }
+  ]
+}

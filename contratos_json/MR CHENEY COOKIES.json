@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Empresa a ser constituida",
+    "nome_fantasia": "MR. CHENEY COOKIES",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Lacedemonia",
+      "numero": "253",
+      "bairro": "",
+      "cidade": "Sao Paulo",
+      "estado": "SP",
+      "cep": "04634020"
+    },
+    "contato": {
+      "email": "mmsapatel@gmail.com",
+      "telefone": "(011) 996561316"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "RSCIC0683/15",
+      "objeto": {
+        "loja": "118",
+        "quadra": "",
+        "piso": "1° Piso",
+        "area_privativa": "28,80 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Marissol Merussi Sapatel e Felipe Bernal Nascimento",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/08/2015",
+        "data_final": "14/08/2020",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 4.320,00",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "446"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "15/08/2015 a 14/08/2020"
+          }
+        }
+      },
+      "garantias": "Contrato sem garantia",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "15/08/2015 a 14/08/2020"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "21887",
+      "data_aditamento": "25/07/2016",
+      "vigencia": {
+        "inicio": "15/08/2015",
+        "fim": "14/08/2020"
+      },
+      "alteracoes": {
+        "data_inauguracao": "15/12/2015",
+        "carencia_aluguel": "15/08/2015 a 14/12/2015"
+      },
+      "condicoes_especiais": "Prorrogação da carência no AMM até 14/12/2015"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "20/08/2015",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "RSCIC0683/15",
+      "principais_alteracoes": [
+        "Contrato inicial firmado"
+      ]
+    },
+    {
+      "data": "25/07/2016",
+      "tipo": "Aditamento",
+      "numero_documento": "21887",
+      "principais_alteracoes": [
+        "Data de inauguração alterada para 15/12/2015",
+        "Carência no pagamento do aluguel prorrogada até 14/12/2015"
+      ]
+    }
+  ]
+}

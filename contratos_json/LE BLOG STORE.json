@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "PEC COMERCIO DO VESTUARIO LTDA",
+    "nome_fantasia": "LE BLOG STORE",
+    "cnpj": "48.978.532/0001-24",
+    "endereco": {
+      "logradouro": "Av. dos Eucaliptos",
+      "numero": "550",
+      "bairro": "Sala B",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "contato@acrosscontabil.com.br",
+      "telefone": "(11) 4395-7650"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "INSTRUMENTO PARTICULAR DE CONTRATO DE LOCACAO E OUTRAS AVENCAS",
+      "numero_contrato": "14163",
+      "objeto": {
+        "loja": "16",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "97,66m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PEC COMERCIO DO VESTUARIO LTDA",
+          "cnpj": "48.978.532/0001-24"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/12/2023",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/03/2024 a 28/02/2029"
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No PARQUE DOM PEDRO SHOPPING, Campinas, SP"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "05/12/2023",
+      "tipo": "CONTRATO",
+      "numero_documento": "14163",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável de 01/03/2024 a 30/05/2024.",
+        "Alteração das cláusulas 11 e 22 do contrato original.",
+        "Estabelecimento de exclusividade no Parque Dom Pedro Shopping."
+      ]
+    }
+  ]
+}

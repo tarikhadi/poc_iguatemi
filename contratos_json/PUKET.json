@@ -1,0 +1,121 @@
+{
+  "loja": {
+    "razao_social": "EKIDS COMERCIO DE ROUPAS E ACESSORIOS LTDA",
+    "nome_fantasia": "Puket",
+    "cnpj": "51090848000190",
+    "endereco": {
+      "logradouro": "Rua Dom Paulo Pedrosa",
+      "numero": "150",
+      "bairro": "Bairro Real Parque Morumbi",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "05687-000"
+    },
+    "contato": {
+      "email": "elaineferreira@uol.com.br",
+      "telefone": "(11) 98129-7474"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "11598",
+      "objeto": {
+        "loja": "03-20",
+        "quadra": "03",
+        "piso": "2°",
+        "area_privativa": "37,50m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Elaine Cristina Sanches Ferreira Ilg",
+          "cnpj": "246.888.348-96"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2018",
+        "data_final": "31/08/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "20.133,40",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "Vendas Bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "625,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/09/2018 a 31/08/2023"
+          }
+        }
+      },
+      "garantias": "Thomas Gregor Ilg",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "01/09/2018 a 31/08/2023"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "11856",
+      "data_aditamento": "27/06/2023",
+      "vigencia": {
+        "inicio": "01/08/2023",
+        "fim": "31/07/2028"
+      },
+      "alteracoes": {
+        "aluguel_minimo": {
+          "valor": "121,65",
+          "indice": "IGPM",
+          "vigencia": "06/2023"
+        }
+      },
+      "condicoes_especiais": "Desconto de 30% no aluguel mínimo de 01/06/2022 a 31/08/2022"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "13/06/2022",
+      "tipo": "E-mail Desconto",
+      "numero_documento": "7397",
+      "principais_alteracoes": [
+        "Desconto de 30% no aluguel mínimo de 01/06/2022 a 31/08/2022"
+      ]
+    },
+    {
+      "data": "22/02/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "28741",
+      "principais_alteracoes": [
+        "Desconto de 30% no aluguel mínimo de 01/03/2022 a 31/05/2022"
+      ]
+    }
+  ]
+}

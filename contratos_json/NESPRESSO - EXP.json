@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "Nestle Brasil Ltda",
+    "nome_fantasia": "Nespresso",
+    "cnpj": "60.409.075/0001-52",
+    "endereco": {
+      "logradouro": "Rua Doutor Rubens Gomes Bueno",
+      "numero": "691",
+      "bairro": "Varzea de Baixo",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "ana.ladeira@nespresso.com",
+      "telefone": "(11) 5508-4400"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "9037",
+      "objeto": {
+        "loja": "124/125/126",
+        "quadra": "",
+        "piso": "1°",
+        "area_privativa": "166,70m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Nestle Brasil Ltda",
+          "cnpj": "60.409.075/0001-52"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiadora: Gabriel Victor Ramos Nobre",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "A locatária não pode instalar ou manter qualquer outro estabelecimento dentro do raio indicado sem autorização do locador."
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "15/12/2021",
+      "tipo": "Renovação de Contrato",
+      "numero_documento": "9037",
+      "principais_alteracoes": [
+        "Isenção do pagamento de aluguel percentual durante a vigência do contrato.",
+        "Locatária renuncia ao direito de propor ação revisional de aluguel.",
+        "Autorização para realizar eventos ou instalar quiosques Nespresso no local indicado."
+      ]
+    }
+  ]
+}

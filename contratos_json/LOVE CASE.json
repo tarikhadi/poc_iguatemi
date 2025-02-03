@@ -1,0 +1,159 @@
+{
+  "loja": {
+    "razao_social": "R. L. BRAZ COMERCIO DE ACESSORIOS PARA CELULAR",
+    "nome_fantasia": "LOVE CASE",
+    "cnpj": "33.533.396/0001-91",
+    "endereco": {
+      "logradouro": "Rua Treze de Maio",
+      "numero": "138",
+      "bairro": "Centro",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13010-070"
+    },
+    "contato": {
+      "email": "ryanlustosa21@hotmail.com",
+      "telefone": "(19) 99694-2703"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "INSTRUMENTO PARTICULAR DE CONTRATO DE LOCACAO E OUTRAS AVENCAS",
+      "numero_contrato": "16738",
+      "objeto": {
+        "loja": "219",
+        "quadra": "SUC",
+        "piso": "2",
+        "area_privativa": "21,65m2",
+        "localizacao": {
+          "shopping": "SHOPPING CENTER IGUATEMI CAMPINAS",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "R. L. BRAZ COMERCIO DE ACESSORIOS PARA CELULAR",
+          "cnpj": "33.533.396/0001-91"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/03/2022",
+        "data_final": "04/03/2026",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Desconto/Carência",
+      "numero_aditamento": "42219",
+      "data_aditamento": "10/05/2024",
+      "vigencia": {
+        "inicio": "01/09/2024",
+        "fim": "31/12/2024"
+      },
+      "alteracoes": {
+        "desconto": "70% sobre o Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    },
+    {
+      "tipo": "Desconto/Carência",
+      "numero_aditamento": "43570",
+      "data_aditamento": "24/06/2024",
+      "vigencia": {
+        "inicio": "01/10/2023",
+        "fim": "30/11/2023"
+      },
+      "alteracoes": {
+        "desconto": "20% sobre o Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    },
+    {
+      "tipo": "Desconto/Carência",
+      "numero_aditamento": "13558",
+      "data_aditamento": "31/10/2023",
+      "vigencia": {
+        "inicio": "01/10/2023",
+        "fim": "30/11/2023"
+      },
+      "alteracoes": {
+        "desconto": "15% sobre o Aluguel Mínimo"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "27/01/2022",
+      "tipo": "Contrato Original",
+      "numero_documento": "16738",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel de 05/03/2022 a 06/04/2022."
+      ]
+    },
+    {
+      "data": "10/05/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "42219",
+      "principais_alteracoes": [
+        "Desconto de 70% no Aluguel Mínimo de 01/09/2024 a 31/12/2024."
+      ]
+    },
+    {
+      "data": "24/06/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "43570",
+      "principais_alteracoes": [
+        "Desconto de 20% no Aluguel Mínimo de 01/10/2023 a 30/11/2023."
+      ]
+    },
+    {
+      "data": "31/10/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "13558",
+      "principais_alteracoes": [
+        "Desconto de 15% no Aluguel Mínimo de 01/10/2023 a 30/11/2023."
+      ]
+    }
+  ]
+}

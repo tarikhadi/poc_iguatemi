@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "ORIT ARTIGOS DE LUXO LTDA",
+    "nome_fantasia": "Orit",
+    "cnpj": "02.071.667/0001-00",
+    "endereco": {
+      "logradouro": "Avenida Ibirapuera",
+      "numero": "3103",
+      "bairro": "Indianópolis",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "rony@orit.com.br",
+      "telefone": "(11) 99973-3561"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "31974",
+      "objeto": {
+        "loja": "02D",
+        "quadra": "11",
+        "piso": "1",
+        "area_privativa": "56,25m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Empresa de Shopping Centers S/A",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ORIT ARTIGOS DE LUXO LTDA",
+          "cnpj": "02.071.667/0001-00"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/08/2023",
+        "data_final": "01/08/2025",
+        "prazo": "2 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 25.312,50",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "26/05/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "31974",
+      "principais_alteracoes": [
+        "Estabelecimento de carência para obras até outubro de 2023",
+        "Aluguel mínimo mensal reajustável após período de carência",
+        "Regras anticorrupção estabelecidas"
+      ]
+    }
+  ]
+}

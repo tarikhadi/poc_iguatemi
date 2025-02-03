@@ -1,0 +1,117 @@
+{
+  "loja": {
+    "razao_social": "ASZ Comércio de Artigos Esportivos Ltda",
+    "nome_fantasia": "OSKLEN",
+    "cnpj": "07.038.019/0001-76",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "São Paulo",
+      "cep": "13101-664"
+    },
+    "contato": {
+      "email": "gustavo.assis@osklen.com.br",
+      "telefone": "49 3252-5900"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Nova Locação",
+      "numero_contrato": "195/10",
+      "objeto": {
+        "loja": "03B",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "40,56 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ASZ Comércio de Artigos Esportivos Ltda",
+          "cnpj": "07.038.019/0001-76"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/11/2010",
+        "data_final": "Indeterminado",
+        "prazo": "Indeterminado"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "46,386.00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não aplicável",
+            "base_calculo": "Não aplicável"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "203"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiadores: Gustavo de Almeida Assis e Gisela Sarnes Negrão Assis",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "N/A",
+      "data_aditamento": "01/08/2013",
+      "vigencia": {
+        "inicio": "01/08/2013",
+        "fim": "Indeterminado"
+      },
+      "alteracoes": {
+        "clausula_22": "Isenção da taxa de transferência para empresas do mesmo grupo econômico"
+      },
+      "condicoes_especiais": "Isenção da taxa de transferência para empresas do mesmo grupo econômico"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "25/10/2010",
+      "tipo": "Contrato Original",
+      "numero_documento": "195/10",
+      "principais_alteracoes": [
+        "Contrato de locação firmado com vigência indeterminada a partir de 01/11/2010"
+      ]
+    },
+    {
+      "data": "01/08/2013",
+      "tipo": "Aditamento",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Isenção da taxa de transferência para empresas do mesmo grupo econômico"
+      ]
+    }
+  ]
+}

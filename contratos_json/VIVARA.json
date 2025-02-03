@@ -1,0 +1,111 @@
+{
+  "loja": {
+    "razao_social": "Tellerina Comercio de Presentes e Artigos para Decoracao S.A.",
+    "nome_fantasia": "Vivara",
+    "cnpj": "84.453.844/0001-88",
+    "endereco": {
+      "logradouro": "Rua São Domingos",
+      "numero": "86",
+      "bairro": "Aleixo",
+      "cidade": "Manaus",
+      "estado": "Amazonas",
+      "cep": ""
+    },
+    "contato": {
+      "email": "nelson.kaufman@vivara.com.br",
+      "telefone": "3896-6561"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "25082005",
+      "objeto": {
+        "loja": "1-2-3",
+        "quadra": "03",
+        "piso": "2",
+        "area_privativa": "112,50 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777 - Vila Brandina, Campinas - SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "Tellerina Comercio de Presentes e Artigos para Decoracao S.A.",
+          "cnpj": "84.453.844/0001-88"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2005",
+        "data_final": "31/08/2010",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IPC-DIVFGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/09/2015 a 31/08/2020"
+          }
+        }
+      },
+      "garantias": "Nelson Kaufman, RG: 5.380.483 SSP/SP, CPF: 000.882.608-01",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": ""
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Renovação Judicial",
+      "numero_aditamento": "1006731-46.2020.8.26.0114",
+      "data_aditamento": "19/10/2023",
+      "vigencia": {
+        "inicio": "01/09/2020",
+        "fim": "31/08/2025"
+      },
+      "alteracoes": {
+        "aluguel_minimo_mensal": "R$53.616,00",
+        "prazo": "5 anos"
+      },
+      "condicoes_especiais": "Conservação de todas as demais características do contrato original."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "19/10/2023",
+      "tipo": "Sentença Judicial",
+      "numero_documento": "1006731-46.2020.8.26.0114",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais 5 anos.",
+        "Fixação do aluguel mínimo mensal em R$53.616,00 para setembro de 2020."
+      ]
+    }
+  ]
+}
