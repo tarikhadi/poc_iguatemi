@@ -19,7 +19,7 @@ from typing import Dict, List, Any
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Initialize OpenAI client
-client = OpenAI()
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 SYSTEM_PROMPT = f"""Você é um assistente especializado em contratos do Shopping Center Iguatemi. 
 
@@ -62,7 +62,7 @@ def load_documents(directory_path: str):
     """Load documents with enhanced metadata handling."""
     try:
         # Initialize embedding function and collection
-        embedding_function = embedding_functions.OpenAIEmbeddingFunction(model_name="text-embedding-3-small")
+        embedding_function = embedding_functions.OpenAIEmbeddingFunction(model_name="text-embedding-3-small", api_key=OPENAI_API_KEY)
         
         chroma_client = chromadb.PersistentClient(path="./chroma_db")
         collection = chroma_client.get_or_create_collection(
