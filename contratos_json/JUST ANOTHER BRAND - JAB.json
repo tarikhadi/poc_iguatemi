@@ -1,0 +1,153 @@
+{
+  "loja": {
+    "razao_social": "PBFG COMERCIO DE CONFECCOES E ACESSORIOS LTDA",
+    "nome_fantasia": "Just Another Brand - JAB",
+    "cnpj": "46.701.308/0001-65",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "financeiro@ac-consult.com.br",
+      "telefone": "(19) 99444-6499"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "6997",
+      "objeto": {
+        "loja": "20-05",
+        "quadra": "05",
+        "piso": "1",
+        "area_privativa": "115,20 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "PBFG COMERCIO DE CONFECCOES E ACESSORIOS LTDA",
+          "cnpj": "46.701.308/0001-65"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/06/2022",
+        "data_final": "31/05/2026",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.325"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/06/2022 a 31/05/2026"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "No Parque Dom Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "13155",
+      "data_aditamento": "04/10/2023",
+      "vigencia": {
+        "inicio": "01/06/2024",
+        "fim": "31/08/2024"
+      },
+      "alteracoes": {
+        "descontos": [
+          {
+            "periodo": "01/06/2024 a 31/07/2024",
+            "aluguel_minimo": "30%"
+          },
+          {
+            "periodo": "01/08/2024 a 31/08/2024",
+            "aluguel_minimo": "25%"
+          }
+        ]
+      },
+      "condicoes_especiais": "Descontos válidos somente se pagos pontualmente."
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "38998",
+      "data_aditamento": "31/01/2024",
+      "vigencia": {
+        "inicio": "01/06/2023",
+        "fim": "31/08/2023"
+      },
+      "alteracoes": {
+        "descontos": [
+          {
+            "periodo": "01/06/2023 a 31/08/2023",
+            "aluguel_minimo": "40%"
+          }
+        ]
+      },
+      "condicoes_especiais": "Descontos válidos somente se pagos pontualmente."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "12/05/2022",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "6997",
+      "principais_alteracoes": [
+        "Início do contrato de locação com vigência de 4 anos."
+      ]
+    },
+    {
+      "data": "04/10/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "13155",
+      "principais_alteracoes": [
+        "Concessão de desconto de 30% no aluguel mínimo de 01/06/2024 a 31/07/2024.",
+        "Concessão de desconto de 25% no aluguel mínimo de 01/08/2024 a 31/08/2024."
+      ]
+    },
+    {
+      "data": "31/01/2024",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "38998",
+      "principais_alteracoes": [
+        "Concessão de desconto de 40% no aluguel mínimo de 01/06/2023 a 31/08/2023."
+      ]
+    }
+  ]
+}

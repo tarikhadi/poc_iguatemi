@@ -1,0 +1,98 @@
+{
+  "loja": {
+    "razao_social": "JESSICA MERINO MODA FEMININA LTDA",
+    "nome_fantasia": "JESSY MERINO SELECT",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "cep": ""
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001170",
+      "objeto": {
+        "loja": "23-05",
+        "quadra": "",
+        "piso": "",
+        "area_privativa": "147,3300",
+        "localizacao": {
+          "shopping": "SHOPPING C.C.S.C.IGUATEMI CAMPINAS",
+          "endereco": ""
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "JESSICA MERINO MODA FEMININA LTDA",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01.06.2024",
+        "data_final": "31.05.2028",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "41.252,40",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anos"
+          },
+          "percentual": {
+            "percentual": "7.00",
+            "base_calculo": "Faturamentos brutos"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.694,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20.00",
+            "periodo": "01.06.2024 - S/A"
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "12.06.2024",
+      "tipo": "Criação de Contrato",
+      "numero_documento": "10001170",
+      "principais_alteracoes": [
+        "Contrato inicial criado com vigência de 01.06.2024 a 31.05.2028.",
+        "Aluguel mínimo mensal inicial de 41.252,40 com reajuste anual pelo IGPM.",
+        "Percentual de aluguel sobre faturamento bruto de 7.00%.",
+        "Fundo de promoção com percentual de 20.00% a partir de 01.06.2024."
+      ]
+    }
+  ]
+}

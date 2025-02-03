@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "Fillity",
+    "nome_fantasia": "Fillity",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Nebraska",
+      "numero": "401",
+      "bairro": "Brooklin",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04560-011"
+    },
+    "contato": {
+      "email": "fabiodabbur@fillity.com.br",
+      "telefone": "(11) 3044-1325"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Renovação",
+      "numero_contrato": "31286",
+      "objeto": {
+        "loja": "12-14;12-15",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": ""
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "Fillity",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "124,87",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "01/2023"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Comercialização de vestuário feminino exclusivo da marca Fillity"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "16/05/2023",
+      "tipo": "Renovação",
+      "numero_documento": "31286",
+      "principais_alteracoes": [
+        "Renovação do contrato de locação para a loja 12-14;12-15 no Shopping Center Iguatemi Campinas",
+        "Valor do aluguel mínimo mensal ajustado para 124,87 com base no IGPM de 01/2023"
+      ]
+    }
+  ]
+}

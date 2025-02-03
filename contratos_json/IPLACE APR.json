@@ -1,0 +1,118 @@
+{
+  "loja": {
+    "razao_social": "GLOBAL DISTRIBUIGAO DE BENS DE CONSUMO LTDA",
+    "nome_fantasia": "IPPLACE APR",
+    "cnpj": "89.237.911/0001-40",
+    "endereco": {
+      "logradouro": "Rodovia BR 116",
+      "numero": "7350",
+      "bairro": "Portal da Serra",
+      "cidade": "Dois Irmaos",
+      "estado": "RS",
+      "cep": "93950-000"
+    },
+    "contato": {
+      "email": "euclides.kowalski@herval.com.br",
+      "telefone": "(51) 35648300"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "4473-21",
+      "objeto": {
+        "loja": "29/30",
+        "quadra": "22",
+        "piso": "1°",
+        "area_privativa": "355,84 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "GLOBAL DISTRIBUIGAO DE BENS DE CONSUMO LTDA",
+          "cnpj": "89.237.911/0001-40"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/09/2021",
+        "data_final": "14/09/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "15/09/2021 até 14/12/2021 (carência)"
+          }
+        }
+      },
+      "garantias": "Fiadora: HH-MASTER ADMINISTRACAO E INCORPORACAO DE IMOVEIS LTDA, CNPJ: 07.782.056/0001-94",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "Não especificado",
+      "data_aditamento": "20/08/2024",
+      "vigencia": {
+        "inicio": "20/08/2024",
+        "fim": "Não especificado"
+      },
+      "alteracoes": {
+        "preambulo": "Alteração do preâmbulo do Quadro Resumo do Contrato de Locação"
+      },
+      "condicoes_especiais": "Não especificado"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "30/08/2021",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "4473-21",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 15/09/2021",
+        "Carência no pagamento do aluguel mínimo mensal, condomínio e fundo de promoção de 15/09/2021 até 14/12/2021"
+      ]
+    },
+    {
+      "data": "20/08/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "Não especificado",
+      "principais_alteracoes": [
+        "Alteração do preâmbulo do Quadro Resumo do Contrato de Locação"
+      ]
+    }
+  ]
+}

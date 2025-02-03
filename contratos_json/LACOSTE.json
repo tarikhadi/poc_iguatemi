@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "DEVANLAY VENTURES DO BRASIL COMERCIO DE IMPORTACAO, EXPORTACAO E PARTICIPACOES LTDA",
+    "nome_fantasia": "Lacoste",
+    "cnpj": "08.229.030/0001-86",
+    "endereco": {
+      "logradouro": "Av. Brigadeiro Faria Lima",
+      "numero": "3.311",
+      "bairro": "Itaim Bibi",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "ftoreto@lacoste.com",
+      "telefone": "(11) 4950-4419"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "21406",
+      "objeto": {
+        "loja": "17",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "116,89m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "DEVANLAY VENTURES DO BRASIL COMERCIO DE IMPORTACAO, EXPORTACAO E PARTICIPACOES LTDA",
+          "cnpj": "08.229.030/0001-86"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/07/2022",
+        "data_final": "15/07/2024",
+        "prazo": "2 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "29.222,50",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "23/06/2022",
+      "tipo": "Contrato Original",
+      "numero_documento": "21406",
+      "principais_alteracoes": [
+        "Concedida carência no pagamento do aluguel mínimo mensal reajustável no período de 15/07/2022 a 14/10/2022.",
+        "Alterada a Cláusula 22 sobre a taxa de transferência.",
+        "Isenção do pagamento das taxas de coparticipação no início da locação."
+      ]
+    }
+  ]
+}

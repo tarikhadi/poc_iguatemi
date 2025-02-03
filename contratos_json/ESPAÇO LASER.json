@@ -1,0 +1,113 @@
+{
+  "loja": {
+    "razao_social": "CORPOREOS - SERVIGOS TERAPEUTICOS S.A.",
+    "nome_fantasia": "Espaço Laser",
+    "cnpj": "08.845.676/0001-98",
+    "endereco": {
+      "logradouro": "Av. dos Eucaliptos",
+      "numero": "762",
+      "bairro": "Moema",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "gestaoimobiliaria@espacolaser.com.br",
+      "telefone": "(11) 5094-7829"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "SCIC - 14008",
+      "objeto": {
+        "loja": "07",
+        "quadra": "22",
+        "piso": "1",
+        "area_privativa": "50,68m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas - SP CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "CORPOREOS - SERVIGOS TERAPEUTICOS S.A.",
+          "cnpj": "08.845.676/0001-98"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2017",
+        "data_final": "31/08/2021",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "SCIC - 13828",
+      "data_aditamento": "29/11/2023",
+      "vigencia": {
+        "inicio": "01/12/2023",
+        "fim": "30/11/2028"
+      },
+      "alteracoes": {
+        "incorporacao": "Incorporação da empresa ABBRUZZESE E MOURA ESTETICA LTDA pela CORPOREOS - SERVIGOS TERAPEUTICOS S.A.",
+        "prazo": "5 anos",
+        "valor_coparticipacao": "R$ 245.000,00"
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "29/11/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 13828",
+      "principais_alteracoes": [
+        "Incorporação da empresa ABBRUZZESE E MOURA ESTETICA LTDA pela CORPOREOS - SERVIGOS TERAPEUTICOS S.A.",
+        "Alteração do prazo de vigência para 5 anos",
+        "Estabelecimento de valor de coparticipação de R$ 245.000,00"
+      ]
+    }
+  ]
+}

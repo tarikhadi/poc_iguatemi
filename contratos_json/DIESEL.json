@@ -1,0 +1,113 @@
+{
+  "loja": {
+    "razao_social": "Brave Company Comercial e Importadora Ltda.",
+    "nome_fantasia": "Diesel",
+    "cnpj": "14.907.789/0017-30",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092902"
+    },
+    "contato": {
+      "email": "augustoernani@grupoaste.com.br",
+      "telefone": "1121668888"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "10000549",
+      "objeto": {
+        "loja": "142",
+        "quadra": "SUC 1405",
+        "piso": "1",
+        "area_privativa": "113,70 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Brave Company Comercial e Importadora Ltda.",
+          "cnpj": "14.907.789/0017-30"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2015",
+        "data_final": "31/03/2020",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "722,84",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "4% a 5%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "4.308,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "30/04/2019 a 29/04/2020"
+          }
+        }
+      },
+      "garantias": "Fiadores: Augusto Salvador Garcia Ernani e Eda Conegero Ernani",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "durante o prazo da locação"
+        },
+        "exclusividade": "No Shopping Center Parque Dom Pedro, Campinas, SP"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Renovação",
+      "numero_aditamento": "5874",
+      "data_aditamento": "13/05/2015",
+      "vigencia": {
+        "inicio": "30/04/2015",
+        "fim": "29/04/2020"
+      },
+      "alteracoes": {
+        "vigencia": "Alterada para início em 30/04/2015 e término em 29/04/2020",
+        "aluguel_percentual": "4% de 30/04/2015 a 29/04/2017 e 5% de 30/04/2017 a 29/04/2020",
+        "fundo_promocao": "10% de 30/04/2015 a 29/04/2017, 15% de 30/04/2017 a 29/04/2019, 20% de 30/04/2019 a 29/04/2020"
+      },
+      "condicoes_especiais": "Constituição de filial Brave Company Comercial e Importadora Ltda."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "13/05/2015",
+      "tipo": "Aditamento de Renovação",
+      "numero_documento": "5874",
+      "principais_alteracoes": [
+        "Vigência alterada para início em 30/04/2015 e término em 29/04/2020",
+        "Aluguel Percentual: 4% de 30/04/2015 a 29/04/2017 e 5% de 30/04/2017 a 29/04/2020",
+        "Fundo de Promoção: 10% de 30/04/2015 a 29/04/2017, 15% de 30/04/2017 a 29/04/2019, 20% de 30/04/2019 a 29/04/2020"
+      ]
+    }
+  ]
+}

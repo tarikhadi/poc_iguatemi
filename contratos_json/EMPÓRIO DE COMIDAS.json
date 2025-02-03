@@ -1,0 +1,86 @@
+{
+  "loja": {
+    "razao_social": "PHOENIX FRANCHISING LTDA",
+    "nome_fantasia": "EMPORIO DE COMIDAS",
+    "cnpj": "35.849.159/0001-60",
+    "endereco": {
+      "logradouro": "Avenida dos Autonomistas",
+      "numero": "896, Loja 201",
+      "bairro": "Vila Yara",
+      "cidade": "Osasco",
+      "estado": "SP",
+      "cep": "06020-010"
+    },
+    "contato": {
+      "email": "rcapelarisilva@hotmail.com",
+      "telefone": "(11) 99618-1809"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001154",
+      "objeto": {
+        "loja": "11",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "45,24m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "03.186.025/0001-10",
+          "administradora": {
+            "nome": "ENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PHOENIX FRANCHISING LTDA",
+          "cnpj": "35.849.159/0001-60"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/02/2024",
+        "data_final": "14/02/2029",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 21.715,20",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "não especificado",
+            "periodo": "não especificado"
+          }
+        }
+      },
+      "garantias": "não especificado",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "não especificado",
+          "vigencia": "não especificado"
+        },
+        "exclusividade": "não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": []
+}
