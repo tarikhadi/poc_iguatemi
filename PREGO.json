@@ -1,0 +1,130 @@
+{
+  "loja": {
+    "razao_social": "Bristol Comercial Ltda",
+    "nome_fantasia": "PREGO",
+    "cnpj": "59.669.788/0001-76",
+    "endereco": {
+      "logradouro": "Rua Padre Joao Manuel",
+      "numero": "755",
+      "bairro": "Cerqueira César",
+      "cidade": "Sao Paulo",
+      "estado": "SP",
+      "cep": "01411-001"
+    },
+    "contato": {
+      "email": "comercial@prego.com.br",
+      "telefone": "11 3064-7700"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "RSCICO927/16",
+      "objeto": {
+        "loja": "PREGO",
+        "quadra": "03",
+        "piso": "2",
+        "area_privativa": "140,63 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Bristol Comercial Ltda",
+          "cnpj": "59.669.788/0001-76"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2013",
+        "data_final": "31/08/2018",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "21.201,51",
+            "indice_reajuste": "IPCDI-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.617,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/09/2013 a 31/08/2018"
+          }
+        }
+      },
+      "garantias": "Fiadora: RAFT Empreendimentos e Participações Ltda",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "01/09/2013 a 31/08/2018"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "RSCIC0333/16",
+      "data_aditamento": "29/04/2016",
+      "vigencia": {
+        "inicio": "01/04/2016",
+        "fim": "30/09/2016"
+      },
+      "alteracoes": {
+        "desconto": "50% do Aluguel Minimo no periodo 01/04/16 até 30/09/16"
+      },
+      "condicoes_especiais": "Desconto para evitar encerramento da operação no SCIC."
+    },
+    {
+      "tipo": "Aditamento de Carência",
+      "numero_aditamento": "RSCICO265/17",
+      "data_aditamento": "02/04/2017",
+      "vigencia": {
+        "inicio": "02/04/2017",
+        "fim": "16/04/2017"
+      },
+      "alteracoes": {
+        "carencia": "Carência no pagamento do Aluguel Minimo Mensal Reajustável para obras/reformas."
+      },
+      "condicoes_especiais": "Carência concedida para conclusão de obras/reformas."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "30/04/2017",
+      "tipo": "Distrato",
+      "numero_documento": "RSCICO927/16",
+      "principais_alteracoes": [
+        "Rescisão do contrato devido à realocação para o SUC da Dumond."
+      ]
+    },
+    {
+      "data": "22/01/2021",
+      "tipo": "Distrato de Depósito",
+      "numero_documento": "9573 1°/ DEP 01",
+      "principais_alteracoes": [
+        "Distrato do depósito com vigência indeterminada."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "loja": {
+    "razao_social": "MCIC Comércio de Calçados Ltda",
+    "nome_fantasia": "MR. CAT",
+    "cnpj": "09.480.366/0001-80",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "mrcat.operacoes@gmail.com",
+      "telefone": "(41) 98813-2268"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "10001107",
+      "objeto": {
+        "loja": "03",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "73,28m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP CEP 13.092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "MCIC Comércio de Calçados Ltda",
+          "cnpj": "09.480.366/0001-80"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "06/04/2023",
+        "data_final": "05/04/2028",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 31.144,00",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "931,00"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Fiadora: Zilda Hanemann",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "11496",
+      "data_aditamento": "22/05/2023",
+      "vigencia": {
+        "inicio": "06/04/2023",
+        "fim": "31/12/9999"
+      },
+      "alteracoes": {
+        "exclusao_fiador": "Edson Bossonaro a partir de 01/05/2016"
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato original"
+    },
+    {
+      "tipo": "Aditamento de Coparticipação",
+      "numero_aditamento": "315-20",
+      "data_aditamento": "11/08/2020",
+      "vigencia": {
+        "inicio": "Não especificado",
+        "fim": "Não especificado"
+      },
+      "alteracoes": {
+        "condicoes_pagamento": "Parcelas mensais de R$ 7.786,00 de 07/05/2023 a 06/04/2025"
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato original"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "17/05/2023",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "10001107",
+      "principais_alteracoes": [
+        "Início da vigência do contrato em 06/04/2023",
+        "Término da vigência do contrato em 05/04/2028"
+      ]
+    },
+    {
+      "data": "22/05/2023",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "11496",
+      "principais_alteracoes": [
+        "Exclusão do fiador Edson Bossonaro a partir de 01/05/2016"
+      ]
+    },
+    {
+      "data": "11/08/2020",
+      "tipo": "Aditamento de Coparticipação",
+      "numero_documento": "315-20",
+      "principais_alteracoes": [
+        "Condições de pagamento ajustadas para parcelas mensais de R$ 7.786,00"
+      ]
+    }
+  ]
+}

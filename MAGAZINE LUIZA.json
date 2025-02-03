@@ -1,0 +1,99 @@
+{
+  "loja": {
+    "razao_social": "Magazine Luiza S/A",
+    "nome_fantasia": "MAGAZINE LUIZA",
+    "cnpj": "47.960.950/0001-21",
+    "endereco": {
+      "logradouro": "Rua Voluntarios da Franca",
+      "numero": "1465",
+      "bairro": "Centro",
+      "cidade": "Franca",
+      "estado": "SP",
+      "cep": "14400-490"
+    },
+    "contato": {
+      "email": "magazineluiza@magazineluiza.com.br",
+      "telefone": "16 3711-2000"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "337/15",
+      "objeto": {
+        "loja": "218",
+        "quadra": "",
+        "piso": "2° Piso",
+        "area_privativa": "530,96 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil Shopping Center Iguatemi Campinas",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "Magazine Luiza S/A",
+          "cnpj": "47.960.950/0001-21"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2015",
+        "data_final": "31/03/2025",
+        "prazo": "10 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "0,00"
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Contrato sem fiador, aprovado",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "2000 metros",
+          "vigencia": ""
+        },
+        "exclusividade": "Parque D. Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "10/03/2015",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "337/15",
+      "principais_alteracoes": [
+        "Início da vigência em 01/04/2015 e término em 31/03/2025.",
+        "Área privativa de 530,96 m².",
+        "Exclusividade no Parque D. Pedro Shopping.",
+        "Raio de 2000 metros para exclusividade.",
+        "Contrato sem fiador, aprovado."
+      ]
+    }
+  ]
+}

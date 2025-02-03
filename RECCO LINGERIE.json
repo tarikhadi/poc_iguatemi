@@ -1,0 +1,111 @@
+{
+  "loja": {
+    "razao_social": "RECCO CONFECÇÕES LTDA.",
+    "nome_fantasia": "RECCO LINGERIE",
+    "cnpj": "77.934.313/0001-41",
+    "endereco": {
+      "logradouro": "Rua Rebouças",
+      "numero": "479",
+      "bairro": "Zona 10",
+      "cidade": "Maringá",
+      "estado": "PR",
+      "cep": "87030-410"
+    },
+    "contato": {
+      "email": "franciane@recco.com.br",
+      "telefone": "(44) 2101-6262"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "33988",
+      "objeto": {
+        "loja": "22-22;22-23;22-24",
+        "quadra": "22",
+        "piso": "1",
+        "area_privativa": "273,62 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "46.002.176/0001-83",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "RECCO CONFECÇÕES LTDA.",
+          "cnpj": "77.934.313/0001-41"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/11/2018",
+        "data_final": "31/10/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 32.500,00",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "100% carência para obras de 01/11/2018 a 31/01/2019"
+          },
+          "fundo_promocao": {
+            "percentual": "100% carência para obras de 01/11/2018 a 31/01/2019",
+            "periodo": "01/11/2018 a 31/01/2019"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Distrato",
+      "numero_aditamento": "0",
+      "data_aditamento": "18/08/2023",
+      "vigencia": {
+        "inicio": "31/08/2023",
+        "fim": "31/08/2023"
+      },
+      "alteracoes": {
+        "multa_resolutoria": "Isenta",
+        "condicoes_especiais": "A locatária só poderá remover objetos após colocação de tapumes"
+      },
+      "condicoes_especiais": "Distrato irrevogável e irretratável"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "18/08/2023",
+      "tipo": "Distrato",
+      "numero_documento": "0",
+      "principais_alteracoes": [
+        "Isenção de multa resolutória",
+        "Condição de remoção de objetos após colocação de tapumes"
+      ]
+    }
+  ]
+}

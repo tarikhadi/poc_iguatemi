@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "Blue Point Franchiser Ltda.",
+    "nome_fantasia": "Ortobon Premium",
+    "cnpj": "43.074.533/0001-20",
+    "endereco": {
+      "logradouro": "Avenida Magalhaes de Castro",
+      "numero": "4800",
+      "bairro": "Cidade Jardim",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "contabilidade@bluepointfranchiser.com.br",
+      "telefone": "(11) 4393-5000"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "SCIC - 15702-41838",
+      "objeto": {
+        "loja": "02/03/03A-2",
+        "quadra": "01",
+        "piso": "2°",
+        "area_privativa": "99,75m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Blue Point Franchiser Ltda.",
+          "cnpj": "43.074.533/0001-20"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "SCIC - 16444-43702",
+      "data_aditamento": "20/06/2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "carencia": {
+          "inicio": "15/07/2024",
+          "fim": "23/11/2024"
+        }
+      },
+      "condicoes_especiais": ""
+    },
+    {
+      "tipo": "Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "SCIC - 17862",
+      "data_aditamento": "23/09/2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "data_inauguracao": "24/11/2024",
+        "carencia": {
+          "inicio": "15/07/2024",
+          "fim": "23/11/2024"
+        }
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "20/06/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 16444-43702",
+      "principais_alteracoes": [
+        "Ratificação dos termos do contrato de locação em vigor."
+      ]
+    },
+    {
+      "data": "23/09/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 17862",
+      "principais_alteracoes": [
+        "Prorrogação da carência no pagamento do aluguel mínimo mensal reajustável.",
+        "Data de inauguração alterada para 24/11/2024."
+      ]
+    }
+  ]
+}

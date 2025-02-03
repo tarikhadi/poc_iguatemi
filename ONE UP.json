@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "ONE UP INDUSTRIA DE MODA LTDA",
+    "nome_fantasia": "ONE UP",
+    "cnpj": "48.047.765/0001-03",
+    "endereco": {
+      "logradouro": "Rua Desembargador Herotides da Silva Lima",
+      "numero": "65",
+      "bairro": "Vila Mariana",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04042-060"
+    },
+    "contato": {
+      "email": "daniel@oneup.com.br / rogerio@oneup.com.br",
+      "telefone": "(11) 5582-7280"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "17185",
+      "objeto": {
+        "loja": "12",
+        "quadra": "23",
+        "piso": "2",
+        "area_privativa": "89,68m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi n° 777, Vila Brandina, Campinas, SP, CEP: 13.061-083"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "ONE UP INDUSTRIA DE MODA LTDA",
+          "cnpj": "48.047.765/0001-03"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/09/2024",
+        "data_final": "14/09/2029",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 23.914,67",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "não especificado",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.139"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "não especificado"
+        },
+        "exclusividade": "No Parque D Pedro Shopping, Campinas, SP"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "23/07/2024",
+      "tipo": "Contrato Original",
+      "numero_documento": "17185",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável e fundo de promoção de 15/09/2024 a 14/12/2024.",
+        "Estabelecimento de cláusulas de exclusividade e raio de atuação.",
+        "Definição de encargos e coeficiente de rateio nas despesas de custeio do shopping."
+      ]
+    }
+  ]
+}

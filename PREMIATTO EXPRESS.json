@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "QUATTRO COMERCIO DE ALIMENTOS E SERVICOS ADMINISTRATIVOS EIRELI",
+    "nome_fantasia": "Premiatto Express",
+    "cnpj": "29.087.450/0001-45",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "clecius.ricardo.crp@gmail.com",
+      "telefone": "99884-5404"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "SUC 21-11",
+      "objeto": {
+        "loja": "Premiatto Express",
+        "quadra": "SUC 21-14",
+        "piso": "3",
+        "area_privativa": "55,5300 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "QUATTRO COMERCIO DE ALIMENTOS E SERVICOS ADMINISTRATIVOS EIRELI",
+          "cnpj": "29.087.450/0001-45"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/10/2017",
+        "data_final": "14/10/2022",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "961,00"
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiador: Emanuel Silvano Pacchini",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato",
+      "numero_aditamento": "SUC 21-11",
+      "data_aditamento": "03/09/2018",
+      "vigencia": {
+        "inicio": "01/09/2018",
+        "fim": ""
+      },
+      "alteracoes": {
+        "locataria": "QUATTRO COMERCIO DE ALIMENTOS E SERVICOS ADMINISTRATIVOS EIRELI",
+        "representante": "CLECIUS RICARDO PACCHINI"
+      },
+      "condicoes_especiais": "Desconto/Carência de 15% no Aluguel Mínimo de 01/04/2022 a 30/06/2022"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "03/09/2018",
+      "tipo": "Aditamento de Contrato",
+      "numero_documento": "SUC 21-11",
+      "principais_alteracoes": [
+        "Alteração do preâmbulo do Quadro Resumo do Contrato de Locação",
+        "Ratificação dos demais termos e cláusulas do contrato em vigor"
+      ]
+    },
+    {
+      "data": "11/05/2022",
+      "tipo": "Comunicação de Desconto",
+      "numero_documento": "",
+      "principais_alteracoes": [
+        "Concessão de desconto/carência de 15% no Aluguel Mínimo de 01/04/2022 a 30/06/2022"
+      ]
+    }
+  ]
+}

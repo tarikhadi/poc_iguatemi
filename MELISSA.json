@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "M.E.S DOMINGUES LTDA.",
+    "nome_fantasia": "MELISSA",
+    "cnpj": "11.769.710/0001-05",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "financeiro@ophicina.com.br",
+      "telefone": "(19) 3957-3900"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "17913",
+      "objeto": {
+        "loja": "02",
+        "quadra": "12",
+        "piso": "1",
+        "area_privativa": "37,50m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "M.E.S DOMINGUES LTDA.",
+          "cnpj": "11.769.710/0001-05"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "16/09/2024",
+        "data_final": "Não especificada",
+        "prazo": "Não especificado"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Não especificado",
+            "indice_reajuste": "Anual",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "Não especificado",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "16/09/2024",
+      "tipo": "Contrato Original",
+      "numero_documento": "17913",
+      "principais_alteracoes": [
+        "Concedida carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção de 15/10/2024 até 29/11/2024.",
+        "Estabelecido que os reajustes contratuais não sofrerão alterações devido à carência.",
+        "Multa diária de 10% do aluguel mínimo mensal reajustável em caso de funcionamento de mais de uma loja 'MELISSA' sem autorização."
+      ]
+    }
+  ]
+}

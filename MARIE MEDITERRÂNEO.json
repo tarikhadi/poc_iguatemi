@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "Marie Mediterraneo",
+    "nome_fantasia": "Marie Mediterrâneo",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": ""
+    },
+    "contato": {
+      "email": "carloseduardofasano@gmail.com",
+      "telefone": "(61) 983440900"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "2006431",
+      "objeto": {
+        "loja": "106",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": ""
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping",
+          "cnpj": "",
+          "administradora": {
+            "nome": "",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "Marie Mediterraneo",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01.06.2024",
+        "data_final": "31.05.2029",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 70.000,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "5,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não aplicável"
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No Parque Dom Pedro Shopping, Campinas - SP"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "07/03/2024",
+      "tipo": "Resumo Nova Locação",
+      "numero_documento": "39018",
+      "principais_alteracoes": [
+        "Aprovação de nova locação para Marie Mediterrâneo",
+        "Payback médio de 27 meses"
+      ]
+    }
+  ]
+}

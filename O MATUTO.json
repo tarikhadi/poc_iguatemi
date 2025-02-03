@@ -1,0 +1,166 @@
+{
+  "loja": {
+    "razao_social": "MTO FRANQUIAS E ADMINISTRACAO DE NEGOCIOS LTDA",
+    "nome_fantasia": "O MATUTO",
+    "cnpj": "20.902.629/0001-34",
+    "endereco": {
+      "logradouro": "Rua Clodomiro Franco de Andrade Junior",
+      "numero": "501",
+      "bairro": "Jardim Leonor",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13041-081"
+    },
+    "contato": {
+      "email": "contato@omatuto.com.br",
+      "telefone": "(19) 3231-5548"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "17340",
+      "objeto": {
+        "loja": "24-09",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "45,24 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP, CEP: 13.092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "MTO FRANQUIAS E ADMINISTRACAO DE NEGOCIOS LTDA",
+          "cnpj": "20.902.629/0001-34"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/11/2019",
+        "data_final": "31/10/2024",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "79,73",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "690,00"
+          },
+          "fundo_promocao": {
+            "percentual": "0,00",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não Aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não especificado",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "A locatária não pode abrir outro estabelecimento com o mesmo ramo dentro do raio especificado."
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0767-19",
+      "data_aditamento": "26/11/2019",
+      "vigencia": {
+        "inicio": "26/11/2019",
+        "fim": "31/10/2024"
+      },
+      "alteracoes": {
+        "denominacao_loja": "O MATUTO CHURRASCARIA EXPRESSA"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato de locação em vigor."
+    },
+    {
+      "tipo": "Aditamento de Co-Participação",
+      "numero_aditamento": "0173-21",
+      "data_aditamento": "11/05/2021",
+      "vigencia": {
+        "inicio": "11/05/2021",
+        "fim": "31/10/2024"
+      },
+      "alteracoes": {
+        "parcelamento_co_participacao": {
+          "parcelas": [
+            {
+              "data": "15/11/2019",
+              "valor": "21.432,00"
+            },
+            {
+              "data": "15/12/2019",
+              "valor": "7.144,00"
+            },
+            {
+              "data": "15/01/2020",
+              "valor": "7.144,00"
+            },
+            {
+              "data": "15/03/2020",
+              "valor": "7.144,00"
+            },
+            {
+              "data": "15/07/2021",
+              "valor": "7.144,00"
+            },
+            {
+              "data": "15/09/2021",
+              "valor": "7.144,00"
+            }
+          ]
+        }
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do Instrumento de Co-Participação."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "17/09/2019",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "3425",
+      "principais_alteracoes": [
+        "Início da locação em 01/11/2019",
+        "Denominação da loja como O MATUTO"
+      ]
+    },
+    {
+      "data": "26/11/2019",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "0767-19",
+      "principais_alteracoes": [
+        "Alteração da denominação da loja para O MATUTO CHURRASCARIA EXPRESSA"
+      ]
+    },
+    {
+      "data": "11/05/2021",
+      "tipo": "Aditamento de Co-Participação",
+      "numero_documento": "0173-21",
+      "principais_alteracoes": [
+        "Alteração no parcelamento do valor de Co-Participação"
+      ]
+    }
+  ]
+}

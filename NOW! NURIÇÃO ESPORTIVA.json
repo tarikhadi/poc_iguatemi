@@ -1,0 +1,126 @@
+{
+  "loja": {
+    "razao_social": "Antonio Diniz de Holanda - ME",
+    "nome_fantasia": "NOW! NUTRICAO ESPORTIVA",
+    "cnpj": "11.467.185/0001-65",
+    "endereco": {
+      "logradouro": "Avenida Aricanduva",
+      "numero": "5555",
+      "bairro": "",
+      "cidade": "Sao Paulo",
+      "estado": "SP",
+      "cep": "03527900"
+    },
+    "contato": {
+      "email": "diniz.suple@hotmail.com",
+      "telefone": "11-96180-6155"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "332-16",
+      "objeto": {
+        "loja": "212",
+        "quadra": "",
+        "piso": "2° Piso",
+        "area_privativa": "44,73 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Antonio Diniz de Holanda - ME",
+          "cnpj": "11.467.185/0001-65"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/06/2016",
+        "data_final": "31/05/2021",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "8.051,40",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "2.016,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Contrato sem fiador.",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 m",
+          "vigencia": "Durante a vigência do contrato"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação e Outras Avenças",
+      "numero_aditamento": "288-16",
+      "data_aditamento": "11/07/2016",
+      "vigencia": {
+        "inicio": "01/06/2016",
+        "fim": "31/05/2021"
+      },
+      "alteracoes": {
+        "CRD": "568"
+      },
+      "condicoes_especiais": "Ratificação dos demais termos do contrato original."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "30/03/2016",
+      "tipo": "Contrato Original",
+      "numero_documento": "332-16",
+      "principais_alteracoes": [
+        "Estabelecimento do contrato de locação inicial."
+      ]
+    },
+    {
+      "data": "11/07/2016",
+      "tipo": "Aditamento",
+      "numero_documento": "288-16",
+      "principais_alteracoes": [
+        "Alteração do Coeficiente de Rateio de Despesas (CRD) para 568."
+      ]
+    },
+    {
+      "data": "18/11/2020",
+      "tipo": "Distrato",
+      "numero_documento": "8679",
+      "principais_alteracoes": [
+        "Rescisão do contrato de locação.",
+        "Confissão de dívida e parcelamento acordado."
+      ]
+    }
+  ]
+}

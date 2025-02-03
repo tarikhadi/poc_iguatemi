@@ -1,0 +1,97 @@
+{
+  "loja": {
+    "razao_social": "NNF Comercial - EIRELI",
+    "nome_fantasia": "PAOLA DA VINCI",
+    "cnpj": "05117549000184",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092902"
+    },
+    "contato": {
+      "email": "marcelo@paoladavinci.com.br",
+      "telefone": "1132248719"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "2162",
+      "objeto": {
+        "loja": "04",
+        "quadra": "02",
+        "piso": "2",
+        "area_privativa": "75,00m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "NNF Comercial EIRELI",
+          "cnpj": "05.117.549/0001-84"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/08/2020",
+        "data_final": "14/08/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "Corrigir até o início da locação",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "24KVA"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Fiança de Marcelo Frajzinger e Rosana Chamlian Frajzinger",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Até 14/08/2025"
+        },
+        "exclusividade": "Exclusividade no Shopping Center Parque Dom Pedro até 14/08/2025"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "28/07/2020",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "2162",
+      "principais_alteracoes": [
+        "Início de vigência em 15/08/2020",
+        "Fim de vigência em 14/08/2025",
+        "Carência no pagamento do aluguel mínimo mensal de 15/08/2020 a 13/10/2020"
+      ]
+    }
+  ]
+}

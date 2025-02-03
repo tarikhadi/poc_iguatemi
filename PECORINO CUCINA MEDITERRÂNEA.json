@@ -1,0 +1,132 @@
+{
+  "loja": {
+    "razao_social": "PIC RESTAURANTE LTDA",
+    "nome_fantasia": "PECORINO CUCINA MEDITERRANEA",
+    "cnpj": "37.632.351/0001-25",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "rd_alves@hotmail.com",
+      "telefone": "(11) 97541-3070"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "4598",
+      "objeto": {
+        "loja": "03A",
+        "quadra": "17",
+        "piso": "1",
+        "area_privativa": "237,91 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Empresa de Shopping Centers S/A",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PIC RESTAURANTE LTDA",
+          "cnpj": "37.632.351/0001-25"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/01/2020",
+        "data_final": "31/12/2024",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 1.000,00",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "não especificado",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "não especificado",
+            "periodo": "não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 m",
+          "vigencia": "até 31/12/2024"
+        },
+        "exclusividade": "Exclusividade no Shopping Center Parque Dom Pedro até 31/12/2024"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Constituição de Empresa",
+      "numero_aditamento": "406-20",
+      "data_aditamento": "01/10/2020",
+      "vigencia": {
+        "inicio": "01/10/2020",
+        "fim": "31/12/2024"
+      },
+      "alteracoes": {
+        "locataria": {
+          "nome": "PIC RESTAURANTE LTDA",
+          "cnpj": "37.632.351/0001-25"
+        }
+      },
+      "condicoes_especiais": "Desconto comercial de 4,20% a 6,20% em contribuição mínima"
+    },
+    {
+      "tipo": "Aditamento de Vigência",
+      "numero_aditamento": "16132-42916",
+      "data_aditamento": "28/05/2024",
+      "vigencia": {
+        "inicio": "01/01/2020",
+        "fim": "31/12/2024"
+      },
+      "alteracoes": {},
+      "condicoes_especiais": "Ratificação das condições contratuais vigentes"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "01/10/2020",
+      "tipo": "Aditamento de Constituição de Empresa",
+      "numero_documento": "406-20",
+      "principais_alteracoes": [
+        "Alteração da locatária para PIC RESTAURANTE LTDA",
+        "Aplicação de desconto comercial na contribuição mínima"
+      ]
+    },
+    {
+      "data": "28/05/2024",
+      "tipo": "Aditamento de Vigência",
+      "numero_documento": "16132-42916",
+      "principais_alteracoes": [
+        "Ratificação das condições contratuais vigentes"
+      ]
+    }
+  ]
+}
