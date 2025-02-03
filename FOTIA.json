@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Fotia",
+    "nome_fantasia": "Fotia",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Edson",
+      "numero": "981",
+      "bairro": "Campo Belo",
+      "cidade": "Sao Paulo",
+      "estado": "SP",
+      "cep": "04618-034"
+    },
+    "contato": {
+      "email": "rh.myk@outlook.com",
+      "telefone": "11 97112 6121"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "34065",
+      "objeto": {
+        "loja": "106",
+        "quadra": "SUC",
+        "piso": "1",
+        "area_privativa": "301,26 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Mauricio Machado Fonseca",
+          "cnpj": "806.726.638-72"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2022",
+        "data_final": "31/03/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto e Inauguração",
+      "numero_aditamento": "11516",
+      "data_aditamento": "23/05/2023",
+      "vigencia": {
+        "inicio": "01/04/2022",
+        "fim": "14/03/2023"
+      },
+      "alteracoes": {
+        "data_inauguracao": "até 15/03/2023",
+        "carencia": "01/04/2022 até 14/03/2023"
+      },
+      "condicoes_especiais": "Carência no pagamento da contribuição mínima mensal reajustável para conclusão de obras/reformas."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "11/08/2023",
+      "tipo": "Distrato",
+      "numero_documento": "34065",
+      "principais_alteracoes": [
+        "Rescisão do contrato de locação."
+      ]
+    },
+    {
+      "data": "23/05/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "11516",
+      "principais_alteracoes": [
+        "Alteração da data de inauguração para até 15/03/2023.",
+        "Concessão de carência no pagamento da contribuição mínima mensal reajustável de 01/04/2022 até 14/03/2023."
+      ]
+    }
+  ]
+}

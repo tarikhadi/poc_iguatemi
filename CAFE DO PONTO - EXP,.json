@@ -1,0 +1,130 @@
+{
+  "loja": {
+    "razao_social": "PEDRO GUALBERTO NOGUEIRA FILHO - EPP",
+    "nome_fantasia": "CAFÉ DO PONTO",
+    "cnpj": "05.020.295/0001-81",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "pedrogualberto@uol.com.br",
+      "telefone": "19 9779-2559"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "15082012",
+      "objeto": {
+        "loja": "05",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "50,25 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PEDRO GUALBERTO NOGUEIRA FILHO - EPP",
+          "cnpj": "05.020.295/0001-81"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2013",
+        "data_final": "31/03/2018",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 8.198,30",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "779"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não aplicável",
+          "vigencia": "Não aplicável"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato",
+      "numero_aditamento": "08032016",
+      "data_aditamento": "15/03/2016",
+      "vigencia": {
+        "inicio": "01/04/2013",
+        "fim": "31/03/2018"
+      },
+      "alteracoes": {
+        "reforma": "Prorrogada para 31/10/2016"
+      },
+      "condicoes_especiais": "Carência de 31 dias no aluguel mínimo mensal reajustável para reforma"
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "20092023",
+      "data_aditamento": "20/09/2023",
+      "vigencia": {
+        "inicio": "01/09/2022",
+        "fim": "30/11/2022"
+      },
+      "alteracoes": {
+        "desconto": "30% no aluguel mínimo mensal reajustável"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "15/03/2016",
+      "tipo": "Aditamento de Contrato",
+      "numero_documento": "08032016",
+      "principais_alteracoes": [
+        "Prorrogação da data da reforma para 31/10/2016"
+      ]
+    },
+    {
+      "data": "20/09/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "20092023",
+      "principais_alteracoes": [
+        "Concessão de 30% de desconto no aluguel mínimo mensal reajustável"
+      ]
+    }
+  ]
+}

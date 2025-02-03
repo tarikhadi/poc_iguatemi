@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "CALGADOS NOVA RIBEIRANIA RP EIRELI",
+    "nome_fantasia": "DEMOCRATA",
+    "cnpj": "28.432.380/0002-33",
+    "endereco": {
+      "logradouro": "Av. Presidente Kennedy",
+      "numero": "1500",
+      "bairro": "",
+      "cidade": "Ribeirao Preto",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "democrata.adm@originalcalcados.com.br",
+      "telefone": "(16) 3620-4276"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "17567",
+      "objeto": {
+        "loja": "19",
+        "quadra": "03",
+        "piso": "2°",
+        "area_privativa": "50,00m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA.",
+            "cnpj": ""
+          }
+        },
+        "locataria": {
+          "nome": "CALGADOS NOVA RIBEIRANIA RP EIRELI",
+          "cnpj": "28.432.380/0002-33"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/10/2024",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "21/08/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "17567",
+      "principais_alteracoes": [
+        "Carência no pagamento do aluguel mínimo mensal reajustável de 01/10/2024 até 30/11/2024.",
+        "Alteração da Cláusula 22 sobre cessão ou transferência."
+      ]
+    }
+  ]
+}

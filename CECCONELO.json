@@ -1,0 +1,125 @@
+{
+  "loja": {
+    "razao_social": "CRS BRANDS BOUTIQUE LTDA",
+    "nome_fantasia": "CECCONELLO",
+    "cnpj": "51.676.879/0001-27",
+    "endereco": {
+      "logradouro": "Av. Coronel Fernando Ferreira Leite",
+      "numero": "1540",
+      "bairro": "Jardim California",
+      "cidade": "Ribeirao Preto",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "diretoria@santy.com.br",
+      "telefone": "(16) 99975-9009"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "14492",
+      "objeto": {
+        "loja": "06B",
+        "quadra": "02",
+        "piso": "2",
+        "area_privativa": "37,50m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas, SP, CEP 13.092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "CRS BRANDS BOUTIQUE LTDA",
+          "cnpj": "51.676.879/0001-27"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/06/2024",
+        "data_final": "31/05/2029",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "01/06/2024 a 31/05/2029"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Comercialização de calçados femininos, exclusivos da marca Cecconello, e acessórios limitados a 20% do mix de produtos."
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "40841",
+      "data_aditamento": "16/02/2024",
+      "vigencia": {
+        "inicio": "01/06/2024",
+        "fim": "31/05/2029"
+      },
+      "alteracoes": {
+        "vigencia": {
+          "nova_data_inicial": "01/06/2024",
+          "nova_data_final": "31/05/2029"
+        },
+        "carencia": {
+          "inicio": "01/06/2024",
+          "fim": "31/08/2024"
+        }
+      },
+      "condicoes_especiais": "Carência no pagamento do aluguel mínimo mensal reajustável e encargos durante o período de obras."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "16/02/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "14492",
+      "principais_alteracoes": [
+        "Estabelecimento de carência no pagamento do aluguel e encargos de 01/06/2024 a 31/08/2024.",
+        "Alteração das cláusulas 11 e 22 do contrato original."
+      ]
+    },
+    {
+      "data": "16/02/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "40841",
+      "principais_alteracoes": [
+        "Ajuste de vigência do contrato de locação para 01/06/2024 a 31/05/2029."
+      ]
+    }
+  ]
+}

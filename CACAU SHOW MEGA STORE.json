@@ -1,0 +1,96 @@
+{
+  "loja": {
+    "razao_social": "ASSB COMERCIO VAREJISTA DE DOCES LTDA",
+    "nome_fantasia": "CACAU SHOW MEGA STORE",
+    "cnpj": "17611014000144",
+    "endereco": {
+      "logradouro": "Estrada Antiga de Itu",
+      "numero": "140",
+      "bairro": "Estancia de Sao Francisco",
+      "cidade": "Itapevi",
+      "estado": "SP",
+      "cep": "06695-570"
+    },
+    "contato": {
+      "email": "luis.moreira@cacaushow.com.br",
+      "telefone": "01141449800"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "050819",
+      "objeto": {
+        "loja": "107",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "370,23 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ASSB COMERCIO VAREJISTA DE DOCES LTDA",
+          "cnpj": "17.611.014/0001-44"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "12/08/2019",
+        "data_final": "11/08/2024",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "79,73",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.517,00"
+          },
+          "fundo_promocao": {
+            "percentual": "10,00%",
+            "periodo": "12/08/2024 a 11/08/2029"
+          }
+        }
+      },
+      "garantias": "Fiadores: Alexandre Tadeu da Costa e Angela Aparecida Sandes da Costa",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "05/08/2019",
+      "tipo": "Contrato Original",
+      "numero_documento": "050819",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção de 12/08/2019 a 09/12/2019.",
+        "Isenção do pagamento das taxas de coparticipação no início da locação."
+      ]
+    }
+  ]
+}

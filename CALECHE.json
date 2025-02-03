@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "MELILLO'S BOUTIQUE LTDA",
+    "nome_fantasia": "CALECHE",
+    "cnpj": "68.879.865/0006-18",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "central@suil.com.br",
+      "telefone": "11 3884-9995"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação de Depósito",
+      "numero_contrato": "1054/16",
+      "objeto": {
+        "loja": "DEP 01",
+        "quadra": "",
+        "piso": "1",
+        "area_privativa": "21,25 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "MELILLO'S BOUTIQUE LTDA",
+          "cnpj": "68.879.865/0006-18"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "02/01/2017",
+        "data_final": "04/02/2017",
+        "prazo": "1 mês e 3 dias"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 2.000,00",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "0,00"
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiadores: José Luis Teixeira de Freitas e Ana Maria Melillo de Freitas",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não tem",
+          "vigencia": ""
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "0562/19",
+      "data_aditamento": "27/08/2019",
+      "vigencia": {
+        "inicio": "01/09/2019",
+        "fim": "14/10/2021"
+      },
+      "alteracoes": {
+        "clausulas_aditadas": "Alteração de cláusulas não especificadas"
+      },
+      "condicoes_especiais": ""
+    },
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "159/15",
+      "data_aditamento": "16/03/2015",
+      "vigencia": {
+        "inicio": "15/10/2011",
+        "fim": "14/10/2016"
+      },
+      "alteracoes": {
+        "prorrogacao_reforma": "Prorrogação do prazo de reforma de 30/11/2015 para até 30/04/2017"
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "22/11/2016",
+      "tipo": "Criação de Resumo",
+      "numero_documento": "1054/16",
+      "principais_alteracoes": [
+        "Criação do resumo de locação"
+      ]
+    },
+    {
+      "data": "28/03/2016",
+      "tipo": "Criação de Resumo",
+      "numero_documento": "0230/16",
+      "principais_alteracoes": [
+        "Criação do resumo de locação"
+      ]
+    },
+    {
+      "data": "31/01/2017",
+      "tipo": "Envio para Validação",
+      "numero_documento": "1054/16",
+      "principais_alteracoes": [
+        "Envio para validação do contrato"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "loja": {
+    "razao_social": "Lucas Dallaqua de Oliveira Comercio de Roupas EPP",
+    "nome_fantasia": "Guaili",
+    "cnpj": "18.956.642/0001-24",
+    "endereco": {
+      "logradouro": "Rua 7 de Setembro",
+      "numero": "454, Sala 2",
+      "bairro": "",
+      "cidade": "Americana",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "financeiro@guaili.com.br",
+      "telefone": "(19) 98103-4892"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "4594-21",
+      "objeto": {
+        "loja": "241",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "61,01m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Lucas Dallaqua de Oliveira Comercio de Roupas EPP",
+          "cnpj": "18.956.642/0001-24"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "20/09/2021",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "775"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "05/10/2021 a 04/10/2025"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": ""
+        },
+        "exclusividade": "No Parque Dom Pedro Shopping, Av. Guilherme Campos 500, Jardim Santa Genebra, Campinas, SP, CEP 13087-635"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento Contrato Locação",
+      "numero_aditamento": "16488",
+      "data_aditamento": "14/01/2022",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {},
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "20/09/2021",
+      "tipo": "Contrato Original",
+      "numero_documento": "4594-21",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel mínimo mensal reajustável de 05/10/2021 até 04/12/2021.",
+        "Estabelecimento de exclusividade no Parque Dom Pedro Shopping.",
+        "Definição de raio de 3.000m para instalação de outras lojas."
+      ]
+    },
+    {
+      "data": "14/01/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "16488",
+      "principais_alteracoes": []
+    }
+  ]
+}

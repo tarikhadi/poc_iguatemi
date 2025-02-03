@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "BEST OPTION VIAGENS E TURISMO LTDA",
+    "nome_fantasia": "BE FLY",
+    "cnpj": "14.202.473/0001-86",
+    "endereco": {
+      "logradouro": "Alameda Campinas",
+      "numero": "7010",
+      "bairro": "Paulista Star Setor Pte. Flytour Viagens",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01404-200"
+    },
+    "contato": {
+      "email": "departamento.fiscal@flytour.com.br",
+      "telefone": "(11) 4502-2471"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "12650",
+      "objeto": {
+        "loja": "239",
+        "quadra": "",
+        "piso": "2°",
+        "area_privativa": "73,48m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Empresa de Shopping Centers S/A",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Best Option Viagens e Turismo Ltda",
+          "cnpj": "14.202.473/0001-86"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "20/08/2023",
+        "data_final": "19/08/2027",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "18.002,60",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "2,05%",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "735,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "20/08/2023 a 19/08/2027"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Durante o prazo da locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "48620",
+      "data_aditamento": "10/12/2024",
+      "vigencia": {
+        "inicio": "01/10/2024",
+        "fim": "28/02/2025"
+      },
+      "alteracoes": {
+        "desconto_aluguel": "70% sobre o Aluguel Mínimo Mensal Reajustável"
+      },
+      "condicoes_especiais": "Desconto válido somente se pago pontualmente na data de vencimento."
+    },
+    {
+      "tipo": "Aditamento, Retificação e Ratificação",
+      "numero_aditamento": "13748",
+      "data_aditamento": "22/11/2023",
+      "vigencia": {
+        "inicio": "20/08/2023",
+        "fim": "20/11/2023"
+      },
+      "alteracoes": {
+        "carencia_aluguel": "Carência no pagamento do Aluguel Mínimo Mensal Reajustável"
+      },
+      "condicoes_especiais": "Carência concedida para conclusão de obras/reformas na loja."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "18/08/2023",
+      "tipo": "Contrato Original",
+      "numero_documento": "12650",
+      "principais_alteracoes": [
+        "Estabelecimento do contrato de locação inicial."
+      ]
+    },
+    {
+      "data": "22/11/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "13748",
+      "principais_alteracoes": [
+        "Concessão de carência no pagamento do aluguel de 20/08/2023 a 20/11/2023."
+      ]
+    },
+    {
+      "data": "10/12/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "48620",
+      "principais_alteracoes": [
+        "Concessão de desconto de 70% no aluguel de 01/10/2024 a 28/02/2025."
+      ]
+    }
+  ]
+}

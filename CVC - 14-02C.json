@@ -1,0 +1,117 @@
+{
+  "loja": {
+    "razao_social": "Lopes Viagem e Turismo Ltda",
+    "nome_fantasia": "CVC Viagens",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Higino Rodrigues Garcia",
+      "numero": "380",
+      "bairro": "Jardim Dona Miriam",
+      "cidade": "Itapeva",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "danilo.629@cvc.com.br",
+      "telefone": "(15) 99702-9555"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "SCIC - 15240",
+      "objeto": {
+        "loja": "02/C",
+        "quadra": "14",
+        "piso": "1",
+        "area_privativa": "41,25m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas - SP, CEP 13.092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Danilo Santos Lopes",
+          "cnpj": "336.129.468-11"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "12/03/2024",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "Faturamento bruto da loja"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "SCIC - 15735-41962",
+      "data_aditamento": "26/04/2024",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "constituição_empresa": "Lopes Viagem e Turismo Ltda"
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "12/03/2024",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "SCIC - 15240",
+      "principais_alteracoes": [
+        "Início do contrato de locação para a loja 02/C, quadra 14, piso 1, com área privativa de 41,25m2."
+      ]
+    },
+    {
+      "data": "26/04/2024",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - 15735-41962",
+      "principais_alteracoes": [
+        "Constituição da empresa Lopes Viagem e Turismo Ltda como locatária."
+      ]
+    }
+  ]
+}

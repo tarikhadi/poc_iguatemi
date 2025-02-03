@@ -1,0 +1,115 @@
+{
+  "loja": {
+    "razao_social": "Fabricia Soares Talli",
+    "nome_fantasia": "Bio Mundo",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Cornélio Pires",
+      "numero": "93",
+      "bairro": "Quarto Centenario",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "ceo@oficinarestaurante.com.br",
+      "telefone": "(19) 99810-0708"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avencas",
+      "numero_contrato": "18852",
+      "objeto": {
+        "loja": "09/10",
+        "quadra": "03",
+        "piso": "2",
+        "area_privativa": "61,50 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi 777, Campinas - SP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Fabricia Soares Talli",
+          "cnpj": ""
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/05/2022",
+        "data_final": "30/04/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Aditamento, Retificação e Ratificação de Contrato de Locação e Outras Avencas",
+      "numero_aditamento": "21483",
+      "data_aditamento": "24/06/2022",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {},
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "14/04/2022",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "18852",
+      "principais_alteracoes": [
+        "Estabelecimento do contrato de locação para a loja 09/10, quadra 03, piso 2, no Shopping Center Iguatemi Campinas."
+      ]
+    },
+    {
+      "data": "24/06/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "21483",
+      "principais_alteracoes": [
+        "Ratificação e retificação do contrato de locação."
+      ]
+    }
+  ]
+}

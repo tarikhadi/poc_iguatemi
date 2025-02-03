@@ -1,0 +1,121 @@
+{
+  "loja": {
+    "razao_social": "FOTOPTICA LTDA",
+    "nome_fantasia": "GRANDVISION BY FOTOTICA",
+    "cnpj": "61.077.905/0001-54",
+    "endereco": {
+      "logradouro": "Av. das Nações Unidas",
+      "numero": "10.989",
+      "bairro": "Brooklin Paulista",
+      "cidade": "Sao Paulo",
+      "estado": "SP",
+      "cep": "04578-000"
+    },
+    "contato": {
+      "email": "juridico@grandvision.com.br",
+      "telefone": "11 3175-1400"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "0213-18",
+      "objeto": {
+        "loja": "17-01",
+        "quadra": "17",
+        "piso": "1",
+        "area_privativa": "114,74m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "FOTOTICA LTDA",
+          "cnpj": "61.077.905/0001-54"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/05/2018",
+        "data_final": "30/04/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 28.340,78",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "5%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.320"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Fiança - Superlente Franqueadora Ltda, CNPJ: 13.630.918/0001-66",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento",
+      "numero_aditamento": "12490",
+      "data_aditamento": "16/08/2023",
+      "vigencia": {
+        "inicio": "01/09/2023",
+        "fim": "30/04/2023"
+      },
+      "alteracoes": {
+        "locataria": "SGH BRASIL COMERCIO DE OCULOS LTDA, CNPJ: 13.257.648/0106-67",
+        "fiadora": "SGH BRASIL COMERCIO DE OCULOS LTDA"
+      },
+      "condicoes_especiais": "Mudança de controle para o Grupo EssilorLuxottica em 2021"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "03/04/2018",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "0213-18",
+      "principais_alteracoes": [
+        "Início da vigência em 01/05/2018",
+        "Término da vigência em 30/04/2023",
+        "Aluguel mínimo mensal reajustável de R$ 28.340,78"
+      ]
+    },
+    {
+      "data": "16/08/2023",
+      "tipo": "Aditamento",
+      "numero_documento": "12490",
+      "principais_alteracoes": [
+        "Locatária alterada para SGH BRASIL COMERCIO DE OCULOS LTDA",
+        "Fiadora alterada para SGH BRASIL COMERCIO DE OCULOS LTDA"
+      ]
+    }
+  ]
+}

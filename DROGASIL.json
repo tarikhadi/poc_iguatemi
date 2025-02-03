@@ -1,0 +1,95 @@
+{
+  "loja": {
+    "razao_social": "Drogasil S.A.",
+    "nome_fantasia": "Drogasil",
+    "cnpj": "não especificado",
+    "endereco": {
+      "logradouro": "não especificado",
+      "numero": "não especificado",
+      "bairro": "não especificado",
+      "cidade": "não especificado",
+      "estado": "não especificado",
+      "cep": "não especificado"
+    },
+    "contato": {
+      "email": "não especificado",
+      "telefone": "não especificado"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Nova Locação",
+      "numero_contrato": "5504",
+      "objeto": {
+        "loja": "Drogasil",
+        "quadra": "não especificado",
+        "piso": "não especificado",
+        "area_privativa": "não especificado",
+        "localizacao": {
+          "shopping": "Iguatemi",
+          "endereco": "não especificado"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "não especificado",
+          "cnpj": "não especificado",
+          "administradora": {
+            "nome": "não especificado",
+            "cnpj": "não especificado"
+          }
+        },
+        "locataria": {
+          "nome": "Drogasil S.A.",
+          "cnpj": "não especificado"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "13/02/2020",
+        "data_final": "não especificado",
+        "prazo": "não especificado"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "não especificado",
+            "indice_reajuste": "não especificado",
+            "periodicidade_reajuste": "não especificado"
+          },
+          "percentual": {
+            "percentual": "não especificado",
+            "base_calculo": "não especificado"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "não especificado",
+            "periodo": "não especificado"
+          }
+        }
+      },
+      "garantias": "não especificado",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "não especificado",
+          "vigencia": "não especificado"
+        },
+        "exclusividade": "não especificado"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "14/05/2020",
+      "tipo": "Rescisão",
+      "numero_documento": "10000847 / 10000625",
+      "principais_alteracoes": [
+        "Rescisão dos contratos SUC's 204/205"
+      ]
+    }
+  ]
+}

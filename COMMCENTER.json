@@ -1,0 +1,150 @@
+{
+  "loja": {
+    "razao_social": "VMT Telecomunicacoes Ltda",
+    "nome_fantasia": "COMMCENTER",
+    "cnpj": "05.828.732/0066-33",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "rangelucci@uol.com.br",
+      "telefone": "1133044986"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "032019",
+      "objeto": {
+        "loja": "25",
+        "quadra": "12",
+        "piso": "1",
+        "area_privativa": "140,62 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "51.218.147/0001-93",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "VMT Telecomunicacoes Ltda",
+          "cnpj": "05.828.732/0066-33"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/06/2019",
+        "data_final": "31/05/2024",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "22.499,20",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "5%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "1.617,00"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiadora: Mara Lucia Turra",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 m",
+          "vigencia": "Durante o prazo da locação"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "41789",
+      "data_aditamento": "18/04/2024",
+      "vigencia": {
+        "inicio": "01/06/2019",
+        "fim": "31/08/2024"
+      },
+      "alteracoes": {
+        "prazo": "5 anos e 3 meses",
+        "valor_aluguel": "119,79"
+      },
+      "condicoes_especiais": "Alteração em vigor a partir de 21/02/2024"
+    },
+    {
+      "tipo": "Aditamento de Co-Participação",
+      "numero_aditamento": "RSCICO219/20",
+      "data_aditamento": "12/06/2020",
+      "vigencia": {
+        "inicio": "01/06/2019",
+        "fim": "31/05/2024"
+      },
+      "alteracoes": {
+        "valor_co_participacao": "246.085,00",
+        "forma_pagamento": "Parcelas mensais de 6.835,69"
+      },
+      "condicoes_especiais": "Retificação e aditamento do contrato de co-participação"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "20/03/2019",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "032019",
+      "principais_alteracoes": [
+        "Início da locação em 01/06/2019",
+        "Prazo de 5 anos"
+      ]
+    },
+    {
+      "data": "30/07/2019",
+      "tipo": "Aditamento de Co-Participação",
+      "numero_documento": "RSCIGO506/19",
+      "principais_alteracoes": [
+        "Retificação e aditamento do contrato de co-participação"
+      ]
+    },
+    {
+      "data": "12/06/2020",
+      "tipo": "Aditamento de Co-Participação",
+      "numero_documento": "RSCICO219/20",
+      "principais_alteracoes": [
+        "Valor da co-participação ajustado para 246.085,00"
+      ]
+    },
+    {
+      "data": "18/04/2024",
+      "tipo": "Aditamento de Locação",
+      "numero_documento": "41789",
+      "principais_alteracoes": [
+        "Prazo do contrato estendido para 5 anos e 3 meses",
+        "Valor do aluguel ajustado para 119,79"
+      ]
+    }
+  ]
+}

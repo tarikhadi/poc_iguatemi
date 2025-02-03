@@ -1,0 +1,31 @@
+{
+  "loja": {
+    "razao_social": "Drogaria São Paulo S/A",
+    "nome_fantasia": "",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "cep": ""
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "25 de abril de 2024",
+      "tipo": "Decisão Judicial",
+      "numero_documento": "1007577-24.2024.8.26.0114",
+      "principais_alteracoes": [
+        "Fixação de aluguel provisório em 80% do valor atualmente vigente."
+      ]
+    }
+  ]
+}

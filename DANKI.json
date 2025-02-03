@@ -1,0 +1,133 @@
+{
+  "loja": {
+    "razao_social": "Samantha Abrao Abrunhoza",
+    "nome_fantasia": "DANKI",
+    "cnpj": "221.828.078-70",
+    "endereco": {
+      "logradouro": "Avenida Marcos Penteado de Ulhoa Rodrigues",
+      "numero": "3566",
+      "bairro": "Santana de Parnaiba",
+      "cidade": "Santana de Parnaiba",
+      "estado": "SP",
+      "cep": "06460-040"
+    },
+    "contato": {
+      "email": "",
+      "telefone": "11 4195-6363"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "3012901",
+      "objeto": {
+        "loja": "DANKI",
+        "quadra": "02-20",
+        "piso": "2° Piso",
+        "area_privativa": "37,50 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "Iguatemi Empresa de Shopping Centers S/A",
+            "cnpj": "51.218.147/0001-93"
+          }
+        },
+        "locataria": {
+          "nome": "KIFOOT COMERCIO DE CALGADOS LTDA",
+          "cnpj": "38.241.883/0001-02"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/08/2020",
+        "data_final": "31/07/2025",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "476,00"
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento Constituição Empresa",
+      "numero_aditamento": "473-20",
+      "data_aditamento": "28/10/2020",
+      "vigencia": {
+        "inicio": "01/11/2020",
+        "fim": "31/07/2025"
+      },
+      "alteracoes": {
+        "locataria": "KIFOOT COMERCIO DE CALGADOS LTDA",
+        "cnpj_locataria": "38.241.883/0001-02",
+        "representante": "Lidia Cristina Pinto Soares de Castro"
+      },
+      "condicoes_especiais": "Alteração do preâmbulo do contrato devido à regularização da locatária como pessoa jurídica."
+    },
+    {
+      "tipo": "Instrumento Particular de Cessão de Direitos e Obrigações",
+      "numero_aditamento": "14393-38372",
+      "data_aditamento": "05/01/2024",
+      "vigencia": {
+        "inicio": "05/01/2024",
+        "fim": "31/07/2025"
+      },
+      "alteracoes": {
+        "cessionaria": "GOMEZ BRASIL COMERCIO DE CALGADOS E ACESSORIOS LTDA",
+        "cnpj_cessionaria": "28.434.072/0009-13"
+      },
+      "condicoes_especiais": "Cessão de direitos e obrigações do contrato de locação."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "01/11/2020",
+      "tipo": "Aditamento",
+      "numero_documento": "473-20",
+      "principais_alteracoes": [
+        "Alteração do preâmbulo do contrato devido à regularização da locatária como pessoa jurídica."
+      ]
+    },
+    {
+      "data": "05/01/2024",
+      "tipo": "Cessão de Direitos e Obrigações",
+      "numero_documento": "14393-38372",
+      "principais_alteracoes": [
+        "Cessão de direitos e obrigações para GOMEZ BRASIL COMERCIO DE CALGADOS E ACESSORIOS LTDA."
+      ]
+    }
+  ]
+}

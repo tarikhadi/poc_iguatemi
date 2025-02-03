@@ -1,0 +1,135 @@
+{
+  "loja": {
+    "razao_social": "PIZZARIA AMARETTO LTDA.",
+    "nome_fantasia": "AMARETTO",
+    "cnpj": "46.896.551/0001-86",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "jefavaretto@hotmail.com",
+      "telefone": "(19)3254-4502"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "1122",
+      "objeto": {
+        "loja": "08",
+        "quadra": "21",
+        "piso": "3",
+        "area_privativa": "417,14 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "PIZZARIA AMARETTO LTDA.",
+          "cnpj": "46.896.551/0001-86"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2006",
+        "data_final": "31/08/2011",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 27.560,98",
+            "indice_reajuste": "IPC-FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "6,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "2.086,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20,00%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Fiança de Maria Luiza Favaretto",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "Não aplicável",
+          "vigencia": "Não aplicável"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Renovação",
+      "numero_aditamento": "169-06",
+      "data_aditamento": "25/08/2006",
+      "vigencia": {
+        "inicio": "01/09/2006",
+        "fim": "31/08/2011"
+      },
+      "alteracoes": {
+        "aluguel_percentual": "6,00% do faturamento bruto",
+        "contribuicao_minima_mensal_reajustavel": "R$ 27.560,98"
+      },
+      "condicoes_especiais": "Cláusula de reforma até outubro/2008"
+    },
+    {
+      "tipo": "Aditamento de Renovação",
+      "numero_aditamento": "0581-16",
+      "data_aditamento": "13/07/2016",
+      "vigencia": {
+        "inicio": "01/09/2016",
+        "fim": "31/08/2021"
+      },
+      "alteracoes": {
+        "aluguel_percentual": "6,00% do faturamento bruto",
+        "contribuicao_minima_mensal_reajustavel": "R$ 63.221,00"
+      },
+      "condicoes_especiais": "Reforma da loja até 30/09/2019"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "25/08/2006",
+      "tipo": "Aditamento de Renovação",
+      "numero_documento": "169-06",
+      "principais_alteracoes": [
+        "Renovação do contrato por 5 anos",
+        "Aluguel percentual de 6% do faturamento bruto"
+      ]
+    },
+    {
+      "data": "13/07/2016",
+      "tipo": "Aditamento de Renovação",
+      "numero_documento": "0581-16",
+      "principais_alteracoes": [
+        "Renovação do contrato por 5 anos",
+        "Aluguel percentual de 6% do faturamento bruto",
+        "Reforma da loja até 30/09/2019"
+      ]
+    }
+  ]
+}

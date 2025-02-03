@@ -1,0 +1,118 @@
+{
+  "loja": {
+    "razao_social": "Comercial Malu Enxovais e Presentes Ltda",
+    "nome_fantasia": "Casa Campos",
+    "cnpj": "05.622.917/0001-41",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "luis@casacampos.com.br",
+      "telefone": "(19) 3252-1174"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "10769-29027",
+      "objeto": {
+        "loja": "SUC B",
+        "quadra": "",
+        "piso": "2",
+        "area_privativa": "905,60m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas - SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Comercial Malu Enxovais e Presentes Ltda",
+          "cnpj": "05.622.917/0001-41"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "06/10/2023",
+        "data_final": "05/10/2028",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "118.137,11",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "mensal"
+          },
+          "percentual": {
+            "percentual": "5,50%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "4.528"
+          },
+          "fundo_promocao": {
+            "percentual": "10%",
+            "periodo": "mensal"
+          }
+        }
+      },
+      "garantias": "Fiadora: Leni Terezinha Giudici Campos",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "4000m",
+          "vigencia": ""
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Prorrogação de Vigência",
+      "numero_aditamento": "8453 (24049)",
+      "data_aditamento": "08/09/2022",
+      "vigencia": {
+        "inicio": "01/04/2018",
+        "fim": "05/10/2023"
+      },
+      "alteracoes": {
+        "prazo": "05 anos, 06 meses e 05 dias"
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato original."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "23/03/2023",
+      "tipo": "Renovação de Contrato",
+      "numero_documento": "10769-29027",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais 5 anos.",
+        "Atualização do valor do aluguel mínimo mensal para 118.137,11."
+      ]
+    },
+    {
+      "data": "08/09/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "8453 (24049)",
+      "principais_alteracoes": [
+        "Prorrogação do prazo do contrato até 05/10/2023."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "loja": {
+    "razao_social": "Cinemark Brasil S/A",
+    "nome_fantasia": "Cinemark",
+    "cnpj": "00.779.721/0001-41",
+    "endereco": {
+      "logradouro": "Avenida Doutor Chucri Zaidan",
+      "numero": "920",
+      "bairro": "Vila Cordeiro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04583-110"
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "08062001",
+      "objeto": {
+        "loja": "C2",
+        "quadra": "",
+        "piso": "3",
+        "area_privativa": "3.546,00 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Cinemark Brasil S/A",
+          "cnpj": "00.779.721/0001-41"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "",
+        "data_final": "",
+        "prazo": ""
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "16% da venda de ingressos, 8% da venda de mercadorias",
+            "base_calculo": "Renda derivada de vendas para clientes e convidados"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": "Isenção por 3 meses a partir de 01/02/2022"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "16.03.2022",
+      "data_aditamento": "16/03/2022",
+      "vigencia": {
+        "inicio": "01/02/2022",
+        "fim": "30/04/2022"
+      },
+      "alteracoes": {
+        "fundo_promocao": "Isenção por 3 meses",
+        "contribuicao_percentual": "Mantida sem alterações devido ao desconto"
+      },
+      "condicoes_especiais": "Ratificação dos termos do contrato original"
+    },
+    {
+      "tipo": "Aditamento Alteração Contribuição Percentual",
+      "numero_aditamento": "360-19",
+      "data_aditamento": "27/05/2019",
+      "vigencia": {
+        "inicio": "01/06/2019",
+        "fim": ""
+      },
+      "alteracoes": {
+        "contribuicao_percentual": "16% da venda de ingressos, 8% da venda de mercadorias, apurada e paga trimestralmente"
+      },
+      "condicoes_especiais": ""
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "16/03/2022",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "16.03.2022",
+      "principais_alteracoes": [
+        "Isenção do Fundo de Promoção por 3 meses a partir de 01/02/2022",
+        "Ratificação dos termos do contrato original"
+      ]
+    },
+    {
+      "data": "27/05/2019",
+      "tipo": "Aditamento Alteração Contribuição Percentual",
+      "numero_documento": "360-19",
+      "principais_alteracoes": [
+        "Contribuição Percentual alterada para 16% da venda de ingressos e 8% da venda de mercadorias, apurada e paga trimestralmente"
+      ]
+    }
+  ]
+}

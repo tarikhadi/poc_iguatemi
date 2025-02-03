@@ -1,0 +1,86 @@
+{
+  "loja": {
+    "razao_social": "Marluce da Silva Damasceno",
+    "nome_fantasia": "DECO SKIN",
+    "cnpj": "",
+    "endereco": {
+      "logradouro": "Rua Raquel de Queiroz",
+      "numero": "55",
+      "bairro": "Santa Maria",
+      "cidade": "Osasco",
+      "estado": "SP",
+      "cep": "06149340"
+    },
+    "contato": {
+      "email": "pinhsu@decoskin.com",
+      "telefone": "11999585836"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Nova Locação",
+      "numero_contrato": "8786-20",
+      "objeto": {
+        "loja": "05",
+        "quadra": "12",
+        "piso": "1",
+        "area_privativa": "38,50m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Marluce da Silva Damasceno",
+          "cnpj": "406.050.638-93"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/02/2021",
+        "data_final": "31/01/2026",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "11.550,00",
+            "indice_reajuste": "IGPM - 10/2020",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiador: Hsu Huan Pin, CPF: 218.993.878-38",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": []
+}

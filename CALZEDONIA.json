@@ -1,0 +1,98 @@
+{
+  "loja": {
+    "razao_social": "Sabrina Della Torre Batista",
+    "nome_fantasia": "CALZEDONIA",
+    "cnpj": "368.422.888-51",
+    "endereco": {
+      "logradouro": "Via Assisi",
+      "numero": "105",
+      "bairro": "DA GRAMINHA",
+      "cidade": "LIMEIRA",
+      "estado": "SP",
+      "cep": "13482430"
+    },
+    "contato": {
+      "email": "intimissimipiracicaba@gmail.com",
+      "telefone": "19 98841 5000"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação e Outras Avenças",
+      "numero_contrato": "12627",
+      "objeto": {
+        "loja": "06B",
+        "quadra": "15",
+        "piso": "1",
+        "area_privativa": "48,23m²",
+        "localizacao": {
+          "shopping": "SHOPPING CENTER IGUATEMI CAMPINAS",
+          "endereco": "Avenida Iguatemi, n° 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Iguatemi Campinas",
+          "cnpj": "46.002.176/0001-83",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Sabrina Della Torre Batista",
+          "cnpj": "368.422.888-51"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/09/2021",
+        "data_final": "31/08/2025",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 9.163,70",
+            "indice_reajuste": "IGP-M",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6,00%",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não especificado"
+          },
+          "fundo_promocao": {
+            "percentual": "Não especificado",
+            "periodo": "Não especificado"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3,000 m",
+          "vigencia": "Não especificado"
+        },
+        "exclusividade": "Não tem"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": [
+    {
+      "data": "30/06/2021",
+      "tipo": "Contrato Original",
+      "numero_documento": "12627",
+      "principais_alteracoes": [
+        "Início de vigência em 01/09/2021",
+        "Fim de vigência em 31/08/2025",
+        "Aluguel percentual de 6,00% do faturamento bruto",
+        "Carência no pagamento do aluguel mínimo mensal reajustável de 01/09/2021 até 31/10/2021"
+      ]
+    }
+  ]
+}

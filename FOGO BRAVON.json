@@ -1,0 +1,120 @@
+{
+  "loja": {
+    "razao_social": "FB IGTM CAMPINAS FAST FOOD LTDA",
+    "nome_fantasia": "Fogo Bravon Brazilian Steakhouse",
+    "cnpj": "35.170.674/0001-19",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "jonasfogobravon@gmail.com",
+      "telefone": "11973937770"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "24602",
+      "objeto": {
+        "loja": "07B",
+        "quadra": "21",
+        "piso": "3º",
+        "area_privativa": "113,81 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, nº 777, Vila Brandina, Campinas/SP, CEP 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Jonas Pires Rodrigues Lopes",
+          "cnpj": "288.840.798-10"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "09/10/2019",
+        "data_final": "08/10/2024",
+        "prazo": "60 meses"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "15.364,35",
+            "indice_reajuste": "IGPM",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "1%",
+            "base_calculo": "Faturamento"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "56,50 KVA"
+          },
+          "fundo_promocao": {
+            "percentual": "0%",
+            "periodo": "09/10/2019 a 07/12/2019"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "Indeterminada"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Co-Participação",
+      "numero_aditamento": "306-21",
+      "data_aditamento": "10/08/2021",
+      "vigencia": {
+        "inicio": "15/02/2021",
+        "fim": "08/10/2024"
+      },
+      "alteracoes": {
+        "locataria": "FB IGTM CAMPINAS FAST FOOD LTDA",
+        "valor_co-participacao": "R$ 250.382,00"
+      },
+      "condicoes_especiais": "Regularização da locatária como pessoa jurídica"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "28/09/2022",
+      "tipo": "Distrato",
+      "numero_documento": "0",
+      "principais_alteracoes": [
+        "Encerramento do contrato de locação",
+        "Entrega das chaves em juízo"
+      ]
+    },
+    {
+      "data": "10/08/2021",
+      "tipo": "Aditamento",
+      "numero_documento": "306-21",
+      "principais_alteracoes": [
+        "Alteração da locatária para FB IGTM CAMPINAS FAST FOOD LTDA",
+        "Atualização do valor de co-participação"
+      ]
+    }
+  ]
+}

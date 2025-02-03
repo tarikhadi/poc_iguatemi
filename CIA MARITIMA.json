@@ -1,0 +1,155 @@
+{
+  "loja": {
+    "razao_social": "MJ03 Moda Praia e Acessórios Ltda",
+    "nome_fantasia": "CIA MARITIMA",
+    "cnpj": "07876073000190",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "genevieve@uol.com.br",
+      "telefone": "19 3294 1281"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "0611",
+      "objeto": {
+        "loja": "23",
+        "quadra": "03",
+        "piso": "2",
+        "area_privativa": "75,00 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas/SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "MJ03 Moda Praia e Acessórios Ltda",
+          "cnpj": "07.876.073/0001-90"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/03/2019",
+        "data_final": "29/02/2024",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 11.666,67",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "não especificado",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "953,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20,00%",
+            "periodo": "01/03/2024 a 28/02/2029"
+          }
+        }
+      },
+      "garantias": "Fiança",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "não especificado"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "40960",
+      "data_aditamento": "26/04/2024",
+      "vigencia": {
+        "inicio": "01/03/2024",
+        "fim": "28/02/2029"
+      },
+      "alteracoes": {
+        "aluguel_minimo": {
+          "desconto": "15,00%",
+          "periodo": "01/04/2024 a 31/07/2024"
+        }
+      },
+      "condicoes_especiais": "Não tem"
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "12056",
+      "data_aditamento": "11/07/2023",
+      "vigencia": {
+        "inicio": "01/06/2023",
+        "fim": "31/08/2023"
+      },
+      "alteracoes": {
+        "aluguel_minimo": {
+          "desconto": "15,00%",
+          "impacto": "-R$ 14.322,87"
+        }
+      },
+      "condicoes_especiais": "Não tem"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "27/12/2018",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "0611",
+      "principais_alteracoes": [
+        "Início de vigência: 01/03/2019",
+        "Fim de vigência: 29/02/2024",
+        "Prazo: 5 anos"
+      ]
+    },
+    {
+      "data": "12/05/2022",
+      "tipo": "Aditamento de Exclusividade",
+      "numero_documento": "69030",
+      "principais_alteracoes": [
+        "Exclusividade não aplicável"
+      ]
+    },
+    {
+      "data": "11/07/2023",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "12056",
+      "principais_alteracoes": [
+        "Desconto de 15% no aluguel mínimo de 01/06/2023 a 31/08/2023"
+      ]
+    },
+    {
+      "data": "26/04/2024",
+      "tipo": "Aditamento de Renovação",
+      "numero_documento": "40960",
+      "principais_alteracoes": [
+        "Renovação do contrato de locação por mais 5 anos",
+        "Desconto de 15% no aluguel mínimo de 01/04/2024 a 31/07/2024"
+      ]
+    }
+  ]
+}

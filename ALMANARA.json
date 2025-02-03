@@ -1,0 +1,86 @@
+{
+  "loja": {
+    "razao_social": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
+    "nome_fantasia": "ALMANARA",
+    "cnpj": "60.909.215/0011-23",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "almanara@almanara.com.br",
+      "telefone": "(011) 3082-2211"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "8094",
+      "objeto": {
+        "loja": "22",
+        "quadra": "24",
+        "piso": "3",
+        "area_privativa": "468,37m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
+          "cnpj": "60.909.215/0011-23"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2018",
+        "data_final": "31/03/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 61.533,04",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "6%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Não aplicável"
+          },
+          "fundo_promocao": {
+            "percentual": "R$ 998,02",
+            "periodo": "Reajustado nos mesmos termos do aluguel"
+          }
+        }
+      },
+      "garantias": "Fiadora: Marlene Coury",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000m",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "No Parque Dom Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [],
+  "historico_alteracoes": []
+}

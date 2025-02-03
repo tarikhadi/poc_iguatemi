@@ -1,0 +1,111 @@
+{
+  "loja": {
+    "razao_social": "CRIATIFF INDUSTRIA E COMERCIO DE ROUPAS LTDA",
+    "nome_fantasia": "CRIATIFF",
+    "cnpj": "53.552.881/0021-63",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "criatiff.kiko@terra.com.br",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "RSCIC0568/18",
+      "objeto": {
+        "loja": "20",
+        "quadra": "03",
+        "piso": "2°",
+        "area_privativa": "37,50 m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condominio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "CRIATIFF INDUSTRIA E COMERCIO DE ROUPAS LTDA",
+          "cnpj": "53.552.881/0021-63"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "15/08/2018",
+        "data_final": "14/08/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 17.356,00",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "8%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "476"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": "Não há exclusividade no ramo de comércio"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Instrumento Particular de Distrato de Locação",
+      "numero_aditamento": "11545",
+      "data_aditamento": "25/05/2023",
+      "vigencia": {
+        "inicio": "31/07/2023",
+        "fim": ""
+      },
+      "alteracoes": {
+        "data_distrato": "31/07/2023",
+        "multa_atraso": "R$ 1.000,00 por dia de atraso"
+      },
+      "condicoes_especiais": "Distrato irrevogável e irretratável"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "25/05/2023",
+      "tipo": "Distrato",
+      "numero_documento": "11545",
+      "principais_alteracoes": [
+        "Rescisão do contrato de locação",
+        "Multa de R$ 1.000,00 por dia de atraso na desocupação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "loja": {
+    "razao_social": "Cristiane Pascon Souto Morais - ME",
+    "nome_fantasia": "CROCS",
+    "cnpj": "21.429.883/0002-00",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "crocscampinas@uol.com.br",
+      "telefone": "19 3744-2911"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "N/A",
+      "objeto": {
+        "loja": "220A",
+        "quadra": "N/A",
+        "piso": "2",
+        "area_privativa": "55,61 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Cristiane Pascon Souto Morais - ME",
+          "cnpj": "21.429.883/0002-00"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "30/04/2015",
+        "data_final": "29/04/2019",
+        "prazo": "4 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "N/A",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Anual"
+          },
+          "percentual": {
+            "percentual": "N/A",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "N/A"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Durante a vigência do contrato"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "N/A",
+          "vigencia": "N/A"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "RSCIC1195/16",
+      "data_aditamento": "17/01/2017",
+      "vigencia": {
+        "inicio": "01/01/2017",
+        "fim": "30/04/2017"
+      },
+      "alteracoes": {
+        "desconto_aluguel": "15%"
+      },
+      "condicoes_especiais": "Desconto condicionado ao pagamento das ND's futuras nas datas de vencimento."
+    },
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "RSCIC0871/18",
+      "data_aditamento": "20/12/2018",
+      "vigencia": {
+        "inicio": "01/07/2018",
+        "fim": "30/11/2018"
+      },
+      "alteracoes": {
+        "desconto_aluguel": "50%"
+      },
+      "condicoes_especiais": "Desconto condicionado ao pagamento das ND's futuras nas datas de vencimento."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "14/11/2014",
+      "tipo": "Contrato de Locação",
+      "numero_documento": "N/A",
+      "principais_alteracoes": [
+        "Início do contrato de locação com vigência de 4 anos."
+      ]
+    },
+    {
+      "data": "17/01/2017",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "RSCIC1195/16",
+      "principais_alteracoes": [
+        "Concessão de desconto de 15% no aluguel mínimo mensal reajustável."
+      ]
+    },
+    {
+      "data": "20/12/2018",
+      "tipo": "Aditamento de Desconto",
+      "numero_documento": "RSCIC0871/18",
+      "principais_alteracoes": [
+        "Concessão de desconto de 50% no aluguel mínimo mensal reajustável."
+      ]
+    }
+  ]
+}

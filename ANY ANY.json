@@ -1,0 +1,134 @@
+{
+  "loja": {
+    "razao_social": "Enter Importação, Exportação e Com. de Modas Ltda",
+    "nome_fantasia": "ANY ANY",
+    "cnpj": "09.083.576/0001-34",
+    "endereco": {
+      "logradouro": "Avenida Ibirapuera",
+      "numero": "3103",
+      "bairro": "Campo Belo",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04029-903"
+    },
+    "contato": {
+      "email": "suzi@anyany.com.br",
+      "telefone": "14 5180-2177"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "SCIC_ANY_ANY_Locação_15agosto2022",
+      "objeto": {
+        "loja": "04/06",
+        "quadra": "11",
+        "piso": "1",
+        "area_privativa": "69,35m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas/SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Enter Importação, Exportação e Com. de Modas Ltda",
+          "cnpj": "09.083.576/0003-04"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "05/10/2022",
+        "data_final": "04/10/2027",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "70,49600000",
+            "indice_reajuste": "IGPM-FGV",
+            "periodicidade_reajuste": "anual"
+          },
+          "percentual": {
+            "percentual": "não especificado",
+            "base_calculo": "faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "610,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "05/10/2022 a 04/10/2027"
+          }
+        }
+      },
+      "garantias": "Fiador: Viktor Ljubtschenko",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000m",
+          "vigencia": "durante a locação"
+        },
+        "exclusividade": "Não aplicável"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Locação",
+      "numero_aditamento": "ADIT.RE/RAILOCAGAO",
+      "data_aditamento": "15/09/2022",
+      "vigencia": {
+        "inicio": "17/10/2022",
+        "fim": "16/10/2027"
+      },
+      "alteracoes": {
+        "prazo": "05 anos",
+        "escalonamento_aluguel": "7,14% em 17/10/2024",
+        "fundo_promocao": "20% de 17/10/2022 a 16/10/2027",
+        "carencia": "17/10/2022 a 15/12/2022"
+      },
+      "condicoes_especiais": "Carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção até 15/12/2022."
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "08/05/2017",
+      "tipo": "Renovação",
+      "numero_documento": "RSCIC0316/17",
+      "principais_alteracoes": [
+        "Renovação pelo lojista no prazo.",
+        "Aluguel mínimo mensal reajustável em dezembro: Em dobro.",
+        "Escalonamento no aluguel mínimo mensal reajustável: 3% em 01/09/18 e 3% em 01/09/19."
+      ]
+    },
+    {
+      "data": "20/11/2022",
+      "tipo": "Distrato",
+      "numero_documento": "DISTRATO DE LOCACAO DA LOJA 11-04/06",
+      "principais_alteracoes": [
+        "Distrato da locação a partir de 20/11/2022.",
+        "Isenção de multa resolutória."
+      ]
+    },
+    {
+      "data": "15/09/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "ADIT.RE/RAILOCAGAO",
+      "principais_alteracoes": [
+        "Prazo de locação alterado para 05 anos.",
+        "Escalonamento no aluguel mínimo mensal reajustável: 7,14% em 17/10/2024.",
+        "Fundo de promoção: 20% de 17/10/2022 a 16/10/2027.",
+        "Carência no pagamento do aluguel mínimo mensal reajustável, condomínio e fundo de promoção até 15/12/2022."
+      ]
+    }
+  ]
+}

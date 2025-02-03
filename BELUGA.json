@@ -1,0 +1,119 @@
+{
+  "loja": {
+    "razao_social": "Terri Modas Ltda.",
+    "nome_fantasia": "Beluga",
+    "cnpj": "05.884.091/0001-99",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": ""
+    },
+    "contato": {
+      "email": "",
+      "telefone": ""
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "0458-19",
+      "objeto": {
+        "loja": "06",
+        "quadra": "03",
+        "piso": "2° Piso",
+        "area_privativa": "",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Terri Modas Ltda.",
+          "cnpj": "05.884.091/0001-99"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "11/04/2015",
+        "data_final": "30/06/2023",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 14.440,00",
+            "indice_reajuste": "",
+            "periodicidade_reajuste": ""
+          },
+          "percentual": {
+            "percentual": "",
+            "base_calculo": ""
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": ""
+          },
+          "fundo_promocao": {
+            "percentual": "",
+            "periodo": ""
+          }
+        }
+      },
+      "garantias": "Fiadores: Décio Daher Salomao e Regina Stella Sacco Salomao",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "",
+          "vigencia": ""
+        },
+        "exclusividade": ""
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Contrato de Locação",
+      "numero_aditamento": "0281-21",
+      "data_aditamento": "21/07/2021",
+      "vigencia": {
+        "inicio": "11/04/2015",
+        "fim": "30/06/2023"
+      },
+      "alteracoes": {
+        "aluguel": "Mantido o valor de R$ 14.440,00/mês a partir de abril de 2015",
+        "demais_termos": "Ratificados os demais termos, cláusulas e condições do contrato de locação em vigor"
+      },
+      "condicoes_especiais": "As partes aceitam e concordam com as condições especiais mediante pagamento do boleto na data de vencimento"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "06/06/2019",
+      "tipo": "Renovação Judicial",
+      "numero_documento": "0458-19",
+      "principais_alteracoes": [
+        "Renovação do contrato por mais cinco anos",
+        "Fixação de novo aluguel mensal de R$ 14.440,00 a partir de abril de 2015"
+      ]
+    },
+    {
+      "data": "21/07/2021",
+      "tipo": "Aditamento",
+      "numero_documento": "0281-21",
+      "principais_alteracoes": [
+        "Ratificação dos termos do contrato de locação em vigor"
+      ]
+    }
+  ]
+}

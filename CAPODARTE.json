@@ -1,0 +1,121 @@
+{
+  "loja": {
+    "razao_social": "Guimarossi Comercio, Calçados e Acessorios Ltda - ME",
+    "nome_fantasia": "Capodarte",
+    "cnpj": "08.996.978/0001-67",
+    "endereco": {
+      "logradouro": "Avenida Iguatemi",
+      "numero": "777",
+      "bairro": "Vila Brandina",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "13092-902"
+    },
+    "contato": {
+      "email": "elaine.avila@hotmail.com",
+      "telefone": "16 3635-4457"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Instrumento Particular de Contrato de Locação",
+      "numero_contrato": "21102011",
+      "objeto": {
+        "loja": "10",
+        "quadra": "02",
+        "piso": "02",
+        "area_privativa": "50,00 m²",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Vila Brandina, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - Administradora de Empreendimentos Ltda",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "Guimarossi Comercio, Calçados e Acessorios Ltda - ME",
+          "cnpj": "08.996.978/0001-67"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "01/04/2012",
+        "data_final": "31/03/2017",
+        "prazo": "5 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$ 12.736,20",
+            "indice_reajuste": "IGP-M/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "7%",
+            "base_calculo": "Faturamento bruto"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "635,00"
+          },
+          "fundo_promocao": {
+            "percentual": "20%",
+            "periodo": "Mensal"
+          }
+        }
+      },
+      "garantias": "Fiadores: Elaine Avila de Souza Rossi e Mario Eugênio Rossi",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3000 metros",
+          "vigencia": "Durante a locação"
+        },
+        "exclusividade": "Parque D. Pedro Shopping"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento, Retificação e Ratificação de Contrato de Locação",
+      "numero_aditamento": "RSCIC0825/16",
+      "data_aditamento": "20/09/2016",
+      "vigencia": {
+        "inicio": "01/04/2012",
+        "fim": "31/03/2017"
+      },
+      "alteracoes": {
+        "desconto_aluguel": {
+          "inicio": "01/09/2016",
+          "fim": "30/11/2016",
+          "percentual": "20%"
+        }
+      },
+      "condicoes_especiais": "Desconto condicionado ao pagamento pontual e assinatura do instrumento"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "21/10/2011",
+      "tipo": "Contrato Original",
+      "numero_documento": "21102011",
+      "principais_alteracoes": [
+        "Estabelecimento do contrato de locação inicial"
+      ]
+    },
+    {
+      "data": "20/09/2016",
+      "tipo": "Aditamento",
+      "numero_documento": "RSCIC0825/16",
+      "principais_alteracoes": [
+        "Concessão de desconto de 20% no aluguel mínimo mensal reajustável de 01/09/2016 a 30/11/2016"
+      ]
+    }
+  ]
+}

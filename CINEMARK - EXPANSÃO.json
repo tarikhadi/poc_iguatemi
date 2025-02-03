@@ -1,0 +1,130 @@
+{
+  "loja": {
+    "razao_social": "CINEMARK BRASIL S/A",
+    "nome_fantasia": "CINEMARK PRIME SHOPPING IGUATEMI",
+    "cnpj": "00.779.721/0001-41",
+    "endereco": {
+      "logradouro": "Avenida Doutor Chucri Zaidan",
+      "numero": "920",
+      "bairro": "Vila Cordeiro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04583-904"
+    },
+    "contato": {
+      "email": "aluguel@cinemark.com.br",
+      "telefone": "(11) 5180-2040"
+    }
+  },
+  "contratos": [
+    {
+      "tipo": "Contrato de Locação",
+      "numero_contrato": "12112014",
+      "objeto": {
+        "loja": "300",
+        "quadra": "",
+        "piso": "3",
+        "area_privativa": "1.830,20m2",
+        "localizacao": {
+          "shopping": "Shopping Center Iguatemi Campinas",
+          "endereco": "Avenida Iguatemi, 777, Campinas, SP, CEP: 13092-902"
+        }
+      },
+      "partes": {
+        "locador": {
+          "nome": "CONDOMINIO CIVIL DO SHOPPING CENTER IGUATEMI CAMPINAS",
+          "cnpj": "58.997.354/0001-32",
+          "administradora": {
+            "nome": "AEMP - ADMINISTRADORA DE EMPREENDIMENTOS LTDA.",
+            "cnpj": "03.186.025/0001-10"
+          }
+        },
+        "locataria": {
+          "nome": "CINEMARK BRASIL S/A",
+          "cnpj": "00.779.721/0001-41"
+        }
+      },
+      "vigencia": {
+        "data_inicial": "16/07/2015",
+        "data_final": "15/07/2025",
+        "prazo": "10 anos"
+      },
+      "valores": {
+        "aluguel": {
+          "minimo_mensal": {
+            "valor_inicial": "R$43.924,80",
+            "indice_reajuste": "IPC/FGV",
+            "periodicidade_reajuste": "Mensal"
+          },
+          "percentual": {
+            "percentual": "16%",
+            "base_calculo": "Receita líquida de ingressos e produtos de snack bar"
+          }
+        },
+        "encargos": {
+          "condominio": {
+            "crd": "Incluído na contribuição mínima mensal"
+          },
+          "fundo_promocao": {
+            "percentual": "R$4.394,38 anuais",
+            "periodo": "Anual"
+          }
+        }
+      },
+      "garantias": "Não aplicável",
+      "clausulas_especiais": {
+        "raio": {
+          "distancia": "3.000 metros",
+          "vigencia": "Durante a vigência do contrato"
+        },
+        "exclusividade": "Exclusividade para operação de cinema e venda de pipoca regular no andar do cinema"
+      }
+    }
+  ],
+  "aditamentos": [
+    {
+      "tipo": "Aditamento de Desconto",
+      "numero_aditamento": "263-19",
+      "data_aditamento": "27/05/2019",
+      "vigencia": {
+        "inicio": "01/01/2023",
+        "fim": "31/03/2023"
+      },
+      "alteracoes": {
+        "contribuicao_minima_mensal": "R$18.532,96 para os meses de fevereiro, março e abril de 2022"
+      },
+      "condicoes_especiais": "Descontos concedidos não alteram os reajustes contratuais"
+    },
+    {
+      "tipo": "Aditamento de IPTU",
+      "numero_aditamento": "RSCIC0263/19",
+      "data_aditamento": "27/05/2019",
+      "vigencia": {
+        "inicio": "",
+        "fim": ""
+      },
+      "alteracoes": {
+        "pagamento_iptu": "R$5.631,97 mensais até emissão dos carnês de IPTU"
+      },
+      "condicoes_especiais": "Valor pago de R$240.718,80 não será devolvido até regularização dos carnês"
+    }
+  ],
+  "historico_alteracoes": [
+    {
+      "data": "16/03/2022",
+      "tipo": "Aditamento",
+      "numero_documento": "SCIC - CINEMARK - Aditamento Desconto 25.11.2022",
+      "principais_alteracoes": [
+        "Desconto na contribuição mínima mensal para R$18.532,96 nos meses de fevereiro, março e abril de 2022"
+      ]
+    },
+    {
+      "data": "27/05/2019",
+      "tipo": "Aditamento",
+      "numero_documento": "Cinemark Prime - Aditamento IPTU 263-19 - 27052019",
+      "principais_alteracoes": [
+        "Pagamento mensal de R$5.631,97 referente ao IPTU até emissão dos carnês"
+      ]
+    }
+  ]
+}
