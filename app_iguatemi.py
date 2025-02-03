@@ -16,8 +16,6 @@ import glob
 from datetime import datetime
 from typing import Dict, List, Any
 
-st.write(
-
     
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
