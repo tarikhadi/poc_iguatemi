@@ -16,7 +16,9 @@ import glob
 from datetime import datetime
 from typing import Dict, List, Any
 
+st.write(
 
+    
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
@@ -184,7 +186,7 @@ def main():
     
     # Initialize or get the collection and metadata
     if 'collection' not in st.session_state or 'metadata' not in st.session_state:
-        collection, metadata = load_documents("/Users/tarikhadi/Desktop/contratos_json")
+        collection, metadata = load_documents("contratos_json")
         if collection and metadata:
             st.session_state.collection = collection
             st.session_state.metadata = metadata
