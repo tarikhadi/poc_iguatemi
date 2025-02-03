@@ -2,9 +2,9 @@ __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-# load_dotenv()
+load_dotenv()
 
 import streamlit as st
 import chromadb
@@ -17,9 +17,9 @@ from datetime import datetime
 from typing import Dict, List, Any
 
 
-# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+# OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Initialize OpenAI client
 client = OpenAI(api_key=OPENAI_API_KEY)
