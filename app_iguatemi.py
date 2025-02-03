@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import streamlit as st
 import chromadb
 import json
@@ -7,6 +11,7 @@ from chromadb.utils import embedding_functions
 import glob
 from datetime import datetime
 from typing import Dict, List, Any
+
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Initialize OpenAI client
